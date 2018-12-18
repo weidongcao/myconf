@@ -7,8 +7,11 @@
 {0}bbsc 子树
 {0}bcwf 取值
 {0}bsny 也可以
+<<<<<<< HEAD
 {0}btxw 降维
 {0}bwsy 联合概率
+=======
+>>>>>>> da5a9d3915644857fad0e9db6d49a49ad3f2a40d
 {0}byjg 也就是
 {0}ccce 又能
 {0}ceil ceil
@@ -18,7 +21,6 @@
 {0}ddpy 大神
 {0}dgjg 而不是
 {0}difh 感兴趣
-{0}diih 非常小
 {0}dopg 大数定理
 {0}dorn 大数据
 {0}equa equal
@@ -35,14 +37,10 @@
 {2}g 与
 {0}gaud 开头
 {0}gdqt 天猫
-{0}gdwd 正态分布
-{0}gfov 平均数
 {0}gfqt 玩儿
-{0}gfwf 平均值
 {1}ggsu 不一样
 {1}ggwh 下一个
 {0}ggyn 一遍
-{0}ghdy 正态
 {0}gijg 不是
 {1}giwf 还会
 {0}gixg 不纯
@@ -51,12 +49,14 @@
 {0}guwv 一部分
 {0}gwai 曹伟东
 {0}gxgw 曹纪玲
+<<<<<<< HEAD
 {0}gywc 晋文公
 {0}hrsm 虚拟机
+=======
+>>>>>>> da5a9d3915644857fad0e9db6d49a49ad3f2a40d
 {1}idri 源泉
 {0}idut 没有关系
 {0}ifie 河南省郑州市中牟县
-{0}ihrq 小的
 {0}iili 小小输入法
 {0}inde index
 {0}ipgc 学到
@@ -108,7 +108,6 @@
 {0}pytn python
 {0}qaaa 多项式
 {0}qrwg 欠拟合
-{0}qumd 独立同分布
 {0}rbqa 报错
 {0}rhpf 看完
 {0}rhuj 的瞬间
@@ -118,12 +117,9 @@
 {0}rsyj 拉格朗日
 {0}rujg 的问题
 {0}rwwa 迭代
-{0}sdwy 极大似然估计
 {0}shap shape
 {0}sign sign
 {0}squa square
-{0}suto 相关系数
-{0}suud 标准差
 {0}sygi 梯度下降法
 {0}tayl Taylor
 {1}tayl Taylor公式
@@ -134,7 +130,10 @@
 {0}tgwh 第一个
 {0}thbn 算了
 {1}thgf 牌
+<<<<<<< HEAD
 {1}tmjg 微量
+=======
+>>>>>>> da5a9d3915644857fad0e9db6d49a49ad3f2a40d
 {0}toff 翻墙
 {0}togg toggle
 {1}trtg 牲
