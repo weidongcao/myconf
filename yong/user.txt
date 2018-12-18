@@ -5,7 +5,6 @@
 {0}bahk 子节点
 {0}bbad 子项
 {0}bbsc 子树
-{0}bcod 聚类
 {0}bcwf 取值
 {0}bsny 也可以
 {0}btxw 降维
@@ -110,11 +109,12 @@
 {0}rjwh 的时候
 {0}rjyt 打电话
 {0}rnuk 的情况
+{0}rsyi 拉格朗日乘子法
+{0}rsyj 拉格朗日
 {0}rujg 的问题
 {0}rwwa 迭代
 {0}shap shape
 {0}sign sign
-{0}slyw 配置文件
 {0}squa square
 {0}sygi 梯度下降法
 {0}tayl Taylor
@@ -157,6 +157,7 @@
 {0}wwtf 命令行
 {0}wyfa 邻域
 {0}xcwf 绝对值
+{0}xgbo XGBoost
 {0}xgnt 线性
 {1}xgtk 纯种
 {0}xldd 比较大
