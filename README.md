@@ -4,5 +4,10 @@
 *使用的时候把所有的配置文件pull到一个地方，软件再通过软链接读取*
 Linux下创建软链接的命令：
 ```
-ln -s 源文件路径 目标文件路径
+# 小小输入法配置文件软链接
+
+ln -s /opt/workspace/github/myconf/yong ~/.yong
+
+# Emacs配置文件软链接
+ln -s /opt/workspace/github/myconf/emacs ~/.emacs.d
 ```
