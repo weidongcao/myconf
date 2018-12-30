@@ -16,7 +16,6 @@
 {0}cfrq 对的
 {0}colu column
 {0}copy copy
-{0}d 在
 {2}d 而
 {0}data DataFrame
 {0}ddpy 大神
@@ -69,9 +68,9 @@
 {0}guwv 一部分
 {0}gwai 曹伟东
 {0}gxgw 曹纪玲
-{0}hbov 凸函数
 {0}gytj 不记得
 {0}gywc 晋文公
+{0}hbov 凸函数
 {0}hrsm 虚拟机
 {1}idri 源泉
 {0}idut 没有关系
@@ -139,6 +138,7 @@
 {0}qsya 负梯度
 {0}qumd 独立同分布
 {0}rbqa 报错
+{0}rgga 打不开
 {0}rggo 接下来
 {0}rhpf 看完
 {0}rjkt 的影响
@@ -146,14 +146,14 @@
 {0}rjyt 打电话
 {0}rnsv 所要
 {0}rnuk 的情况
-{0}rqjg 的是
-{0}rrbo 损失函数
-{0}rtrc 的选择
-{0}rtwf 插值
 {0}rqbn 的了
+{0}rqjg 的是
 {0}rqqg 的钱
+{0}rrbo 损失函数
 {0}rsyi 拉格朗日乘子法
 {0}rsyj 拉格朗日
+{0}rtrc 的选择
+{0}rtwf 插值
 {0}rujg 的问题
 {0}rwwa 迭代
 {0}rxjs 的结果
@@ -170,6 +170,7 @@
 {0}sygb 梯度下降
 {0}sygi 梯度下降法
 {0}sywf 梯度值
+{0}tcut 智能音箱
 {0}tddc 乱码
 {0}tfbn 丢了
 {0}tfgh 等下
@@ -192,6 +193,7 @@
 {0}twou 条件熵
 {0}txog 等比数列
 {1}udhf 眷
+{0}ufwh 半个
 {0}ukkg 端口号
 {1}uqsg 酱
 {0}utsc 决策树
@@ -206,7 +208,6 @@
 {0}wnqd 似然
 {0}wqbo 似然函数
 {0}wslm 坐标轴
-{0}wwtf 命令行
 {0}wsya 全概率公式
 {0}wsyx 全概率
 {1}wvpd 侵害
@@ -229,7 +230,6 @@
 {0}yide 就有
 {0}yidh 就在
 {2}yiwf 刘党伟
-{0}yrkg 方括号
 {0}ymym 高高
 {0}ynwt 记作
 {0}ypqk 这句
