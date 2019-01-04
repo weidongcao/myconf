@@ -1,11 +1,13 @@
 (require 'cl)
 
 (when (>= emacs-major-version 24)
+     (require 'package)
+     (package-initialize)
      (setq package-archives '(("gnu"   . "http://elpa.emacs-china.org/gnu/")
 			      ("melpa" . "http://elpa.emacs-china.org/melpa/"))))
 
 ;; add whatever packages you want here
-(defvar weidong/packages '(
+(defvar my/packages '(
 				 company
 				 monokai-theme
 				 hungry-delete
@@ -16,18 +18,18 @@
 				 popwin
 				 ) "Default packages")
 
-(setq package-selected-packages weidong/packages)
+(setq package-selected-packages my/packages)
 
 
-(defun weidong/packages-installed-p ()
-     (loop for pkg in weidong/packages
+(defun my/packages-installed-p ()
+     (loop for pkg in my/packages
            when (not (package-installed-p pkg)) do (return nil)
            finally (return t)))
 
-(unless (weidong/packages-installed-p)
+(unless (my/packages-installed-p)
      (message "%s" "Refreshing package database...")
      (package-refresh-contents)
-     (dolist (pkg weidong/packages)
+     (dolist (pkg my/packages)
        (when (not (package-installed-p pkg))
          (package-install pkg))))
 
@@ -40,6 +42,8 @@
 
 (setq-default TeX-master nil)
 
+
+(require 'smartparens-config)
 ;; (add-hook 'emacs-lisp-mode-hook 'smartparens-mode)
 (smartparens-global-mode t)
 
@@ -47,6 +51,9 @@
 
 (global-company-mode t)
 
+;; color theme
+;;(load-theme 'solarized-dark 1)		
+(load-theme 'monokai t)
 
 (require 'popwin)
 (popwin-mode 1)

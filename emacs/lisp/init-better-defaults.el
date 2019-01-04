@@ -22,6 +22,9 @@
 
 ;; 
 (delete-selection-mode t)
+;; color theme
+''(load-theme 'solarized-dark 1)		
+(load-theme 'monokai t)
 
 
 ;; - turn off splash screen
