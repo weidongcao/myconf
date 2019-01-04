@@ -1,4 +1,5 @@
 {0}agwh 某一个
+{0}aark 蓝牙接收器
 {0}afgg 某一
 {0}aggd 某一天
 {0}aran arange
@@ -61,10 +62,13 @@
 {0}dorn 大数据
 {0}dsce 有可能
 {0}dwtc 有什么
+{0}emac Emacs
 {0}equa equal
+{1}etgc 乃至
 {0}eytt 用户特征
 {0}fakh 截距
 {1}fcth 去处
+{0}fdfv 越大越好
 {0}fgfc 去不去
 {0}fgve 二姐
 {0}fhdd 越大
@@ -88,10 +92,12 @@
 {0}gdrq 正确的
 {0}gdwd 正态分布
 {0}gfcq 不喜欢
+{0}gfky 不干嘛
 {0}gfov 平均数
 {0}gfqt 玩儿
 {0}gfwf 平均值
 {0}ggfg 一二
+{1}ggfn 一场
 {1}ggsu 不一样
 {0}ggtt 开玩笑
 {1}ggwh 下一个
@@ -100,13 +106,16 @@
 {0}ghwg 正例
 {0}ghlk 下架
 {0}ghlt 下图
+{0}ghwg 正例
 {0}gidy 不太
 {0}gifc 不去
 {0}giig 不清
 {0}gijg 不是
+{0}gild 不因
 {0}giny 不小心
 {0}gisv 不要
 {0}giss 不清楚
+{0}gisv 不要
 {1}giwf 还会
 {0}gixg 不纯
 {0}gixw 不给
@@ -130,6 +139,9 @@
 {0}hbov 凸函数
 {0}hhlt 上图
 {0}hiou 上海火车站
+{0}hiya 上海市铜川路1781弄真光新村第七小区41栋502
+{0}hiyn 上海市普陀区中江路879号天地软件园10栋2楼A云辰信息技术有限公司
+{0}hiys 上海市普陀区中江路879号天地软件园10栋2楼A
 {0}hrsm 虚拟机
 {0}iaia 满满
 {1}idri 源泉
@@ -142,6 +154,7 @@
 {0}iily 小小输入法更新个人词
 {0}iirq 满满的
 {0}ijwh 小时候
+{1}imgk 洞
 {0}incf 满心欢喜
 {0}inde index
 {0}inyx 学习率
@@ -158,6 +171,7 @@
 {0}jgwx 归一化
 {0}jhin 监督学习
 {0}jtut 映射关系
+{0}jqrv 易搜
 {0}jurq 最美的
 {0}jvgg 归一
 {0}kafk Kafka
@@ -169,6 +183,7 @@
 {0}khlf 跳转
 {1}kkdk 嚣
 {0}knsg 中心极限定理
+{0}kvsg 哪本
 {0}late LaTeX
 {0}lfgf 黑球
 {0}lflf 转转
@@ -191,7 +206,9 @@
 {0}lwtg 图像处理
 {0}lxsy 边缘概率
 {0}lyjg 因变量
-{0}manj Manjaro
+{0}manj Manjaro-kde
+{1}manj Manjaro-gnome
+{2}manj Manjaro
 {0}mapr Mapreduce
 {0}mapt Matplotlib
 {0}mkad 贝叶斯
@@ -212,6 +229,7 @@
 {0}nsce 尽可能
 {0}nugh 情况下
 {0}nump NumPy
+{0}olsf 火车票
 {0}orrr 数据挖掘
 {0}ortt 数据特征
 {0}orws 数据分析
@@ -237,9 +255,11 @@
 {0}qaaa 多项式
 {0}qarq 错的
 {0}qinu 锁屏
+{0}qmwg 负例
 {0}qrwg 欠拟合
 {0}qsnt 鲁棒性
 {0}qsya 负梯度
+{0}qtqa 猜错
 {0}qumd 独立同分布
 {0}qybm 留出
 {0}rbqa 报错
@@ -270,6 +290,7 @@
 {0}rtrc 的选择
 {0}rtwf 插值
 {0}rujg 的问题
+{0}rwsf 抢票
 {0}rwth 的信息
 {0}rwwa 迭代
 {0}rxjs 的结果
@@ -279,6 +300,7 @@
 {1}sfiy 瓢
 {0}sewf 极值
 {0}sgqd 要不然
+{0}sgsv 要不要
 {0}shap shape
 {0}sign sign
 {0}siwf 极小值
@@ -301,6 +323,7 @@
 {0}tfgh 等下
 {0}tfid TF-IDF
 {0}tgip 很正常
+{0}tfrw 物超所值
 {0}tglf 重置
 {0}tgrq 得到的
 {0}tgwh 第一个
@@ -331,6 +354,8 @@
 {1}udhf 眷
 {0}udyx 准确率
 {0}ufwh 半个
+{0}ufwh 半个
+{1}ugvv 凄
 {0}ujhn 半监督学习
 {0}ujvb 效果好
 {0}ukag 判别式模型
@@ -341,8 +366,10 @@
 {0}urss 单反相机
 {0}utsc 决策树
 {0}uwee 半个月
+{0}uwij 半个小时
 {0}uxud 背着
 {0}uyag 六七
+{0}uyda 北京三期
 {0}valu value
 {0}vbkc 好吧
 {0}vgpj 好不容易
@@ -351,6 +378,8 @@
 {0}watc 人工智能
 {0}wdfn 代码块
 {1}wgnn 僵局
+{0}wgwf 会不会
+{0}wind Windows
 {1}wjjg 倡
 {0}wkrq 集中的
 {0}wnqd 似然
@@ -367,6 +396,7 @@
 {1}wwvv 爷爷奶奶
 {0}wxtu 化简
 {0}wyfa 邻域
+{0}wynf 偏导
 {0}wywt 焦作
 {0}xagf 红球
 {0}xcwf 绝对值
@@ -395,6 +425,7 @@
 {0}ymym 高高
 {0}ynwt 记作
 {0}yoyl 语料库
+{0}yowk 麻烦您啦
 {0}ypqk 这句
 {0}ypty 这篇
 {0}yrkg 方括号
