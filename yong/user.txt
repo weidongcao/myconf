@@ -27,6 +27,8 @@
 {0}rgvt ÔÀ²»Èº
 {0}root root
 {0}serr Server
+{0}sigd Sigmodº¯Êý
+{1}sigd Sigmod
 {0}solr Solr
 {0}stom Storm
 {-}stor Storm
