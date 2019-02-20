@@ -17,7 +17,7 @@
 (require 'org)
 
 (setq custom-file (expand-file-name "lisp/custom.el" user-emacs-directory))
-
+(add-hook 'org-mode-hook (lambda () (setq truncate-lines nil)))
 (load-file custom-file)
 
 
