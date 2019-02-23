@@ -5,3 +5,5 @@
 (setq org-agenda-files '("~/org"))
 
 (provide 'init-org)
+
+(add-hook 'org-mode-hook (lambda () (setq truncate-lines nil)))

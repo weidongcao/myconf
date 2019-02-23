@@ -4,6 +4,9 @@
 ;; - turn off scroll-bar
 (scroll-bar-mode 0)
 
+;; - turn off auto-fill mode
+(toggle-truncate-lines 1)
+
 ;; - turn off tutarial
 (setq inhibit-splash-screen t)
 
