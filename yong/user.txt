@@ -7,6 +7,7 @@
 {0}dtpu 磁盘空间
 {0}dwft 存储过程
 {0}dyih 太小
+{0}emas Emacs
 {0}fcxw 运维
 {0}ffaa 零零散散
 {0}fwod 二分类
@@ -20,6 +21,7 @@
 {0}hour hour
 {0}huqs 上海市普陀区铜川路1781弄真光新村第七小区41栋502
 {0}iayt 流式计算
+{0}iibo 激活函数
 {0}kyjg 哑变量
 {0}lflf 转置
 {0}lfwx 黑化
@@ -33,6 +35,7 @@
 {0}pcad 神圣巨龙
 {0}pvhj 安卓
 {0}qdql 金三银四
+{0}qqty 印象笔记
 {0}qyet 鸟用
 {0}rbov 反函数
 {0}redi Redis
@@ -51,12 +54,14 @@
 {0}sypo 概率密度函数
 {0}syyw 概率论
 {0}tahh 选项卡
+{0}tenw TensorFlow
 {0}thet theta
 {0}tpxp 管综
 {0}ttbt 算得了什么
 {0}ttwe 怎么使用
 {0}twgv 笑贫不笑娼
 {0}ubuu Ubuntu
+{0}udtk 卷积
 {0}unkn unknown
 {0}wdsg 优酷
 {0}wttf 任我行
