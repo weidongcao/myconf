@@ -11,3 +11,7 @@ ln -s /opt/workspace/github/myconf/yong ~/.yong
 # Emacs配置文件软链接
 ln -s /opt/workspace/github/myconf/emacs ~/.emacs.d
 ```
+Windows下创建软链接:
+```
+mklink /j C:\Users\Administrator\AppData\Roaming\yong D:\Workspace\Github\myconf\yong
+```
