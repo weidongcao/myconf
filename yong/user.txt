@@ -10,6 +10,7 @@
 {0}emas Emacs
 {0}fcxw 运维
 {0}ffaa 零零散散
+{0}fttw 运算符
 {0}fwod 二分类
 {0}gcbf 亚马逊云
 {0}gcbi 亚马逊
@@ -20,15 +21,18 @@
 {0}gqgq 玩儿玩儿
 {0}hdgd 上古恶龙
 {0}huqs 上海市普陀区铜川路1781弄真光新村第七小区41栋502
+{0}hwtw 占位符
 {0}iayt 流式计算
-{0}iiii 淅淅沥沥
 {0}iibo 激活函数
+{0}iiii 淅淅沥沥
+{0}init init
 {0}kyjg 哑变量
 {0}lflf 转置
 {0}lfwx 黑化
 {0}ljxe 轻量级
 {0}ludd 较大
 {0}manj Manjaro
+{0}mgwf 赋值
 {0}mysl Mysql
 {0}nqdg 悄然而至
 {0}ntih 发小
@@ -36,6 +40,7 @@
 {0}orac Oracle
 {0}orjg 数据量
 {0}pcad 神圣巨龙
+{0}plar placeholder
 {0}purt 空着手
 {0}qdql 金三银四
 {0}qqty 印象笔记
@@ -46,6 +51,7 @@
 {0}rgvt 岳不群
 {0}root root
 {0}serr Server
+{0}sesn Session
 {0}sigd Sigmod函数
 {1}sigd Sigmod
 {0}sigm sigmoid函数
@@ -57,6 +63,7 @@
 {0}sypo 概率密度函数
 {0}syyw 概率论
 {0}tahh 选项卡
+{0}tenr tensor
 {0}tenw TensorFlow
 {0}thet theta
 {0}tpxp 管综
@@ -64,9 +71,9 @@
 {0}ttwe 怎么使用
 {0}twgv 笑贫不笑娼
 {0}ubuu Ubuntu
-{0}vwqt 媳份儿
 {0}udtk 卷积
 {0}unkn unknown
+{0}vwqt 媳份儿
 {0}wdsg 优酷
 {0}wttf 任我行
 {0}wypy 人为定义
