@@ -1,0 +1,31 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="/opt/workspace/github/finance_spider" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="/opt/workspace/github/finance_spider" />
+      </list>
+    </option>
+    <option name="lastPath" value="/opt/workspace/github/finance_spider" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="/opt/workspace/github/finance_spider">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-183.5429.31" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1552209130194" />
+              <option name="buildTimestamp" value="1548760725947" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,71 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1550367877918">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/wedo.runs [wedo@caoweidong.cn]" timestamp="1550384976246">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1550367736486">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1550385275572">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/wedo.getup [wedo@caoweidong.cn]" timestamp="1550385234969">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/logistic_demo" timestamp="1547193879749">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b4c04fb9-7dd9-4f31-9bcc-7da8d73ceda2/console.sql" timestamp="1550384952528">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/wedo.blog [wedo@caoweidong.cn]" timestamp="1547188605978">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/opt/workspace/github/finance_spider/src/main/com/dong/utils/cnf.ini" timestamp="1547186552810">
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="1" column="14" />
+        <mark key="." line="1" column="14" />
+        <mark key="^" line="1" column="14" />
+      </file>
+      <file name="/dummy.sql" timestamp="1550385237346">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/opt/workspace/github/finance_spider/src/main/com/dong/ai/logistic_demo.py" timestamp="1547197225494">
+        <mark key="[" line="113" column="32" />
+        <mark key="]" line="117" column="0" />
+        <mark key="^" line="117" column="0" />
+        <mark key="." line="117" column="0" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="&quot;" type="4">
+        <text>2708poe</text>
+      </register>
+      <register name="-" type="4">
+        <text>2708poe</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
