@@ -1,3 +1,4 @@
+{0}alhh 世界上
 {0}anaa Anaconda
 {0}andx 巨龙
 {0}aygm 东方不败
@@ -10,6 +11,7 @@
 {0}dwft 存储过程
 {0}dyih 太小
 {0}emas Emacs
+{0}fcov 超参数
 {0}fcxw 运维
 {0}ffaa 零零散散
 {0}fikk 过滤器
@@ -47,6 +49,7 @@
 {0}ooke Zookeeper
 {0}orac Oracle
 {0}orjg 数据量
+{0}orsw 数据可视化
 {0}pcad 神圣巨龙
 {0}plar placeholder
 {0}pufw 补零
@@ -70,6 +73,8 @@
 {0}sofx Softmax
 {1}sofx Softmax回归
 {0}solr Solr
+{0}spwx 可视化
+{0}srwb 模拟仓
 {0}stom Storm
 {0}sypo 概率密度函数
 {0}syyw 概率论
@@ -92,10 +97,13 @@
 {0}wlrn 全连接层
 {0}wlru 全连接
 {0}wttf 任我行
+{0}wwkk 优化器
 {0}wylf 偏置
 {0}wypy 人为定义
 {0}xgbt XGBoost
+{0}yawd 高斯分布
 {0}ygqt 这事儿
+{0}yhrh 这些年
 {0}yiwt 这没什么
 {0}ymwd 调优
 {0}ysqk 主机名
