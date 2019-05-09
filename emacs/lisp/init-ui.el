@@ -1,28 +1,23 @@
 ;; - turn off tool-bar
-(tool-bar-mode 0)
+(tool-bar-mode -1)
 
-;; - turn off scroll-bar
-(scroll-bar-mode 0)
+;;- turn off scroll-bar
+(scroll-bar-mode -1)
 
 ;; - turn off auto-fill mode
 (toggle-truncate-lines 1)
 
-;; - turn off tutarial
+;;- turn off splash screen
 (setq inhibit-splash-screen t)
 
-;; cursor
+;; --> cursor style
 (setq-default cursor-type 'bar)
 
-;; full screen on start
-;; (setq initial-frame-alist (quote ((fullscreen . maximized))))
 
-;; - show linum-mode
-(global-linum-mode t)
+;; --> Frame size (height, width)
+(setq default-frame-alist
+      '((height . 60)(width . 80)))
+
 (global-hl-line-mode t)
 
-
-
-;;(set-default-font "-DAMA-Ubuntu Mono-normal-normal-normal-*-24-*-*-*-m-0-iso10646-1")
-
-(custom-set-faces '(default ((t (:family "Ubuntu Mono" :foundry "DAMA" :slant normal :weight normal :height 158 :width normal)))))
 (provide 'init-ui)
