@@ -1,0 +1,30 @@
+* 初始化所有的package
+#+BEGIN_SRC emacs-lisp
+(package-initialize)
+(add-to-list 'load-path "~/.emacs.d/lisp/")
+#+END_SRC
+** 配置LoadPath
+#+BEGIN_SRC emacs-lisp
+;;- define a function to quickly open your config file
+(defun open-my-init-file()
+  (interactive)
+  (find-file "~/.emacs.d/init.el"))
+
+
+(require 'init-packages)
+(require 'init-ui)
+(require 'init-better-defaults)
+(require 'init-keybindings)
+
+;;(setq enable-recursive-minibuffers t)
+
+
+(setq custom-file (expand-file-name "lisp/custom.el" user-emacs-directory))
+
+(load-file custom-file)
+(put 'dired-find-alternate-file 'disabled nil)
+
+#+END_SRC
+
+** 让选中一段文本后,可以直接输入覆盖
+
