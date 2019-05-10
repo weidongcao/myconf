@@ -16,7 +16,7 @@
 
 ;; --> Frame size (height, width)
 (setq default-frame-alist
-      '((height . 60)(width . 80)))
+      '((height . 60)(width . 160)))
 
 (global-hl-line-mode t)
 
