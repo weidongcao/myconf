@@ -81,6 +81,7 @@
 {0}fcxw 运维
 {0}feed feed
 {0}feth fetch
+{0}fetk 云服务器
 {0}ff F
 {2}ff 寺
 {0}ffaa 零零散散
@@ -351,6 +352,7 @@
 {0}tyod 很麻烦
 {0}ubuu Ubuntu
 {0}ucou 交叉熵
+{0}udbn 关了
 {0}udfj 送进
 {0}udtk 卷积
 {0}ueqn 前馈
