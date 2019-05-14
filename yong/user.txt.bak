@@ -1,4 +1,3 @@
-{-}a A
 {0}accy Accuracy
 {0}adam Adam
 {0}adgr AdaGrad
@@ -12,6 +11,7 @@
 {0}andx 巨龙
 {0}apii API
 {0}argx argmax
+{0}arro -->
 {0}asci ascii码
 {0}assn Assign
 {0}augi 花间一壸酒
@@ -20,7 +20,9 @@
 {0}basc Basic
 {0}basi batch_size
 {1}bb B
+{0}bbdx 子龙
 {0}bcgk 取整
+{0}bdmw 子龙山人
 {0}beta \beta
 {0}bgjg 也不是
 {0}bide 也没有
@@ -78,7 +80,7 @@
 {0}fcxw 运维
 {0}feed feed
 {0}feth fetch
-{1}ff F
+{0}ff F
 {2}ff 寺
 {0}ffaa 零零散散
 {1}ffxx f(x)
@@ -92,6 +94,7 @@
 {0}flor floor
 {0}fqgk 无事
 {0}fqwd 均匀分布
+{0}fqxe 元组
 {2}ftjg 才是
 {0}fttw 运算符
 {0}fwod 二分类
@@ -99,6 +102,7 @@
 {0}gama \gamma
 {0}gcbf 亚马逊云
 {0}gcbi 亚马逊
+{0}gcmm git$_commit$_-m
 {0}gcyt 不允许
 {0}gddh 不存在
 {0}gdjr 不太明白
@@ -109,7 +113,11 @@
 {1}ggbw 一阶
 {0}ggwu 一倍
 {0}ggxe 一组
+{0}giad git$_add
 {0}gihu GitHub
+{0}gipu git$_push
+{1}gipu git$_pull
+{0}gist git$_status
 {0}gitt Git
 {0}giwy 不信
 {0}gkbw 整除
@@ -119,6 +127,7 @@
 {0}gnme Gnome
 {0}godx 恶龙
 {0}gpcn 一字马
+{0}gpsu 与之相关
 {0}gpuu GPU
 {0}gqgq 玩儿玩儿
 {0}gqud 残差
@@ -133,7 +142,6 @@
 {0}helo Hello
 {0}hh 目
 {1}hh H
-{2}hh 止
 {0}hktk 点积
 {0}huqs 上海市普陀区铜川路1781弄真光新村第七小区41栋502
 {0}hwtw 占位符
@@ -177,7 +185,6 @@
 {0}lera Learning_Rate
 {0}lflf 转置
 {0}lfwx 黑化
-{-}linu Linux
 {0}linx Linux
 {0}ljxe 轻量级
 {0}lkhk 圆点
@@ -195,14 +202,15 @@
 {0}mean Mean
 {0}mgwf 赋值
 {0}mgwh 同一个
+{1}mm M
 {0}mysl Mysql
 {0}nams name_scope
 {0}nene Neural$_Networks
 {0}netk Network
 {0}nkev 劈腿
 {0}nlpp NLP
-{0}nn N
-{1}nn 快
+{0}nn 快
+{1}nn N
 {0}nqdg 悄然而至
 {0}ntih 发小
 {0}objt Object
@@ -281,7 +289,6 @@
 {0}sesn Session
 {1}sgdd SGD
 {0}shae shape
-{-}shap shape
 {0}shvb 想好
 {0}sigd Sigmod函数
 {1}sigd Sigmod
@@ -334,7 +341,6 @@
 {0}ttad 径向基
 {0}ttat 特征工程
 {0}ttbt 算得了什么
-{0}ttsu 怎么样
 {0}ttwe 怎么使用
 {0}tugy 简单来讲
 {0}tunn 简书
@@ -359,23 +365,23 @@
 {1}uu U
 {0}uwtb 单位矩阵
 {0}vale Value
-{-}valu value
 {0}vare Variable
 {0}vars variable_scope
 {0}vgne VGGNet
+{0}vimm Vim
 {0}vmwe Vmware
 {0}vmwo Vmware$_Workstation
 {0}vv 女
 {1}vv V
-{2}vv 妇
 {0}vwqt 媳份儿
-{-}w W
 {0}wbov 值函数
 {0}wdaa 分布式
 {0}wdat 分布式计算
 {0}wdbn 做了
+{0}wdgi 从大到小
 {0}wdsg 优酷
 {0}wefa 作用域
+{0}weio weidongcao
 {1}wggf 依赖于
 {0}wggo 停下来
 {0}wgnt 依赖性
@@ -391,6 +397,7 @@
 {0}word World
 {0}wqjg 你是
 {0}wqpu 命名空间
+{0}wqrq 您的
 {0}wttf 任我行
 {1}ww W
 {1}wwgi 俭
