@@ -19,5 +19,7 @@
       '((height . 60)(width . 160)))
 
 (global-hl-line-mode t)
+;;(set-face-foreground 'region "cyan")
+;;(set-face-background 'region "blue")
 
 (provide 'init-ui)

@@ -15,6 +15,8 @@
  '(custom-safe-themes
    (quote
     ("06f0b439b62164c6f8f84fdda32b62fb50b6d00e8b01c2208e55543a6337433a" "628278136f88aa1a151bb2d6c8a86bf2b7631fbea5f0f76cba2a0079cd910f7d" "bb08c73af94ee74453c90422485b29e5643b73b05e8de029a6909af6a3fb3f58" "1b8d67b43ff1723960eb5e0cba512a2c7a2ad544ddb2533a90101fd1852b426e" "82d2cac368ccdec2fcc7573f24c3f79654b78bf133096f9b40c20d97ec1d8016" "bffa9739ce0752a37d9b1eee78fc00ba159748f50dc328af4be661484848e476" "04232a0bfc50eac64c12471607090ecac9d7fd2d79e388f8543d1c5439ed81f5" "8aebf25556399b58091e533e455dd50a6a9cba958cc4ebb0aab175863c25b9a4" "bd7b7c5df1174796deefce5debc2d976b264585d51852c962362be83932873d9" default)))
+ '(evil-leader/leader "SPC")
+ '(evil-want-C-u-scroll t)
  '(fci-rule-color "#3C3D37")
  '(flycheck-color-mode-line-face-to-color (quote mode-line-buffer-id))
  '(frame-background-mode (quote dark))
@@ -31,6 +33,9 @@
      ("#3C3D37" . 100))))
  '(magit-diff-use-overlays nil)
  '(org-pomodoro-long-break-length 40)
+ '(package-selected-packages
+   (quote
+    (powerline window-numbering company color-theme-sanityinc-tomorrow spacemacs-theme zenburn-theme solarized-theme monokai-theme spacemacs-theme hungry-delete swiper counsel smartparens js2-mode nodejs-repl popwin web-mode js2-refactor expand-region iedit org-pomodoro helm-ag flycheck auto-yasnippet evil evil-leader)))
  '(popwin:popup-window-position (quote right))
  '(popwin:popup-window-width 50)
  '(pos-tip-background-color "#FFFACE")
@@ -62,6 +67,7 @@
  '(weechat-color-list
    (quote
     (unspecified "#272822" "#3C3D37" "#F70057" "#F92672" "#86C30D" "#A6E22E" "#BEB244" "#E6DB74" "#40CAE4" "#66D9EF" "#FB35EA" "#FD5FF0" "#74DBCD" "#A1EFE4" "#F8F8F2" "#F8F8F0")))
+ '(which-key-frame-max-height 40)
  '(window-divider-mode nil))
 
 
@@ -71,4 +77,5 @@
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  '(default ((t (:family "Ubuntu Mono" :foundry "DAMA" :slant normal :weight normal :height 173 :width normal))))
- '(iedit-occurrence ((t (:inherit region)))))
+ '(iedit-occurrence ((t (:inherit region))))
+ '(region ((t (:background "sea green" :inverse-video nil)))))

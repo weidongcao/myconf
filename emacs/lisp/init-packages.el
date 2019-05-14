@@ -30,6 +30,14 @@
 			org-pomodoro
 			helm-ag
 			flycheck
+			auto-yasnippet
+			evil
+			evil-leader
+			window-numbering
+			;; powerline
+			evil-surround
+			evil-nerd-commenter
+			which-key
 			) "Default packages")
 
 (setq package-selected-packages wedo/packages)
@@ -97,4 +105,46 @@
 ;; --> 番茄工作法在org-mode中的使用
 (require 'org-pomodoro)
 
+;; --> 语法检查器
+(add-hook 'js2-mode-hook 'flycheck-mode)
+
+;; --> 语法检查器
+;; (global-flycheck-mode t)
+
+(yas-reload-all)
+(add-hook 'prog-mode-hook #'yas-minor-mode)
+
+;; --> Emacs下使用Vim
+;; --> 在 Emacs 中使用 Leader Key 可以通过 evil-leader 来实现
+(global-evil-leader-mode)
+(evil-mode 1)
+(setcdr evil-insert-state-map nil)
+(define-key evil-insert-state-map [escape] 'evil-normal-state)
+
+
+(evil-leader/set-key
+  "ff" 'find-file
+  "bb" 'switch-to-buffer
+  "0"  'select-window-0
+  "1"  'select-window-1
+  "2"  'select-window-2
+  "3"  'select-window-3
+  "w/" 'split-window-right
+  "w-" 'split-window-below
+  ":"  'counsel-M-x
+  "wM" 'delete-other-windows
+  )
+
+(require 'evil-surround)
+(global-evil-surround-mode)
+
+(window-numbering-mode 1)
+
+(evilnc-default-hotkeys)
+
+(define-key evil-normal-state-map (kbd ",/") 'evilnc-comment-or-uncomment-lines)
+(define-key evil-visual-state-map (kbd ",/") 'evilnc-comment-or-uncomment-lines)
+
+;; --> which-key 可以显示当前组合键下所有可以使用的全部组合键的选项
+(which-key-mode 1)
 (provide 'init-packages)

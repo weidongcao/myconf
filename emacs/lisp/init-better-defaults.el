@@ -2,7 +2,7 @@
 (setq ring-bell-function 'ignore)
 
 ;; --> encoding
-(set-language-environment "UTF-8")
+;;(set-language-environment "UTF-8")
 
 
 (global-auto-revert-mode t)

@@ -7,7 +7,7 @@
 #+BEGIN_SRC emacs-lisp
 ;;- define a function to quickly open your config file
 (defun open-my-init-file()
-  (interactive)
+  (interactive) 
   (find-file "~/.emacs.d/init.el"))
 
 

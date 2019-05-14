@@ -15,7 +15,7 @@
 (global-set-key (kbd "C-h C-v") 'find-variable)
 (global-set-key (kbd "C-h C-k") 'find-function-on-key)
 
-(global-set-key (kbd "C-c p f") 'counsel-git)
+(global-set-key (kbd "C-c C-p f") 'counsel-git)
 
 (global-set-key (kbd "C-M-\\") 'indent-region-or-buffer)
 
@@ -37,6 +37,16 @@
 (global-set-key (kbd "M-s e") 'iedit-mode)
 
 ;; -->
-(global-set-key (kbd "C-c p s") 'helm-do-ag-project-root)
+(global-set-key (kbd "C-c C-p s") 'helm-do-ag-project-root)
+
+;; --> auto-yasnippet 是一个非常好用代码块补全插件
+(global-set-key (kbd "H-w") #'aya-create)
+(global-set-key (kbd "H-y") #'aya-expand)
+
+;; --> 将 C-w 来使其可以向后删除一个单词，这样就可以与 Shell 中的快捷键操作同步
+(global-set-key (kbd "C-w") 'backward-kill-word)
+
+;; --> Ctrl + Z切换Emacs模式
+;;(global-set-key (kbd "C-w") 'evil-toggle-key)
 
 (provide 'init-keybindings)
