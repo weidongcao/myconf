@@ -31,6 +31,7 @@
 {0}bppx BP神经网络
 {0}bpti BP算法
 {0}bwnf 隐含层
+{0}calo CapsLock
 {1}cc C
 {0}cent CentOS
 {0}chia China
@@ -62,6 +63,7 @@
 {0}dnww 万人
 {0}drot Dropout
 {0}drou Dropout
+{0}drww 成年人
 {0}dtfl 有向无环图
 {0}dtkg 感知器模型
 {0}dtkk 感知器
@@ -178,6 +180,7 @@
 {0}kgyd 另一方面
 {2}khuj 蹭
 {0}khwq 跟你
+{1}khyc 踱
 {1}kk K
 {0}kyjg 哑变量
 {0}labl label
@@ -213,6 +216,7 @@
 {0}nlpp NLP
 {0}nn 快
 {1}nn N
+{1}nnsg 乙醇
 {0}nqdg 悄然而至
 {0}ntih 发小
 {0}objt Object
@@ -266,6 +270,7 @@
 {0}reue reuse
 {0}rfmj 的规则
 {0}rfrh 挂掉
+{0}rgtw 制表符
 {0}rgvt 岳不群
 {0}rlwf 返回值
 {0}rnug 的情况下
@@ -332,6 +337,9 @@
 {0}tgwh 每一个
 {0}thbg 向上取整
 {0}thee There
+{0}thesn (n)
+{0}thess (s)
+{0}thesv (v)
 {0}thet theta
 {0}tlwh 第四个
 {0}tmuq 第几次
@@ -371,6 +379,7 @@
 {0}vare Variable
 {0}vars variable_scope
 {0}vgne VGGNet
+{0}vikm 女演员
 {0}vimm Vim
 {0}vmwe Vmware
 {0}vmwo Vmware$_Workstation
