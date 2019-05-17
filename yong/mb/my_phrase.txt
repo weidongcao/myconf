@@ -1,0 +1,14 @@
+cnne Convolutional$_Neural$_Networks
+dime Dimensionality$_reduction
+fcla FC$_Layer
+fnfxe f(x)$_=$_
+gcmm git$_commit$_-m$_
+giad git$_add
+gico git$_commit
+gipu git$_push
+gist git$_status
+inla Input$_Layer
+nene Neural$_Networks
+pola Pooling$_Layer
+ppro P30$_Pro
+vmwo Vmware$_Workstation
