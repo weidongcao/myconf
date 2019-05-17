@@ -38,6 +38,7 @@
 			evil-surround
 			evil-nerd-commenter
 			which-key
+			use-package
 			) "Default packages")
 
 (setq package-selected-packages wedo/packages)
