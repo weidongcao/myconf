@@ -1,0 +1,91 @@
+* 小小输入法个人使用说明
+所有个人约定都基于小小输入法官方约定及配置
+
+英文单词编码约定:
+1. 约定使用词根/词根简写作为开头
+2. 词根/词根简写尽量为两个字母,少数为3个,绝对不能为4个
+3. 词根/词根简写之后,是前缀,然后是后缀,前缀后缀均为一个字母
+
+英文词组约定:
+1. 两个单词分别取前两个
+2. 三个及以上分别取第一字母
+
+特殊符号简写约定
+| 特殊符号   | 英文        | 简写 | 例子 | 备注            |
+|------------+-------------+------+------+-----------------|
+| ()         | parentheses | ^ps  | (x)  |                 |
+| -->        | arrow       | arro |      | 箭头            |
+| spc-->spc  | right       | righ |      | 箭头有空格      |
+| spc<--spc  | left        | leff |      | 箭头有空格      |
+| spc=spc    | equal       | elll |      | 等号有空格      |
+| 数学表达式 | maths       | ^ms  |      |                 |
+| LaTeX      | LaTeX       | ^la  |      |                 |
+| 编码       |             |      |      | 第{}个,第{}步等 |
+|            |             |      |      |                 |
+
+英文前缀后缀约定:
+| 后缀      | 简写 |
+|-----------+------|
+| ly        | l    |
+| ies       | i    |
+| es        | e    |
+| y         | y    |
+| al        | a    |
+| ment      |      |
+| ibility   | i    |
+| ability   | i    |
+| able/ible | b    |
+| ably      | a    |
+| age       | g    |
+| an        | n    |
+| ance      | n    |
+| ancy      | n    |
+| ant       | t    |
+| ation     | o    |
+| cular     | u    |
+| icular    | i    |
+| dom       | d    |
+| ed        | d    |
+| ee        | e    |
+| en        | n    |
+| ize       | z    |
+| ify       | f    |
+| less      | s    |
+| ful       | f    |
+| er        | r    |
+| eer       | r    |
+| or        | r    |
+| graph     | p    |
+| ian       | i    |
+| ese       | s    |
+| ician     | c    |
+| ist       | s    |
+| ism       | m    |
+| ard       | d    |
+| ette      | e    |
+| let       | l    |
+| age       | g    |
+| cy        | c    |
+| dom       | d    |
+| hood      | h    |
+| it        | t    |
+| is        | s    |
+| ity       | i    |
+| ness      | n    |
+| gram      | g    |
+| ship      | p    |
+| try       | t    |
+| th        | h    |
+| ure       | u    |
+| ics       | c    |
+| logy      | g    |
+| nomy      | m    |
+| em        | m    |
+| ical      | l    |
+| ish       | h    |
+| ar        | a    |
+| fold      | d    |
+| ive       | v    |
+| th        | h    |
+| rward     | w    |
+|           |      |

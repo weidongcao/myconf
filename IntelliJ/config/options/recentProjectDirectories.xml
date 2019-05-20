@@ -2,15 +2,16 @@
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="/opt/workspace/github/huanLing" />
         <option value="/opt/workspace/github/finance_spider" />
       </list>
     </option>
     <option name="openPaths">
       <list>
-        <option value="/opt/workspace/github/finance_spider" />
+        <option value="/opt/workspace/github/huanLing" />
       </list>
     </option>
-    <option name="lastPath" value="/opt/workspace/github/finance_spider" />
+    <option name="lastPath" value="/opt/workspace/github/huanLing" />
     <option name="pid" value="" />
     <option name="additionalInfo">
       <map>
@@ -20,8 +21,19 @@
               <option name="build" value="PY-183.5429.31" />
               <option name="productionCode" value="PY" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1552209130194" />
-              <option name="buildTimestamp" value="1548760725947" />
+              <option name="projectOpenTimestamp" value="1552708871715" />
+              <option name="buildTimestamp" value="1548760735752" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/opt/workspace/github/huanLing">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-183.5429.31" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1558169290067" />
+              <option name="buildTimestamp" value="1548760712173" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

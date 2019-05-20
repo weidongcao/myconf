@@ -1,0 +1,1204 @@
+: 1545707794:0;sudo vim /etc/passwd
+: 1545708049:0;sudo pacman -S autojump
+: 1545708063:0;vim .zshrc
+: 1545708102:0;source .zshrc
+: 1545708116:0;which autojump
+: 1545708134:0;ls -l /usr/bin/auto*
+: 1545708148:0;vim .zshrc
+: 1545708158:0;source .zshrc
+: 1545708175:0;cd /opt/workspace/github
+: 1545708184:0;git clone https://github.com/zsh-users/zsh-syntax-highlighting.git
+: 1545708194:0;echo "source ${(q-)PWD}/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> ${ZDOTDIR:-$HOME}/.zshrc
+: 1545708201:0;source ~/.zshrc
+: 1545708219:0;git clone git://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh-autosuggestions
+: 1545708228:0;plugins=(zsh-autosuggestions)
+: 1545708270:0;pwd
+: 1545708275:0;vim .zshrc
+: 1545708394:0;source .zshrc
+: 1545708411:0;sudo vim .zshrc
+: 1545708434:0;source .zshrc
+: 1545708459:0;pwd
+: 1545708462:0;vim .zshrc
+: 1545708559:0;ll
+: 1545708570:0;cd /opt/workspace/github
+: 1545708571:0;ll
+: 1545708573:0;cd myconf
+: 1545708573:0;ll
+: 1545708585:0;cd
+: 1545708590:0;vim .zshrc
+: 1545708620:0;source .zshrc
+: 1545708626:0;vim .zshrc
+: 1545708641:0;source .zshrc
+: 1545708647:0;vim .zshrc
+: 1545708658:0;source .zshrc
+: 1545708661:0;vim .zshrc
+: 1545708672:0;source .zshrc
+: 1545708674:0;ll
+: 1545708840:0;pacman -Qo xdg-user-dir
+: 1545708867:0;yon -d
+: 1545708870:0;yong -d
+: 1545708954:0;thunar
+: 1545709011:0;ll -a
+: 1545709019:0;cd .config
+: 1545709020:0;ll
+: 1545709053:0;vim user-dirs.dirs
+: 1545709064:0;cd
+: 1545709068:0;cd .config
+: 1545709074:0;cat user-dirs.locale
+: 1545709124:0;xdg-user-dirs-udate
+: 1545709142:0;xdg-user-dirs-update
+: 1545709155:0;vim user-dirs.dirs
+: 1545709317:0;ll
+: 1545709320:0;cd
+: 1545709320:0;ll
+: 1545709333:0;xdg-user-dirs-update
+: 1545709337:0;ll
+: 1545709476:0;cd .config
+: 1545709485:0;sudo vim user-dirs.dirs
+: 1545709562:0;yong -d
+: 1545709743:0;ll
+: 1545710003:0;sudo pacman -S xdg-user-dirs-gtk
+: 1545710056:0;yong -d
+: 1545710108:0;vim .config/user-dirs.dirs
+: 1545710227:0;mv ÂÉ•¨ÂÉ•± Public\
+mv Ê®ÉÅÊÉΩø Templates\
+mv ËßÉ¶ÈÉÇÉ± Videos\
+mv ÂÉªæÁÉ©Éß Pictures\
+mv ÊÉ∂ÉßÊÉÅ£ Documents\
+mv ‰∏É´ËΩΩ Download\
+mv ÈÉø≥‰πÉ∞ Music\
+mv ÊÉÅÉ¨ÈÉΩÉÇ Desktop
+: 1545710229:0;ll
+: 1545710328:0;sudo pacman -S google-chrome
+: 1545714496:0;sudo pacman -S electronic-wechat
+: 1545714599:0;yong -d
+: 1545714640:0;nano
+: 1545714775:0;ll /etc/pacman*
+: 1545714839:0;ll /etc/pacm*
+: 1545714881:0;vim /etc/pacman.d/mirrorlist
+: 1545714925:0;sudo vim /etc/pacman.d/mirrorlist
+: 1545714977:0;sudo vim /etc/pacman.conf
+: 1545715053:0;sudo pacman -Syyu
+: 1545715778:0;sudo pacman -S archlinuxcn-keyring
+: 1545715850:0;sudo pacman-key --refresh-keys
+: 1545716044:0;sudo pacman-key --init
+: 1545716051:0;sudo pacman-key --populate
+: 1545716059:0;sudo pacman -Scc
+: 1545716075:0;sudo pacman -Syu
+: 1545716350:0;sudo pacman -S electronic-wechat 
+: 1545716402:0;pip -V
+: 1545716406:0;python -V
+: 1545716415:0;python3 -V
+: 1545716419:0;pip3 -V
+: 1545716432:0;sudo pacman -S python-pip
+: 1545716438:0;pip -V
+: 1545716442:0;pip3 -V
+: 1545716659:0;sudo pacman -R jdk8-openjdk
+: 1545716667:0;sudo pacman -R jre8-openjdk
+: 1545716679:0;sudo pacman -R jre8-openjdk-headless
+: 1545716694:0;yaourt jdk8
+: 1545716873:0;sudo archlinux-java set java-8-jdk
+: 1545717355:0;sudo pacman -S chromium
+: 1545717410:0;sudo pacman -S google-chrome
+: 1545719603:0;ll
+: 1545719623:0;vim .config/user-dirs.dirs
+: 1545733631:0;j my
+: 1545733818:0;j
+: 1545733827:0;vim .zshrc
+: 1545733862:0;which autojump
+: 1545733887:0;ll /usr/share/autojump/autojump.*
+: 1545734010:0;source .zshrc
+: 1545734012:0;j
+: 1545734015:0;j my
+: 1545734342:0;su
+: 1545734366:0;cd .config
+: 1545734369:0;ls
+: 1545734373:0;ll autostart
+: 1545734387:0;cd autostart
+: 1545734412:0;cp create-template.desktop yong.desktop
+: 1545734415:0;vim yong.desktop
+: 1545734450:0;which yong
+: 1545734476:0;yong -d
+: 1545788015:0;ls -al
+: 1545789993:0;sysinfo
+: 1545790001:0;uname -a
+: 1545790048:0;hostname
+: 1545790154:0;hostname mjo.wedo.com
+: 1545790165:0;sudo hostname mjo.wedo.com
+: 1545790169:0;hostname
+: 1545790374:0;sudo vim /etc/hostname
+: 1545790433:0;sudo vim /etc/hosts
+: 1545790689:0;xmodmap -pke > ~/.Xmodmap
+: 1545790696:0;vim .Xmodmap
+: 1545790748:0;xmodmap ~/.Xmodmap
+: 1545790788:0;vim .xinitrc
+: 1545791413:0;ll
+: 1545791490:0;uname -a
+: 1545791566:0;cat /proc/cpuinfo
+: 1545791649:0;arch
+: 1545791655:0;uname -m
+: 1545791662:0;uname -a
+: 1545791687:0;arch
+: 1545791783:0;getconf LONG_BIT
+: 1545791801:0;lscpu | grep "Model name"
+: 1545791814:0;lscpu | grep "Model"
+: 1545791825:0;lscpu
+: 1545792811:0;su
+: 1545795273:0;cd
+: 1545795277:0;cd/op
+: 1545795279:0;cd /opt
+: 1545795279:0;ll
+: 1545795292:0;mkdir resources
+: 1545795293:0;cd resources
+: 1545795294:0;ll
+: 1545795342:0;mkdir chrome-plugins
+: 1545795347:0;cd chrome-plugins
+: 1545795362:0;mv ~/Download/OmegaProfile_auto_switch.pac .
+: 1545795363:0;ll
+: 1545796055:0;sudo pacman -S proxydriver
+: 1545796108:0;yaourt proxydriver
+: 1545796216:0;sudo yaourt proxydriver
+: 1545797100:0;sudo install -m 755 -o 0 -g 0 proxydriver.sh /etc/NetworkManager/dispatcher.d/99proxydriver.sh
+: 1545797123:0;cd 
+: 1545797126:0;wget http://sourceforge.net/p/proxydriver/code/HEAD/tree/src/v1.62/proxydriver.sh\?format\=raw
+: 1545800931:0;sudo install -m 755 -o 0 -g 0 proxydriver.sh /etc/NetworkManager/dispatcher.d/99proxydriver.sh
+: 1545800938:0;ll
+: 1545801394:0;rm -f proxydriver.sh\?format=raw
+: 1545801396:0;ll
+: 1545801399:0;cd D
+: 1545801402:0;cd Download
+: 1545801403:0;ll
+: 1545801410:0;chmod u+x proxydriver.sh
+: 1545802080:0;pacman -S yaourt
+: 1545802103:0;cd /opt/software
+: 1545802104:0;ll
+: 1545802109:0;$ curl -o yaourt.tar.gz https://aur.archlinux.org/cgit/aur.git/snapshot/yaourt.tar.gz\
+
+: 1545802133:0;curl -o yaourt.tar.gz https://aur.archlinux.org/cgit/aur.git/snapshot/yaourt.tar.gz\
+
+: 1545802137:0;ll
+: 1545802152:0;chmod u+x yaourt.tar.gz
+: 1545802156:0;tar -zxvf yaourt.tar.gz
+: 1545802158:0;ll
+: 1545802162:0;cd yaourt
+: 1545802181:0;makepkg -rsi
+: 1545802185:0;ll
+: 1545802195:0;ls
+: 1545802199:0;ls -al
+: 1545802247:0;makepkg -rsi
+: 1545802319:0;cd ..
+: 1545802319:0;ll
+: 1545802523:0;sudo pacman -Sy fakeroot
+: 1545802577:0;yaourt proxydriver
+: 1545802789:0;sudo pacman -S base-devel
+: 1545803067:0;sudo pacman -S --needed base-devel
+: 1545803284:0;pacman -S yaourt
+: 1545803292:0;sudo pacman -S yaourt
+: 1545803328:0;sudo pacman -Syu
+: 1545803579:0;sudo pacman -S --needed base-devel
+: 1545803718:0;ll /etc/lsb-release
+: 1545803737:0;sudo rm -f /etc/lsb-release
+: 1545803742:0;sudo pacman -Syu
+: 1545803816:0;sudo pacman -S --needed base-devel
+: 1545803915:0;sudo pacman -S base-devel
+: 1545804118:0;yaourt proxydriver
+: 1545804498:0;sudo pacman -S --needed base-devel
+: 1545804638:0;yaourt proxydriver
+: 1545804975:0;sudo pacman -R lsb-release manjaro-release
+: 1545805018:0;yaourt proxydriver
+: 1545805308:0;pacman -Qs proxydriver
+: 1545805671:0;sudo pacman -S deepin.com.qq.office
+: 1545806240:0;yaourt nmcli
+: 1545806732:0;xhost +si:localuser:username
+: 1545806750:0;sudo xhost +si:localuser:username
+: 1545806999:0;chrome
+: 1545807037:0;xhost +si:localuser:wedo
+: 1546397435:0;ll
+: 1546397475:0;cd .config
+: 1546397476:0;ls
+: 1546397485:0;vim user-dirs.dirs
+: 1546397652:0;sudo blueman-services
+: 1546398225:0;su
+: 1546398536:0;cd /etc/polkit-1/rules.d/
+: 1546398540:0;su
+: 1546398764:0;j my
+: 1546398776:0;cd /opt/workspace/github/myconf
+: 1546398779:0;git pull
+: 1546574444:0;j my
+: 1546574447:0;git pull
+: 1546652163:0;ls
+: 1546652164:0;ll
+: 1546652194:0;cd Documents
+: 1546652196:0;ll
+: 1546652215:0;mkdir beifeng_ai
+: 1546652218:0;cd beifeng_ai
+: 1546652222:0;ll
+: 1546652225:0;clear
+: 1546655578:0;j my
+: 1546655580:0;git pull
+: 1546678012:0;python -V
+: 1546678018:0;python3 -V
+: 1546738815:0;sudo xmodmap .Xmodmap
+: 1546936078:0;cd Download
+: 1546936079:0;ll
+: 1546936099:0;mv manjaro.pem /opt/tools
+: 1546936101:0;cd /opt/tools
+: 1546936112:0;source .zshrc
+: 1546936115:0;cd
+: 1546936119:0;source .zshrc
+: 1546936130:0;VIM .zshrc
+: 1546936136:0;vim .zshrc
+: 1546936165:0;vim .profile
+: 1546936374:0;xmodmap ~/.Xmodmap
+: 1546936400:0;vim .zshrc
+: 1546936506:0;cd /opt/tools
+: 1546936506:0;ll
+: 1546936511:0;ssh
+: 1546936526:0;cp manjaro.pem ~/.ssh
+: 1546936528:0;cd 
+: 1546936617:0;ssh ec2-user@13.209.76.195
+: 1546936662:0;ssh -i manjaro.pem ec2-user@13.209.76.195
+: 1546936672:0;cd .ssh
+: 1546936673:0;ll
+: 1546936688:0;ssh -i manjaro.pem ec2-user@13.209.76.195
+: 1546936696:0;ifconfig
+: 1546936758:0;cd .ssh
+: 1546936759:0;ll
+: 1546936768:0;chmod 600 manjaro.pem
+: 1546936770:0;ll
+: 1546936795:0;ssh-add -K manjaro.pem
+: 1546936818:0;ssh-add -k manjaro.pem
+: 1546936839:0;ssh ec2-user@13.209.76.195
+: 1546937197:0;ssh ec2-user@caoweidong.cn
+: 1546937264:0;cd
+: 1546937269:0;vim .zshrc
+: 1546937319:0;source .zshrc
+: 1546937340:0;sshec2
+: 1546937363:0;sudo vim /etc/profile
+: 1546937400:0;vim .zshrc
+: 1546937526:0;cat .zshrc
+: 1546937543:0;vim .zshrc
+: 1546937554:0;source .zshrc
+: 1546937605:0;sshec2
+: 1546940076:0;ping caoweidong.cn
+: 1546940084:0;sshec2
+: 1546940157:0;cd .ssh
+: 1546940176:0;ssh -i manjaro.pem ec2-user@54.180.99.253
+: 1546940236:0;ll
+: 1546940239:0;vim known_hosts
+: 1546940285:0;ssh -i manjaro.pem ec2-user@caoweidong.cn
+: 1546940327:0;sudo vim /etc/ssh/sshd_config
+: 1546940873:0;ssh -i manjaro.pem ec2-user@caoweidong.cn
+: 1546941189:0;ll
+: 1546941194:0;rm -f known_hosts
+: 1546941197:0;ssh -i manjaro.pem ec2-user@caoweidong.cn
+: 1546941221:0;ssh-add -k manjaro.pem
+: 1546941229:0;sshec2
+: 1546941475:0;ssh-add -D
+: 1546941482:0;ssh -i manjaro.pem ec2-user@caoweidong.cn
+: 1546941485:0;ll
+: 1546941489:0;mr -f known_hosts
+: 1546941495:0;rm -f known_hosts
+: 1546941501:0;ssh -i manjaro.pem ec2-user@caoweidong.cn
+: 1546941518:0;cd .sh
+: 1546941520:0;cd .ssh
+: 1546941521:0;ll
+: 1546941523:0;vim known_hosts
+: 1546941595:0;ssh-add -I
+: 1546941607:0;ssh-add -l
+: 1546941631:0;lll
+: 1546941632:0;ll
+: 1546941651:0;ssh -i manjaro.pem ec2-user@caoweidong.cn
+: 1546941798:0;ssh -i manjaro.pem ec2-user@54.180.99.253
+: 1546998620:0;cd .ssh
+: 1546998622:0;ll
+: 1546998657:0;ssh -i manjaro.pem ec2-user@54.180.99.253
+: 1546998765:0;sudo vim /etc/ssh/sshd_config
+: 1546999030:0;service sshd restart
+: 1546999113:0;systemctl restart sshd.service
+: 1546999140:0;tail -3 /etc/profile
+: 1546999158:0;xmodmap ~/.Xmodmap
+: 1546999288:0;ssh -i manjaro.pem ec2-user@54.180.99.253
+: 1546999358:0;ll
+: 1546999469:0;ssh 127.0.0.1
+: 1546999855:0;rm -f .Xmodmap
+: 1546999866:0;xmodmap -pke > ~/.Xmodmap
+: 1547000032:0;ssh 127.0.0.1
+: 1547000078:0;rm -f .Xmodmap
+: 1547000090:0;xmodmap -pke > ~/.Xmodmap
+: 1547000097:0;ll .Xmodmap
+: 1547000102:0;vim .Xmodmap
+: 1547000133:0;xmodmap ~/.Xmodmap
+: 1547000169:0;vim .xinitrc
+: 1547000254:0;ll
+: 1547000269:0;sudo vim /etc/profile
+: 1547000348:0;vim .xinitrc
+: 1547000395:0;tail -3 .xinitrc
+: 1547000401:0;which xmodmap
+: 1547000416:0;source .xinitrc
+: 1547000440:0;ll
+: 1547000448:0;vim .xinitrc
+: 1547000535:0;cd .ssh
+: 1547000550:0;ssh -i manjaro.pem ec2-user@54.180.99.253
+: 1547000619:0;sudo vim /etc/ssh/sshd_config
+: 1547001054:0;ssh -i manjaro.pem centos@54.180.99.253
+: 1547001082:0;cd
+: 1547001086:0;vim .zshrc
+: 1547001106:0;source .zshrc
+: 1547001114:0;sshec2
+: 1547001126:0;cd .ssh
+: 1547001135:0;ssh-add -k manjaro.pem
+: 1547001140:0;sshec2
+: 1547003266:0;ssh -i manjaro.pem ec2-user@13.125.166.66
+: 1547003399:0;ssh -i manjaro.pem ubuntu@13.125.166.66
+: 1547004791:0;cd
+: 1547004795:0;vim .zshrc
+: 1547005224:0;sshec2
+: 1547005242:0;vim .zshrc
+: 1547005256:0;source .zshrc
+: 1547005393:0;sshec2
+: 1547005419:0;ll
+: 1547005421:0;cd .ssh
+: 1547005422:0;ll
+: 1547005428:0;vim known_hosts
+: 1547005477:0;sshec2
+: 1547005517:0;ll
+: 1547005521:0;rm -f known_hosts
+: 1547005524:0;ll
+: 1547005537:0;ssh -i manjaro.pem ubuntu@caoweidong.cn
+: 1547005702:0;ping caoweidong.cn
+: 1547005802:0;sshec2
+: 1547005812:0;ping caoweidong.cn
+: 1547005853:0;sshec2
+: 1547013798:0;systemctl status v2ray
+: 1547013813:0;sudo vim /etc/v2ray/config.json
+: 1547015128:0;sudo cp /etc/v2ray/config.json .
+: 1547015160:0;sudo systemctl stop v2ray
+: 1547015167:0;systemctl status v2ray
+: 1547015189:0;su
+: 1547015274:0;v2ray -v
+: 1547015279:0;v2ray
+: 1547015294:0;vim /etc/v2ray/config.json
+: 1547015362:0;ll
+: 1547015368:0;sudo vim /etc/v2ray/config.json
+: 1547015491:0;systemctl status v2ray
+: 1547015505:0;systemctl start v2ray
+: 1547015512:0;systemctl status v2ray
+: 1547015780:0;systemctl stop v2ray
+: 1547015786:0;systemctl status v2ray
+: 1547015803:0;systemctl start v2ray
+: 1547015813:0;systemctl status v2ray
+: 1547023314:0;sshec2
+: 1547084711:0;tail -3 .xinitrc
+: 1547084721:0;source .xinitrc
+: 1547085298:0;sshec2
+: 1547085319:0;cd .ssh
+: 1547085322:0;sshec2
+: 1547085332:0;ll
+: 1547085345:0;ssh -i manjaro.pem ubuntu@caoweidong.cn
+: 1547089766:0;sudo netstat -tap | grep mysql
+: 1547089825:0;sudo apt install net-tools
+: 1547089845:0;sudo pacman -S net-tools
+: 1547089850:0;sudo netstat -tap | grep mysql
+: 1547089863:0;sshec2
+: 1547089872:0;cd .ssh
+: 1547089886:0;ssh -i manjaro.pem ubuntu@caoweidong.cn
+: 1547091115:0;vim
+: 1547091226:0;vim test
+: 1547091236:0;cat te
+: 1547091243:0;cat test
+: 1547098141:0;j m
+: 1547098145:0;git pull
+: 1547176189:0;source .xinitrc
+: 1547183555:0;pythonee V
+: 1547183561:0;python3 -V
+: 1547183566:0;python -V
+: 1547184376:0;cd Documents
+: 1547184377:0;ll
+: 1547184381:0;cd ..
+: 1547184383:0;cd Download
+: 1547184385:0;ll
+: 1547184399:0;mv pycharm-professional-2018.3.3.tar.gz /opt/software
+: 1547184405:0;j so
+: 1547184406:0;ll
+: 1547184434:0;tar -zxf pycharm-professional-2018.3.3.tar.gz -C /opt/tools
+: 1547184444:0;cd ..to
+: 1547184448:0;cd ../tools
+: 1547184449:0;ll
+: 1547184455:0;cd ..
+: 1547184456:0;ll
+: 1547184461:0;cd shortcut
+: 1547184461:0;ll
+: 1547184465:0;java -V
+: 1547184467:0;java -version
+: 1547184490:0;ln -s /opt/tools/pycharm-2018.3.3 pycharm
+: 1547184491:0;ll
+: 1547184493:0;cd pycharm
+: 1547184494:0;ll
+: 1547185154:0;ll bin
+: 1547185250:0;cd /usr/share/applications
+: 1547185259:0;vim pycharm.desktop
+: 1547185305:0;cd bin
+: 1547185307:0;pwd
+: 1547185568:0;sudo vim pycharm.desktop
+: 1547185748:0;sudo vim /etc/hosts
+: 1547185792:0;sh pycharm.sh
+: 1547185916:0;cd /opt/workspace/github/
+: 1547185917:0;ll
+: 1547185958:0;git clone https://github.com/weidongcao/finance_spider.git
+: 1547185978:0;git clone https://github.com/weidongcao/huanLing.git
+: 1547186134:0;mv pycharm.desktop ~/
+: 1547186138:0;sudo mv pycharm.desktop ~/
+: 1547186293:0;pip -V
+: 1547186297:0;pip3 -V
+: 1547186306:0;sudo pip3 install numpy
+: 1547186329:0;sudo pip3 install matplotlib
+: 1547186345:0;sudo pip3 install pandas
+: 1547186362:0;sudo pip3 install scikit-learn
+: 1547186404:0;sudo pip3 install requests
+: 1547186415:0;sudo pip3 install configparser
+: 1547186427:0;sudo pip3 install pymysql
+: 1547186438:0;sudo pip3 install dbutils
+: 1547186750:0;cd /usr/local/bin
+: 1547186751:0;ls
+: 1547186760:0;cat charm
+: 1547186772:0;./charm
+: 1547186822:0;vim pycharm.desktop
+: 1547186841:0;ll
+: 1547186849:0;sudo vim pycharm.desktop
+: 1547186883:0;sudo mv pycharm.desktop /usr/share/applications
+: 1547186924:0;cd /usr/share/applications
+: 1547186929:0;sudo vim pycharm.desktop
+: 1547187236:0;sudo pip3 install jupyter notebook 
+: 1547188312:0;cd Documents/beifeng_ai/LogisticÂÉªÉæÂΩÉ≤‰ª£ÁÉÄÅ
+: 1547188412:0;jupyter notebook
+: 1547256947:0;j m
+: 1547256950:0;git pull
+: 1547256965:0;git status
+: 1547257077:0;git checkout --yong/user.txt
+: 1547257120:0;git checkout -- yong/user.txt
+: 1547257123:0;git status
+: 1547257126:0;git pull
+: 1547258153:0;cd 
+: 1547258163:0;source .xinitrc
+: 1547258191:0;lkasjdfldsj
+: 1547258192:0;ll
+: 1547342853:0;source .xinitrc
+: 1547348613:0;jupyter notebook
+: 1547348632:0;cd ..
+: 1547348632:0;ll
+: 1547348635:0;cd 02_‰ª£ÁÉÄÅ
+: 1547348636:0;ll
+: 1547348640:0;cd EMÁÆÉ∑Ê≥Éµ‰ª£ÁÉÄÅ
+: 1547348640:0;ll
+: 1547348647:0;jupyter notebook
+: 1547366621:0;pip3 install hmmlearn
+: 1547366808:0;pip3 install jieba
+: 1547366990:0;sudo pip3 install jieba
+: 1547367104:0;sudo pip3 install hmmlearn
+: 1547367129:0;sudo pip3 install pluseg
+: 1547367139:0;sudo pip3 install pkuseg
+: 1547861788:0;cd Documents/Tencent\ Files/1774104802/FileRecv
+: 1547861789:0;ll
+: 1547861799:0;ls
+: 1547861806:0;cd Documents
+: 1547861807:0;ll
+: 1547861810:0;cd beifeng_ai
+: 1547861811:0;ll
+: 1547861823:0;cd ..
+: 1547861823:0;ll
+: 1547861825:0;cd ..
+: 1547861826:0;ll
+: 1547861835:0;cd /opt
+: 1547861836:0;ls
+: 1547861838:0;cd document
+: 1547861839:0;ll
+: 1547861841:0;cd ..
+: 1547861842:0;ll
+: 1547861849:0;cd
+: 1547861849:0;ll
+: 1547861856:0;ls Download
+: 1547861883:0;mv ‰∏ªÈÉÇÉ∏Ê®ÉÅÂÉæÉ´V2.0.pdf ~/Download/
+: 1547880275:0;sudo pip3 install lda
+: 1547880449:0;ls
+: 1547880452:0;cd Documents
+: 1547880453:0;ll
+: 1547880455:0;cd beifeng_ai
+: 1547880457:0;ls
+: 1547882834:0;mv ~/Documents/Tencent\ Files/1774104802/FileRecv/ÊÉµ∞ÊÉ≠ÆÊ∏É•Ê¥É∑ÂÉ≤É¨ÁÉ©πÂæÅÈÄÉ©ÊÉ´©V2.0.pdf .
+: 1547882836:0;ll
+: 1547882842:0;cd 
+: 1547882848:0;source .xinitrc
+: 1547882889:0;cd
+: 1547948320:0;cd Documents/beifeng_ai/
+: 1547948321:0;ll
+: 1547948358:0;find / -name "ÁÉ©πÂæÅ*"
+: 1547948391:0;find . -name "ÁÉ©πÂæÅ*"
+: 1547948393:0;cd
+: 1547948394:0;find . -name "ÁÉ©πÂæÅ*"
+: 1547948405:0;find /opt -name "ÁÉ©πÂæÅ*"
+: 1547948490:0;find /opt -name "ÊÉµ∞ÊÉ≠ÆÊ∏É•Ê¥É∑*"
+: 1547948517:0;j doc
+: 1547948519:0;ll
+: 1547948523:0;j dow
+: 1547948525:0;ll
+: 1547948558:0;cp ~/Documents/Tencent\ Files/1774104802/FileRecv/ÊÉµ∞ÊÉ≠ÆÊ∏É•Ê¥É∑ÂÉ≤É¨ÁÉ©πÂæÅÈÄÉ©ÊÉ´©V2.0.pdf .
+: 1547957949:0;cd
+: 1547957956:0;source .xinitrc
+: 1547958050:0;chmod u+x *.zip
+: 1547958051:0;ll
+: 1547958092:0;unzip -O CP936 20190119_ÊÉÆ®ËÉ≠É∞Á≥ªÁªÉøÔºÉ∫ÊÉÆ®ËÉ≠É∞ÁÆÉ∑Ê≥ÉµÊ®ÉÅÂÉæÉ´‰πÉ´ÂÉ≠ÉØÂÉ∞É¨ËøÉßÊª§ÁÆÉ∑Ê≥Éµ.zip
+: 1547958096:0;ll
+: 1547958225:0;unzip -o CP936 20190119_ÊÉÆ®ËÉ≠É∞Á≥ªÁªÉøÔºÉ∫ÊÉÆ®ËÉ≠É∞ÁÆÉ∑Ê≥ÉµÊ®ÉÅÂÉæÉ´‰πÉ´ÂÉ≠ÉØÂÉ∞É¨ËøÉßÊª§ÁÆÉ∑Ê≥Éµ.zip
+: 1547958266:0;unzip -O CP936 20190119_ÊÉÆ®ËÉ≠É∞Á≥ªÁªÉøÔºÉ∫ÊÉÆ®ËÉ≠É∞ÁÆÉ∑Ê≥ÉµÊ®ÉÅÂÉæÉ´‰πÉ´ÂÉ≠ÉØÂÉ∞É¨ËøÉßÊª§ÁÆÉ∑Ê≥Éµ.zip
+: 1547966106:0;jupyter notebook
+: 1547966218:0;cd email_classifer
+: 1547966221:0;jupyter notebook
+: 1547967853:0;sudo pacman -S w3m w3m-el w3m-img
+: 1547969188:0;pwd
+: 1548454917:0;java -version
+: 1548454925:0;which java
+: 1548454940:0;source .xinitrc
+: 1548454975:0;which java
+: 1548454981:0;ll /usr/bin/ja*
+: 1548455025:0;cd /usr/lib/jvm/default/bin
+: 1548455026:0;ls
+: 1548455031:0;cd ..
+: 1548455032:0;ls
+: 1548455034:0;ll
+: 1548455141:0;cd /usr/share/java
+: 1548455143:0;ll
+: 1548455280:0;mv mysql-connector-java-5.1.47.jar mysql-connector-java.jar
+: 1548455293:0;sudo mv mysql-connector-java.jar /usr/share/java
+: 1548455299:0;cd /usr/share/ja
+: 1548455302:0;cd /usr/share/java
+: 1548455303:0;ll
+: 1548455875:0;ll /usr/bin/jav*
+: 1548593831:0;j m
+: 1548593836:0;j my
+: 1548593841:0;git status
+: 1548593862:0;git pull
+: 1548594033:0;git add yong/user.txt*
+: 1548594036:0;git status
+: 1548594050:0;git commit -m 'Â∞ÉØÂ∞ÉØËæÉ≥ÂÉ••Ê≥ÉµÊÉª¥ÊÉ∂∞‰∏™‰∫∫ËØÉ≠'
+: 1548594053:0;git pull
+: 1548594264:0;git status
+: 1548594286:0;git pull
+: 1548594304:0;git status
+: 1548594316:0;git add yong/user.txt.bak
+: 1548594332:0;git commit -m 'Â∞ÉØÂ∞ÉØËæÉ≥ÂÉ••Ê≥ÉµÊÉª¥ÊÉ∂∞‰∏™‰∫∫ËØÉ≠'
+: 1548594338:0;git pull
+: 1548594559:0;git status
+: 1548594564:0;git add yong/user.txt*
+: 1548594574:0;git commit -m 'Â∞ÉØÂ∞ÉØËæÉ≥ÂÉ••Ê≥ÉµÊÉª¥ÊÉ∂∞‰∏™‰∫∫ËØÉ≠'
+: 1548594580:0;git push
+: 1548594678:0;vim --version
+: 1548594693:0;vim --version | grep clipboard
+: 1548594905:0;pacman -S vim-gnome
+: 1548594912:0;sudo pacman -S vim-gnome
+: 1548595089:0;sudo pacman -S gvim
+: 1548595116:0;ping mirrors.tuna.tsinghua.edu.cn
+: 1548595272:0;sudo pacman -S gvim
+: 1548595497:0;sudo pacman-mirrors -b testing -c China
+: 1548595507:0;sudo pacman-mirrors -gb testing -c China
+: 1548595516:0;sudo pacman-mirrors -i -c China -m rank
+: 1548595588:0;sudo pacman-mirrors -g
+: 1548595605:0;sudo pacman -Syyu
+: 1548596268:0;sudo pacman -S gvim
+: 1548596318:0;	\
+sudo vim /var/lib/locales/supported.d/local
+: 1548596510:0;cd
+: 1548596511:0;ll
+: 1548596521:0;ll .vim*
+: 1548596525:0;vim .viminfo
+: 1548596549:0;sudo vim /etc/vimrc
+: 1548596573:0;j my
+: 1548596575:0;cd yong
+: 1548596579:0;vim user.txt
+: 1548596625:0;sudo vim /etc/vimrc
+: 1550281060:0;ls
+: 1550281062:0;ll
+: 1550281076:0;source .xinitrc
+: 1550281111:0;ll
+: 1550281127:0;vim config.json
+: 1550281149:0;LL
+: 1550281166:0;l
+: 1550281173:0;ll
+: 1550281182:0;cat test
+: 1550281190:0;rm -f test
+: 1550281194:0;ll
+: 1550281199:0;cd /opt
+: 1550281200:0;ll
+: 1550281209:0;ll document
+: 1550281218:0;ll script
+: 1550281223:0;ll data
+: 1550281226:0;ll software
+: 1550281230:0;ll
+: 1550281238:0;ll resources
+: 1550281242:0;ll modules
+: 1550281250:0;cd 
+: 1550281251:0;ll
+: 1550281257:0;ll Documents
+: 1550281262:0;cd Documents/beifeng_ai
+: 1550281263:0;ll
+: 1550281272:0;ll course
+: 1550281279:0;ll courses
+: 1550281293:0;ll courseware
+: 1550282004:0;ll
+: 1550282018:0;ll courses
+: 1550282032:0;cd ..
+: 1550282033:0;ll
+: 1550282038:0;cd ..
+: 1550282039:0;ll
+: 1550282045:0;cd /opt
+: 1550282046:0;ll
+: 1550282049:0;cd workspace
+: 1550282049:0;ll
+: 1550282052:0;cd github
+: 1550282053:0;ll
+: 1550282058:0;cd huanLing
+: 1550282059:0;ll
+: 1550282062:0;cd emacs
+: 1550282063:0;ll
+: 1550282070:0;cd ..
+: 1550282070:0;ll
+: 1550282073:0;ll note
+: 1550282077:0;cd note/learning
+: 1550282077:0;ll
+: 1550282126:0;mkdir deepLearning
+: 1550282130:0;ll
+: 1550282137:0;rm -f deepLearning
+: 1550282140:0;rm -rf deepLearning
+: 1550282154:0;mkdir deep_learning
+: 1550284008:0;lspci | grep -i 'VGA'[dmesg | grep -i 'VGA'
+: 1550284011:0;lspci | grep -i 'VGA'[dmesg | grep -i 'VGA']
+: 1550284027:0;lspci | grep -i 'VGA'
+: 1550284043:0;lspci |grep -i 'VGA'
+: 1550287022:0;cd 
+: 1550287045:0;pip -V
+: 1550287053:0;pip3 -V
+: 1550287064:0;ll .pip
+: 1550287067:0;ll .pip3
+: 1550287138:0;cd .config
+: 1550287146:0;l
+: 1550287256:0;cd
+: 1550287263:0;mkdir .pip
+: 1550287266:0;cd .pip
+: 1550287274:0;vim pip.conf
+: 1550288272:0;pip3 install tensorflow==1.4.0
+: 1550288402:0;pip3 install tensorflow==1.6
+: 1550288461:0;pip3 install tensorflow==1.4 -i https://pypi.tuna.tsinghua.edu.cn/simple/
+: 1550288485:0;pip3 install tensorflow==1.4
+: 1550288495:0;pip3 install viretualenv
+: 1550288527:0;pip3 install tensorflow
+: 1550288880:0;sudo pip3 install tensorflow
+: 1550289118:0;conda 
+: 1550289133:0;conda
+: 1550289139:0;which conda
+: 1550289194:0;anaconda
+: 1550289281:0;whereis conda
+: 1550294756:0;echo $PATH | grep python
+: 1550294763:0;echo $PATH 
+: 1550294805:0;python -V
+: 1550294808:0;python3 -V
+: 1550294815:0;which python*
+: 1550294818:0;which python
+: 1550294827:0;ll /usr/bin/python
+: 1550294836:0;ll /usr/bin/python3
+: 1550294856:0;sudo rm -f /usr/bin/python
+: 1550294861:0;sudo rm -f /usr/bin/python3
+: 1550294886:0;vim .zshrc
+: 1550294918:0;which anaconda
+: 1550294927:0;whereis anaconda
+: 1550294940:0;cd /opt/anaconda/bin
+: 1550295002:0;sudo ln -s /usr/bin/python3.7 /usr/bin/python3
+: 1550295141:0;ll /usr/bin/python3
+: 1550295153:0;sudo ln -s /usr/bin/python3 /usr/bin/python
+: 1550295158:0;ll /usr/bin/pytho*
+: 1550295176:0;ll
+: 1550295178:0;pwd
+: 1550295294:0;source .zshrc
+: 1550295301:0;echo $PATH
+: 1550295332:0;conda
+: 1550295336:0;conda -V
+: 1550295342:0;conda env list
+: 1550295381:0;conda create -n python3.6 python=3.6
+: 1550295566:0;activate python3.6
+: 1550295583:0;source activate python3.6
+: 1550295590:0;python -V
+: 1550295593:0;python3 -V
+: 1550295624:0;cd /opt/anaconda/
+: 1550295625:0;ll
+: 1550295629:0;cd envs
+: 1550295630:0;ll
+: 1550295662:0;which python3
+: 1550295672:0;pip -V
+: 1550295682:0;pip install numpy
+: 1550295763:0;pip install matplotlib
+: 1550295854:0;pip install pandas
+: 1550295987:0;pip install requests
+: 1550295999:0;python -V
+: 1550296014:0;pip install pymysql
+: 1550296025:0;python -V
+: 1550296071:0;pip install tensorflow==1.4.0
+: 1550297114:0;pip install scikit-learn
+: 1550297193:0;conda create -n test python=3.6
+: 1550297214:0;conda env list
+: 1550297232:0;activate test
+: 1550297254:0;source activate test
+: 1550297270:0;conda activate test
+: 1550297275:0;python -V
+: 1550297280:0;which python
+: 1550297285:0;pip -V
+: 1550297294:0;pip install requests
+: 1550297324:0;pip install configparser
+: 1550297332:0;python -V
+: 1550297347:0;pip install dbutils
+: 1550297358:0;python -V
+: 1550297394:0;source activate python3.6
+: 1550297411:0;activate python3.6
+: 1550297419:0;conda activate python3.6
+: 1550297422:0;python -V
+: 1550297428:0;which python 
+: 1550302582:0;pip install configparser
+: 1550302593:0;pip install pymysql
+: 1550302601:0;pip install dbutils
+: 1550302670:0;python -V
+: 1550302676:0;which python
+: 1550308463:0;cd /opt/workspace/github
+: 1550308463:0;ll
+: 1550308465:0;cd huanLing
+: 1550308469:0;git status
+: 1550308476:0;git pull
+: 1550308494:0;cd note
+: 1550308498:0;cd learning/deep_learning
+: 1550308499:0;ll
+: 1550308504:0;git add tensorFlow_basis.org
+: 1550308522:0;git commit -m 'Ê∑±Â∫¶Â≠¶‰πÉÄÁ¨É¥ËÆ∞'
+: 1550308526:0;git push
+: 1550308552:0;git status
+: 1550366832:0;ll
+: 1550366839:0;ln -s /opt/workspace/github
+: 1550366840:0;ll
+: 1550366923:0;source .xinitrc
+: 1550367834:0;which python
+: 1550367841:0;python -V
+: 1550367856:0;activate python3.6
+: 1550367868:0;source activate python3.6
+: 1550367871:0;python -V
+: 1550388500:0;j yo
+: 1550388503:0;cd ..
+: 1550388504:0;git pull
+: 1550886334:0;source .xinitrc
+: 1550886362:0;python -V
+: 1550886483:0;cd
+: 1550886484:0;ll
+: 1550886513:0;touch common.sh
+: 1550886682:0;source .xinitrc
+: 1550886710:0;ls
+: 1550886711:0;ll
+: 1550886717:0;vim common.sh
+: 1550887180:0;ll
+: 1550887188:0;vim config.json
+: 1550887201:0;mkdir conf
+: 1550887209:0;mv config.json conf
+: 1550887211:0;ll
+: 1550887222:0;mkdir shortcut
+: 1550887225:0;ln -s /opt
+: 1550887227:0;ll
+: 1550887234:0;ll opt
+: 1550887248:0;ll opt/
+: 1550887254:0;cd opt
+: 1550887255:0;ll
+: 1550887258:0;cd document
+: 1550887259:0;ll
+: 1550887262:0;cd ..
+: 1550887262:0;pll
+: 1550887267:0;ll
+: 1550887275:0;lss resources
+: 1550887277:0;ls resources
+: 1550887284:0;ls workspace
+: 1550887569:0;j m
+: 1550887573:0;git pull
+: 1550887581:0;git status
+: 1550887597:0;git diff emacs/init-packages.el
+: 1550887634:0;git diff emacs/init.el
+: 1550887661:0;git add emacs/init-packages.el
+: 1550887671:0;git add emacs/init.el
+: 1550887683:0;git add emacs/lisp/custom.el
+: 1550887692:0;git add emacs/lisp/init-ui.el
+: 1550887696:0;git status
+: 1550887725:0;git commit -m 'EmacsÊÉª¥ÊÉ∂∞‰∏™‰∫∫ÈÉ•É≠ÁΩÆ'
+: 1550888573:0;cd yong
+: 1550888577:0;vim user.txt
+: 1550888599:0;git add user.txt*
+: 1550888601:0;git status
+: 1550888614:0;git commit -m 'Â∞ÉØÂ∞ÉØËæÉ≥ÂÉ••Ê≥ÉµÊÉª¥ÊÉ∂∞‰∏™‰∫∫ËØÉ≠'
+: 1550888618:0;git pull
+: 1550888714:0;git branch
+: 1550888756:0;ll
+: 1550888767:0;vim user.txt
+: 1550888782:0;git pull
+: 1550888869:0;git status
+: 1550888874:0;git push
+: 1550902529:0;CD
+: 1550902532:0;cd
+: 1550902537:0;source .xinitrc
+: 1550902576:0;ssh -i manjaro.pem ubuntu@caoweidong.cn
+: 1550902594:0;cd .ssh
+: 1550902595:0;ll
+: 1550902600:0;ssh -i manjaro.pem ubuntu@caoweidong.cn
+: 1551418178:0;cd .ssh
+: 1551418182:0;ssh -i manjaro.pem ubuntu@caoweidong.cn
+: 1551418211:0;ping caoweidong.cn
+: 1551418269:0;cd .ssh
+: 1551418271:0;ll
+: 1551586064:0;source .xinitrc
+: 1551594270:0;ll
+: 1551594293:0;unzip 04_ÈÄÉ≤ÂΩÉ≤Á•ÉæÁªÉØÁΩÉ±ÁªÉºÔºÉ®RNNÔºÉ©.zip
+: 1551594295:0;ll
+: 1551594364:0;cp 04_ÈÄÉ≤ÂΩÉ≤Á•ÉæÁªÉØÁΩÉ±ÁªÉºÔºÉ®RNNÔºÉ©.zip /opt/document
+: 1551594370:0;cd /opt/document
+: 1551594371:0;ll
+: 1551594378:0;unzip 04_ÈÄÉ≤ÂΩÉ≤Á•ÉæÁªÉØÁΩÉ±ÁªÉºÔºÉ®RNNÔºÉ©.zip
+: 1551594389:0;ll
+: 1551594568:0;unzip -O CP936 04_ÈÄÉ≤ÂΩÉ≤Á•ÉæÁªÉØÁΩÉ±ÁªÉºÔºÉ®RNNÔºÉ©.zip
+: 1551594675:0;unzip -o CP936 04_ÈÄÉ≤ÂΩÉ≤Á•ÉæÁªÉØÁΩÉ±ÁªÉºÔºÉ®RNNÔºÉ©.zip
+: 1551594916:0;yaourt -R unzip
+: 1551594935:0;yaourt unzip
+: 1551595029:0;ll
+: 1551595053:0;cd /opt/document
+: 1551595055:0;ll
+: 1551595092:0;unzip -O GBK 04_ÈÄÉ≤ÂΩÉ≤Á•ÉæÁªÉØÁΩÉ±ÁªÉºÔºÉ®RNNÔºÉ©.zip
+: 1551595229:0;ll
+: 1551595235:0;mv 04_ÈÄÉ≤ÂΩÉ≤Á•ÉæÁªÉØÁΩÉ±ÁªÉºÔºÉ®RNNÔºÉ©.zip deeping_learning
+: 1551595353:0;cd deeping_learning
+: 1551595355:0;ll
+: 1551595405:0;unzip -O GBK 03_ÂÉ≠∑ÁßØÁ•ÉæÁªÉØÁΩÉ±ÁªÉºÔºÉ®CNNÔºÉ©.zip
+: 1551595512:0;unzip -O GBK 04_ÈÄÉ≤ÂΩÉ≤Á•ÉæÁªÉØÁΩÉ±ÁªÉºÔºÉ®RNNÔºÉ©.zip
+: 1551595551:0;cp 01_TensorFlowÂÉø∫ÁÉÅÄ.zip /opt/document/deeping_learning
+: 1551595572:0;cp 02_Ê∑±Â∫¶Â≠¶‰πÉÄÊ¶ÇËø∞.zip /opt/document/deeping_learning
+: 1551595583:0;cp 05.ÁÉ¥ÉøÊÉ®É∞ÂºÉØÂØπÊÉ™É∑ÁΩÉ±ÁªÉºÔºÉ®GANÔºÉ©.zip /opt/document/deeping_learning
+: 1551595789:0;find . -name "input_data.py"
+: 1551598037:0;find . -name "training.py"
+: 1551599722:0;cd
+: 1551599725:0;cd .ssh
+: 1551599734:0;ssh -i manjaro.pem ubuntu@13.124.153.9
+: 1551599755:0;cd
+: 1551599757:0;cd .ssh
+: 1551599757:0;ll
+: 1551599769:0;vim known_hosts
+: 1551600446:0;rm -f known_hosts
+: 1551600470:0;ssh -i manjaro.pem ubuntu@13.124.153.9
+: 1551600541:0;ll
+: 1551601124:0;ssh -i manjaro.pem ubuntu@13.124.153.9
+: 1551604376:0;python -V
+: 1551604389:0;which python
+: 1551604411:0;cd
+: 1551604437:0;conda list
+: 1551604495:0;ll
+: 1551605702:0;ssh -i manjaro.pem ubuntu@13.124.153.9
+: 1551605707:0;cd .ssh
+: 1551605709:0;ssh -i manjaro.pem ubuntu@13.124.153.9
+: 1551606640:0;conda env list
+: 1551606671:0;source activate python3.6
+: 1551606676:0;activate python3.6
+: 1551606683:0;conda activate python3.6
+: 1551606687:0;python -V
+: 1551606712:0;pip -V
+: 1551606719:0;pip install opencv-python
+: 1551606837:0;cd
+: 1551606838:0;ll
+: 1551606846:0;mkdir shell 
+: 1551606875:0;vim shell/conda_env_py36.sh
+: 1551607038:0;chmod u+x shell/conda_env_py36.sh
+: 1552098860:0;source .xinitrc
+: 1552099244:0;vim .zshrc
+: 1552099259:0;vim .xinitrc
+: 1552099274:0;source .xinitrc
+: 1552099318:0;tail -3 .xinitrc
+: 1552099327:0;xmodmap ~/.Xmodmap
+: 1552112721:0;source .xinitrc
+: 1552112757:0;xmodmap ~/.Xmodmap
+: 1552112821:0;cd /opt/document/deeping_learning
+: 1552112822:0;ll
+: 1552112849:0;unzip -O GBK 05.ÁÉ¥ÉøÊÉ®É∞ÂºÉØÂØπÊÉ™É∑ÁΩÉ±ÁªÉºÔºÉ®GANÔºÉ©.zip
+: 1552114472:0;cd .ssh
+: 1552114473:0;ll
+: 1552114486:0;ssh -i manjaro.pem ubuntu@13.209.70.252\
+
+: 1552116602:0;ping 13.209.70.252
+: 1552116653:0;ssh -i manjaro.pem ubuntu@13.209.70.252\
+
+: 1552116708:0;msql
+: 1552116710:0;mysql
+: 1552116820:0;sudo mysql_secure_installation
+: 1552116836:0;su
+: 1552116906:0;cd
+: 1552117236:0;sudo systemctl start mysqld && mysql_secure_installation
+: 1552117282:0;sudo systemctl start mysqld
+: 1552117312:0;sudo systemctl status mysqld
+: 1552117338:0;sudo mysql_secure_installation
+: 1552117399:0;sudo systemctl start mysqld
+: 1552120002:0;systemctl status mysqld.service
+: 1552120087:0;ps -ef | grep mysql
+: 1552120141:0;ps -ef | grep 25808
+: 1552120173:0;sudo kill 25808
+: 1552120808:0;ps -ef | grep mysql
+: 1552120826:0;kill -i 31739
+: 1552120832:0;kill -9 31739
+: 1552120837:0;sudo kill -9 31739
+: 1552120850:0;kill -9 32025
+: 1552120864:0;kill -9 32027
+: 1552120871:0;sudo systemctl start mysqld
+: 1552122019:0;journalctl -xe
+: 1552122885:0;cd /usr/share/mysql
+: 1552122886:0;ll
+: 1552122918:0;msyql
+: 1552123115:0;sudo systemctl status mysqld
+: 1552123171:0;ll
+: 1552123176:0;exit
+: 1552123193:0;whereis mysql
+: 1552123203:0;cd /usr/share/mysql
+: 1552123204:0;ll
+: 1552123229:0;mysql
+: 1552123358:0;myslq -h13.209.70.252 -uwedo -p
+: 1552123368:0;mysql -h13.209.70.252 -uwedo -p
+: 1552123472:0;telnet   13.209.70.252 3306
+: 1552123485:0;telnet   13.209.70.252 80
+: 1552182436:0;xmodmap ~/.Xmodmap
+: 1552186500:0;cd Documents
+: 1552186503:0;ll
+: 1552186505:0;cd beifeng_ai
+: 1552186506:0;ll
+: 1552186508:0;cd deep_learning
+: 1552186509:0;ll
+: 1552186514:0;cd Ê∑±Â∫¶Â≠¶‰πÉÄËØæ‰ª∂
+: 1552186514:0;ll
+: 1552186519:0;cd /opt
+: 1552186520:0;ll
+: 1552186522:0;cd document
+: 1552186523:0;ll
+: 1552186526:0;ll deeping_learning
+: 1552186530:0;cd ..
+: 1552186530:0;ll
+: 1552186536:0;ll resources
+: 1552186541:0;cd
+: 1552186542:0;ll
+: 1552186551:0;cat common.sh
+: 1552186555:0;ll
+: 1552186560:0;ll sh
+: 1552186565:0;ll shell
+: 1552186566:0;ll
+: 1552186569:0;python -V
+: 1552186574:0;ll Download
+: 1552186577:0;ll
+: 1552186585:0;cd Documents
+: 1552186586:0;ll
+: 1552186590:0;cd beifeng_ai
+: 1552186591:0;ll
+: 1552186594:0;ll machine_learning
+: 1552186598:0;ll
+: 1552186600:0;cd deep_learning
+: 1552186602:0;ll
+: 1552186659:0;touch generativeAdversarialNetworks.org
+: 1552186667:0;emacs generativeAdversarialNetworks.org
+: 1552188670:0;ping 13.209.70.252
+: 1552188675:0;telnet   13.209.70.252 3306
+: 1552188703:0;nmap 13.209.70.252 -p 3306
+: 1552188708:0;nc
+: 1552188740:0;cd
+: 1552188744:0;cd .ssh
+: 1552188745:0;ll
+: 1552188749:0;ssh -i manjaro.pem ubuntu@13.209.70.252\
+
+: 1552189288:0;ll
+: 1552202246:0;cd .
+: 1552202249:0;cd
+: 1552202250:0;ll
+: 1552202252:0;ll shell
+: 1552202266:0;sh shell/conda_env_py36.sh
+: 1552202273:0;python -V
+: 1552202286:0;cat shell/conda_env_py36.sh
+: 1552202303:0;source activate python3.6
+: 1552202307:0;activate python3.6
+: 1552202315:0;conda activate python3.6
+: 1552202318:0;python -V
+: 1552202327:0;pip install skimage
+: 1552202454:0;pip install scikit-image
+: 1552204828:0;bash <(curl -L -s https://install.direct/go.sh)
+: 1552205398:0;cd .ssh
+: 1552205401:0;ssh -i manjaro.pem ubuntu@13.209.70.252\
+
+: 1552208874:0;j m
+: 1552208877:0;j my
+: 1552208881:0;git pull
+: 1552208890:0;git status
+: 1552208900:0;git add yong/user.txt*
+: 1552208905:0;git commit -m 'Â∞ÉØÂ∞ÉØËæÉ≥ÂÉ••Ê≥ÉµÊÉª¥ÊÉ∂∞‰∏™‰∫∫ËØÉ≠'
+: 1552208909:0;git pull
+: 1552208913:0;cd yong
+: 1552208914:0;ll
+: 1552208921:0;vim user.txt
+: 1552208998:0;vim user.txt.bak
+: 1552209039:0;git add user.txt*
+: 1552209045:0;git commit -m 'Â∞ÉØÂ∞ÉØËæÉ≥ÂÉ••Ê≥ÉµÊÉª¥ÊÉ∂∞‰∏™‰∫∫ËØÉ≠'
+: 1552209054:0;git push
+: 1552209069:0;exit
+: 1552536064:0;j m
+: 1552536066:0;j my
+: 1552536072:0;git status
+: 1552536080:0;git pull
+: 1552536091:0;cd yong
+: 1552536096:0;e
+: 1552536104:0;emacs user.txt
+: 1552536117:0;emacs user.txt.bak
+: 1552536142:0;ll
+: 1552536153:0;l
+: 1552536174:0;cd .PyCharm2018.3
+: 1552536175:0;ll
+: 1552536182:0;cd config
+: 1552536183:0;ll
+: 1552536199:0;cd ..
+: 1552536200:0;ll
+: 1552536219:0;mv config /opt/workspace/github/myconf
+: 1552536227:0;ll
+: 1552536228:0;cd ..
+: 1552536229:0;ll
+: 1552536255:0;mkdir IntelliJ
+: 1552536257:0;ll
+: 1552536262:0;mv config IntelliJ
+: 1552536263:0;ll
+: 1552536289:0;ln - /opt/workspace/github/myconf/IntelliJ/config
+: 1552536298:0;ln -s /opt/workspace/github/myconf/IntelliJ/config
+: 1552536299:0;ll
+: 1552536309:0;git status
+: 1552536314:0;git add IntelliJ/
+: 1552536316:0;ll
+: 1552536363:0;git commit -m 'IntelliJ(IDEA, Pycharm)Á≥ªÂÉ®É∑Â∑•ÂÉ•∑ÈÉ•É≠ÁΩÆÊÉ∂Éß‰ª∂'
+: 1552536375:0;git pull
+: 1552536379:0;git push
+: 1552706305:0;xmodmap ~/.Xmodmap
+: 1552716160:0;cd .yong
+: 1552716161:0;ll
+: 1552716164:0;vim yong.ini
+: 1552716210:0;yong
+: 1552716220:0;yong -d
+: 1552716236:0;vim yong.ini
+: 1552726730:0;cd
+: 1552726731:0;ll
+: 1552726738:0;vim .zshrc
+: 1552726777:0;source .zshrc
+: 1552726779:0;e
+: 1552726807:0;python -V
+: 1552786410:0;xmodmap ~/.Xmodmap
+: 1552786514:0;python -V
+: 1552786610:0;conda env list
+: 1552786630:0;vim .zshrc
+: 1552786655:0;source .zshrc
+: 1552786665:0;pip -V
+: 1552786672:0;python -V
+: 1552786712:0;ll
+: 1552786730:0;cd /opt
+: 1552786731:0;ll
+: 1552786736:0;ll document
+: 1552786741:0;cd document/deeping_learning
+: 1552786742:0;ll
+: 1552786746:0;cd ..
+: 1552786746:0;ll
+: 1552786752:0;cd deeping_learning
+: 1552786753:0;ll
+: 1552786780:0;mkdir resource
+: 1552786786:0;mv * resource
+: 1552786787:0;ll
+: 1552786883:0;mkdir evernote
+: 1552786884:0;ll
+: 1552786889:0;cd evernote
+: 1552786890:0;ll
+: 1552786924:0;mkdir pjt
+: 1552786926:0;ll
+: 1552786965:0;touch pjt_fang_19031709.org
+: 1552786973:0;ll
+: 1552786979:0;mv pjt_fang_19031709.org pjt
+: 1552786980:0;ll
+: 1552786983:0;cd pjt
+: 1552786985:0;ll
+: 1552786989:0;e pjt_fang_19031709.org
+: 1552787734:0;nohup e pjt_fang_19031709.org&
+: 1552787738:0;jps
+: 1552787748:0;ps -ef | grep 4080
+: 1552787753:0;jps
+: 1552787774:0;ps -ef | grep pjt
+: 1552787788:0;e pjt_fang_19031709.org &
+: 1552787860:0;bc
+: 1552789403:0;sudo pacman -S texlive-core texlive-langchinese texlive-latexextra
+: 1552794623:0;cd /opt/document/deeping_learning
+: 1552794624:0;ll
+: 1552794626:0;cd evernote/pjt
+: 1552794627:0;ll
+: 1552794633:0;rm -f nohup.out
+: 1552794645:0;e pjt_fang_19031709.org &
+: 1552804537:0;bc -q
+: 1552806058:0;unzip -O GBK 02_Ê∑±Â∫¶Â≠¶‰πÉÄÊ¶ÇËø∞.zip
+: 1552806131:0;cd
+: 1552806135:0;ll
+: 1552806144:0;e common.sh
+: 1552806208:0;bc
+: 1552806337:0;bc -l
+: 1552810631:0;service v2ray status
+: 1552810645:0;systemctl status v2ray.service
+: 1552810656:0;which v2ray
+: 1552810668:0;whereis v2ray
+: 1553305231:0;j m
+: 1553305234:0;CD
+: 1553305236:0;cd
+: 1553305239:0;xmodmap ~/.Xmodmap
+: 1553305497:0;j m
+: 1553305500:0;git sttaus
+: 1553305504:0;git status
+: 1553305511:0;git pull
+: 1553305936:0;git status
+: 1553305958:0;git add yong/user.txt*
+: 1553305969:0;git commit -m 'Â∞ÉØÂ∞ÉØËæÉ≥ÂÉ••Ê≥ÉµÊÉª¥ÊÉ∂∞‰∏™‰∫∫ËØÉ≠'
+: 1553305972:0;git pull
+: 1553305984:0;git status
+: 1553306006:0;git checkout -- yong/yong.ini
+: 1553306013:0;git pull
+: 1553308280:0;cd yong
+: 1553308286:0;e user.txt
+: 1553308385:0;e user.txt.bak
+: 1553308448:0;git add user.txt*
+: 1553308451:0;git commit -m 'Â∞ÉØÂ∞ÉØËæÉ≥ÂÉ••Ê≥ÉµÊÉª¥ÊÉ∂∞‰∏™‰∫∫ËØÉ≠'
+: 1553308455:0;git push
+: 1553308545:0;yong -d
+: 1553308673:0;cd .ssh
+: 1553308674:0;ll
+: 1553308687:0;ssh -i manjaro.pem ubuntu@13.209.70.252\
+
+: 1553308743:0;which v2ray
+: 1553308749:0;whereis v2ray
+: 1553308778:0;e /etc/v2ray/config.json
+: 1553308846:0;sudo e /etc/v2ray/config.json
+: 1553308859:0;sudo vim /etc/v2ray/config.json
+: 1553308916:0;systemctl status v2ray.service
+: 1553308935:0;systemctl restart v2ray.service
+: 1553310133:0;exit
+: 1553324179:0;sudo vim /etc/v2ray/config.json
+: 1553324724:0;ll /usr/lib/libidn*
+: 1553324932:0;sudo pacman -Syyu
+: 1553325023:0;sudo pacman-mirrors -i -c China -m rank
+: 1553325095:0;\
+sudo pacman -Syy
+: 1553325113:0;sudo pacman -Syyu
+: 1553325403:0;ll /usr/lib/libidn*
+: 1553325417:0;ll /usr/lib/libidn2*
+: 1553325465:0;sudo mv /usr/lib/libidn2.so .
+: 1553325483:0;sudo mv /usr/lib/libidn2.so.0 .
+: 1553325490:0;sudo mv /usr/lib/libidn2.so.4 .
+: 1553325496:0;ll /usr/lib/libidn2*
+: 1553325500:0;sudo pacman -Syyu
+: 1553325528:0;ll
+: 1553325548:0;mv libidn2.so.4 /usr/lib/
+: 1553325553:0;sudo mv libidn2.so.4 /usr/lib/
+: 1553325557:0;sudo pacman -Syyu
+: 1553325763:0;ll /usr/lib/libidn2*
