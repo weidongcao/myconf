@@ -52,3 +52,6 @@ emacs/elpa/
 emacs/recentf
 emacs/session.*
 emacs/wedo.el
+IntelliJ/config/consoles/.history/
+IntelliJ/config/tasks/
+
