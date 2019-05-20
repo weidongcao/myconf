@@ -46,3 +46,9 @@ flycheck_*.el
 
 # network security
 /network-security.data
+
+
+emacs/elpa/
+emacs/recentf
+emacs/session.*
+emacs/wedo.el
