@@ -21,3 +21,8 @@ Windows下IntelliJ集成开发工具配置文件目录创建软链接:
 ```
 mklink /j C:\Users\Administrator\.PyCharm2018.3\config D:\Workspace\Github\myconf\IntelliJ\config
 ```
+
+Windows下Notepad++配置文件目录创建软链接:
+```
+mklink /j C:\Users\Administrator\AppData\Roaming\Notepad++ D:\Workspace\Github\myconf\Notepad++
+```
