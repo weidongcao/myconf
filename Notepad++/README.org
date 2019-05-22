@@ -1,0 +1,14 @@
+# Notepad++配置文件说明
+
+## 目的
+配置Notepad++使之越来越符合Emacs的使用习惯
+
+## 参考文档
+http://doc.okbase.net/guqiwei/archive/116208.html
+
+## 说明
+主要修改Notepad++的快捷键,使之向Emacs靠拢
+文件名称:
+    shortcuts.xml
+文件所在路径:
+    C:\Users\xxx\AppData\Roaming\Notepad++
