@@ -1,6 +1,6 @@
 <NotepadPlus>
     <InternalCommands>
-        <Shortcut id="41001" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="41001" Ctrl="yes" Alt="no" Shift="yes" Key="78" />
         <Shortcut id="41010" Ctrl="no" Alt="no" Shift="no" Key="0" />
         <Shortcut id="43001" Ctrl="yes" Alt="no" Shift="no" Key="81" />
         <Shortcut id="43009" Ctrl="no" Alt="no" Shift="no" Key="0" />
@@ -33,12 +33,7 @@
         <Command name="Open in another instance" Ctrl="no" Alt="yes" Shift="no" Key="117">$(NPP_DIRECTORY)\notepad++.exe $(CURRENT_WORD) -nosession -multiInst</Command>
         <Command name="Send via Outlook" Ctrl="yes" Alt="yes" Shift="yes" Key="79">outlook /a &quot;$(FULL_CURRENT_PATH)&quot;</Command>
     </UserDefinedCommands>
-    <PluginCommands>
-        <PluginCommand moduleName="DSpellCheck.dll" internalID="2" Ctrl="no" Alt="no" Shift="no" Key="0" />
-        <PluginCommand moduleName="DSpellCheck.dll" internalID="0" Ctrl="no" Alt="no" Shift="no" Key="0" />
-        <PluginCommand moduleName="DSpellCheck.dll" internalID="3" Ctrl="no" Alt="no" Shift="no" Key="0" />
-        <PluginCommand moduleName="DSpellCheck.dll" internalID="1" Ctrl="no" Alt="yes" Shift="no" Key="70" />
-    </PluginCommands>
+    <PluginCommands />
     <ScintillaKeys>
         <ScintKey ScintID="2300" menuCmdID="0" Ctrl="no" Alt="no" Shift="no" Key="40">
             <NextKey Ctrl="yes" Alt="no" Shift="no" Key="78" />
