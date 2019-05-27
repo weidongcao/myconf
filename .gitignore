@@ -48,10 +48,27 @@ flycheck_*.el
 /network-security.data
 
 
+# Emacs不跟踪的文件
 emacs/elpa/
 emacs/recentf
 emacs/session.*
 emacs/wedo.el
+
+# IntelliJ不跟踪的配置文件
 IntelliJ/config/consoles/.history/
 IntelliJ/config/tasks/
+IntelliJ/config/options/dimensions.xml
+IntelliJ/config/options/jdk.table.xml
+IntelliJ/config/options/other.xml
+IntelliJ/config/options/recentProjectDirectories.xml
+IntelliJ/config/options/stubIndex.xml
+IntelliJ/config/options/usage.statistics.xml
+IntelliJ/config/options/window.manager.xml
+IntelliJ/config/port
 
+# IntelliJ 不跟踪插件
+IntelliJ/config/plugins/
+
+IntelliJ/config/plugins/availables.xml
+IntelliJ/config/plugins/availables.xml.etag
+IntelliJ/config/plugins/extensions.xml
