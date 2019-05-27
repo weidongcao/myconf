@@ -55,16 +55,21 @@ emacs/session.*
 emacs/wedo.el
 
 # IntelliJ不跟踪的配置文件
-IntelliJ/config/consoles/.history/
+*.key
+IntelliJ/config/port
 IntelliJ/config/tasks/
+IntelliJ/config/consoles/.history/
+
 IntelliJ/config/options/dimensions.xml
 IntelliJ/config/options/jdk.table.xml
 IntelliJ/config/options/other.xml
 IntelliJ/config/options/recentProjectDirectories.xml
+IntelliJ/config/options/recentProjects.xml
 IntelliJ/config/options/stubIndex.xml
 IntelliJ/config/options/usage.statistics.xml
 IntelliJ/config/options/window.manager.xml
-IntelliJ/config/port
+IntelliJ/config/options/jprofiler.xml
+IntelliJ/config/options/path.macros.xml
 
 # IntelliJ 不跟踪插件
 IntelliJ/config/plugins/
