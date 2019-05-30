@@ -1,6 +1,7 @@
+{0}caod caowd1990
+{0}caom caowd1990@163.com
 {0}conf conf
 {1}conf config
-{1}d 大
 {0}crjg 难的是
 {0}cwyg 难
 {2}d 而
@@ -17,7 +18,7 @@
 {0}ftwa 老代
 {0}gane Generative$_Adversarial$_Networks
 {0}gemo Generative$_Model
-{0}ggqi 一两句话说不清
+{1}ggfh 一直
 {0}gite gitignore
 {-}gite 不透
 {0}giwl 天河公园
@@ -26,11 +27,9 @@
 {0}hudh 鼎益丰
 {0}idea IDEA
 {0}ifil 深圳湾公园
-{0}jagf 归功于
-{0}jjph 蚂蚁宝卡
-{0}jwwu 师傅领进门
 {0}intj IntelliJ
-{0}itgs 深入理解Java虚拟机
+{0}itgs 《深入理解Java虚拟机》
+{1}itgs 深入理解Java虚拟机
 {0}java Java
 {0}jjph 蚂蚁宝卡
 {0}jvmm JVM
@@ -52,8 +51,6 @@
 {0}spuj 栈空间
 {0}srov 相反数
 {0}ssmm 梧桐山
-{0}text text
-{1}thbn 鼻孔
 {0}tjum 短时间内
 {0}ttsh 怎么想
 {0}udfy 准确地说
@@ -64,12 +61,9 @@
 {0}wgan WGAN
 {0}wgjg 倒是
 {0}wjlk 今晚回来吗？
-{0}wnnn 人心惶惶
 {0}wtjg 什么是
 {0}wtyn 健身房
-{0}xwlt 给力
 {0}wvww 创始人
 {0}yagd 京基一百
 {0}yaif 广东深圳
 {0}yaii 广东_深圳_罗湖_
-{0}ynnt 词尾
