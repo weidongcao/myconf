@@ -27,7 +27,7 @@ md ${user.home}\.IntelliJIdea
 mklink /j ${user.home}\.IntelliJIdea\config D:\Workspace\Github\myconf\IntelliJ\config
 ```
 创建idea.properties配置文件的软链接
-````
+```
 mklink D:\ProgramFiles\JetBrains\IntelliJIDEA\bin\idea.properties D:\Workspace\Github\myconf\IntelliJ\idea\idea.properties
 ```
 
