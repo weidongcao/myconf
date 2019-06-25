@@ -1,4 +1,4 @@
-** Windows下配置说明
+## Windows下配置说明
 为配色主题创建软链接:
 ```
 mklink /j ${vim_install_dir}\Vim\${vim_version}\colors D:\Workspace\Github\myconf\vim\colorscheme\colors
@@ -15,6 +15,6 @@ mklink ${vim_install_dir}\Vim\vimrc D:\Workspace\Github\myconf\vim\vimrc
 ```
 mklink  "C:\Program Files (x86)\Vim\vimrc" D:\Workspace\Github\myconf\vim\vimrc
 ```
-** Linux下配置说明
+## Linux下配置说明
 
 //TODO
