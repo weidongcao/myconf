@@ -48,6 +48,7 @@ setting配置文件创建软链接:
 ```
 mklink D:\ProgramFiles\maven\conf\settings.xml D:\Workspace\Github\myconf\maven\windows\settings.xml
 mklink ${user.home}\.m2\settings.xml D:\Workspace\Github\myconf\maven\windows\settings.xml
+md ${user.home}\.m2
 ```
 创建Maven仓库位置:
 ```
