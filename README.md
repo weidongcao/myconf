@@ -52,9 +52,9 @@ md ${user.home}\.m2
 ```
 创建Maven仓库位置:
 ```
-md D:\ProgramFiles\apache-maven\repo
+md D:\ProgramFiles\maven\repo
 ```
-添加M2_HOME环境变量:```M2_HOME --> D:\ProgramFiles\apache-maven```
+添加M2_HOME环境变量:```M2_HOME --> D:\ProgramFiles\maven```
 
 添加PATH:```%M2_HOME%\bin```
 
