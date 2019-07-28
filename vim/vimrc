@@ -77,8 +77,6 @@ set cursorline              " 突出显示当前行
 set magic                   " 设置魔术
 set guioptions-=T           " 隐藏工具栏
 set guioptions-=m           " 隐藏菜单栏
-"set statusline=\ %<%F[%1*%M%*%n%R%H]%=\ %y\ %0(%{&fileformat}\ %{&encoding}\ %c:%l/%L%)\
-" 设置在状态行显示的信息
 set foldcolumn=0
 set foldmethod=indent 
 set foldlevel=3 
@@ -123,9 +121,22 @@ set fencs=utf-8,ucs-bom,shift-jis,gb18030,gbk,gb2312,cp936
 "语言设置
 set langmenu=zh_CN.UTF-8
 set helplang=cn
-" 我的状态行显示的内容（包括文件类型和解码）
-set statusline=%F%m%r%h%w\ [FORMAT=%{&ff}]\ [TYPE=%Y]\ [POS=%l,%v][%p%%]\ %{strftime(\"%d/%m/%y\ -\ %H:%M\")}
-set statusline=[%F]%y%r%m%*%=[Line:%l/%L,Column:%c][%p%%]
+
+" 状态行显示的内容（包括文件类型和解码）
+set statusline=
+" 状态行显示文件名/如果缓冲区修改则为[+]/
+" 缓冲区只读则为[RO]/如果为帮助缓冲区显示为[Help]/
+" 如果为预览窗口则显示为[Preview]
+set statusline+=%t%m%r%h%w\ 
+" 显示文件格式(Windows/Linux)
+set statusline+=[FF=%{&ff}]\ 
+" 显示文件编码格式
+set statusline+=%{\"[fenc=\".(&fenc==\"\"?&enc:&fenc).((exists(\"+bomb\")\ &&\ &bomb)?\"+\":\"\").\"]\"}\ 
+" 显示光标所在位置
+set statusline+=[POS=%l,%v][%p%%]\ 
+" 显示时间
+set statusline+=%{strftime(\"%Y-%m-%d\ %H:%M:%S\")}
+
 " 总是显示状态行
 set laststatus=2
 " 命令行（在状态行下）的高度，默认为1，这里是2
@@ -160,6 +171,14 @@ set fillchars=vert:\ ,stl:\ ,stlnc:\
 set showmatch
 " 匹配括号高亮的时间（单位是十分之一秒）
 set matchtime=1
+" 不自动换行
+set nowrap
+" 设置Vim窗口打开大小
+set lines=48 columns=100
+" 设置Vim窗口打开位置
+winpos 500 0
+" 普通模式显示输入
+set showcmd
 
 set background=dark
 " colorscheme solarized
