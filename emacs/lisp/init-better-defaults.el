@@ -4,6 +4,8 @@
 ;; --> encoding
 ;;(set-language-environment "UTF-8")
 
+;; -->字体设置
+(set-default-font "Source Code Pro-14")
 
 (global-auto-revert-mode t)
 
