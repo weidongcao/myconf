@@ -62,7 +62,7 @@ endif
 " 判定当前操作系统类型)
 if(has("win32") || has("win95") || has("win64") || has("win16"))
 	" set guifont=Consolas:h14:cANSI
-	set guifont=SourceCodePro:h14:cANSI
+	set guifont=Source\ Code\ Pro:h14:cANSI
 	" set guifont=Monospace:h14
 else
 	" set guifont=Consolas\ 16
