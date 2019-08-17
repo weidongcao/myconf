@@ -3,6 +3,7 @@ adam Adam
 adgr AdaGrad
 alne AlexNet
 altt Alt
+amps zamplus
 anaa Anaconda
 andd Android
 apii API
@@ -13,16 +14,18 @@ assn Assign
 basc Basic
 basi batch_size
 calo CapsLock
-caod caowd1990
+caod caowd1990 caowd1990
 ceil ceil
 cent CentOS
 chia China
+cire CitrixReceiver
 clas Classification
+clpa classpath
 clur Cluster
 clus Clustering
 cnnn CNN
 colu column
-conf conf
+conf conf conf
 conl Convolutional
 conv CONV
 copy copy
@@ -30,10 +33,16 @@ cost Cost
 cpuu CPU
 cree Create
 ctrl Ctrl
+cwdo caoweidong
 data DataFrame
+deen Deepin
 deep Deep
 deft Default
+depn Deepin
 dise Discriminative
+dmpp DMP
+down down
+dpnn Deepin
 drot Dropout
 drou Dropout
 dtye dtype
@@ -46,45 +55,49 @@ fale False
 feed feed
 feth fetch
 ff F
+fifo firefox
 filr filter
 floo floor
 flor floor
 getv get_variable
 gihu GitHub
-gite gitignore
+gite gitignore gitignore
 gitt Git
 gnme Gnome
 gpuu GPU
 grah Graph
+gvim gvim
 hado Hadoop
+hadp Hadoop
 heit height
 helo Hello
-hosp HotSpot
-idea IDEA
+hosp HotSpot HotSpot
+idea IDEA IDEA
 inde index
 inie initialize
 inir initializer
 init init
 inpt Input
-intj IntelliJ
+intj IntelliJ IntelliJ
 iter iter
-java Java
+java Java Java
 jebr JetBrain
-jvmm JVM
+jira jira
+jvmm JVM JVM
 kafk Kafka
 keeb keep_prob
 kerl Kernel
 labl label
 late LaTeX
 layr Layer
-lect lect
+lect lect lect
 lera Learning_Rate
 line line
 lins linspace
 linu Linux
 linx Linux
 list List
-lnxx Linux
+lnxx Linux Linux
 logc Logistic
 logs logs
 loss Loss
@@ -93,15 +106,19 @@ mado markdown
 manj Manjaro
 mapr Mapreduce
 mapt Matplotlib
-mavn maven
+mavn maven maven
 mean Mean
+msmc mstmc
+msts mstsc
 mysl Mysql
 name name
 nams name_scope
+navt Navicat
 ndar ndarray
 netk Network
 nlpp NLP
 nump NumPy
+nvct Navicat
 objt Object
 oneh one_hot
 onho one_hot
@@ -112,16 +129,21 @@ ormo org-mode
 ovfi Overfitting
 padg padding
 pand pandas
+pgnn plugin
+pgns plugins
 pkge package
-pkgs packages
+pkgs packages packages
 plar placeholder
+plun plugin
 poog Pooling
 powe power
+prem Premium
 prep Preprocessing
 prin print
 prit print
 proo Pro
-pycm PyCharm
+puls puls
+pycm PyCharm PyCharm
 pytn Python
 redi Redis
 regn Regularization
@@ -133,10 +155,11 @@ reue reuse
 robt Robust
 root root
 savr Saver
+scaa Scala
 scar scalar
 scoe scope
-secr SecureCRT
-secu SecureCRT
+secr SecureCRT SecureCRT
+secu SecureCRT SecureCRT
 serr Server
 sesn Session
 shae shape
@@ -146,13 +169,16 @@ skle sk-learn
 sofx Softmax
 solr Solr
 soue Source
-spak Spark
+spak Spark Spark
+sqll SQL
 squa square
 stat status
+stem Streaming
 step Step
 stom Storm
 strs strides
 sumy Summary
+sysm system
 tanh tanh
 task Task
 tenr Tensor
@@ -160,11 +186,13 @@ tenw TensorFlow
 tfid TF-IDF
 thee There
 thet theta
+tite Title
 togg toggle
 true True
 trun truncate
 ubuu Ubuntu
 unkn unknown
+uuid UUID
 vale Value
 valu value
 vare Variable
@@ -172,11 +200,16 @@ vars variable_scope
 vgne VGGNet
 vimm Vim
 vmwe Vmware
+wedo weidongcao
 weio weidongcao
-wgan WGAN
+wgan WGAN WGAN
 widh width
+wifi wifi
+wiki wiki
 wind Windows
 winds Windows
 wins Windows
+wisc winscp
 word World
 xgbt XGBoost
+xray xray

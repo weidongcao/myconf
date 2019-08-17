@@ -1,23 +1,28 @@
+adnn 233288#Adnine
 alpa \alpha
 arro -->
 arrw -->
 barr \bar{}
 begn \begin{}
 beta \beta
-caom caowd1990@163.com
+caom caowd1990@163.com caowd1990@163.com
 chii \chi
 coss \cos
 dela \Delta
+diay 【Diary】
 divv \div
 endd \end{}
 fnfx f(x)
 gama \gamma
 hatt \hat{}
-itgs 《深入理解Java虚拟机》
+itgs 《深入理解Java虚拟机》 《深入理解Java虚拟机》
 jaho ${JAVA_HOME}
 lama \lambda
 mumu \mu
 muum \mu
+nopd Notepad++
+notd Notepad++
+pasd 233288#Adnine
 piip \pi
 siga \sigma
 sinn \sin
@@ -29,6 +34,7 @@ thess (s)
 thesv (v)
 tims \times
 vecc \vec{}
+wdcc weidong@zamplus.com
 wiha \widehat{}
 xiix \xi
 xxyy (x,y)
