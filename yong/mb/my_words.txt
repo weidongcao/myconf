@@ -13,6 +13,7 @@ assn Assign
 basc Basic
 basi batch_size
 calo CapsLock
+caod caowd1990
 ceil ceil
 cent CentOS
 chia China
@@ -21,6 +22,7 @@ clur Cluster
 clus Clustering
 cnnn CNN
 colu column
+conf conf
 conl Convolutional
 conv CONV
 copy copy
@@ -49,6 +51,7 @@ floo floor
 flor floor
 getv get_variable
 gihu GitHub
+gite gitignore
 gitt Git
 gnme Gnome
 gpuu GPU
@@ -56,24 +59,32 @@ grah Graph
 hado Hadoop
 heit height
 helo Hello
+hosp HotSpot
+idea IDEA
 inde index
 inie initialize
 inir initializer
 init init
 inpt Input
+intj IntelliJ
 iter iter
+java Java
 jebr JetBrain
+jvmm JVM
 kafk Kafka
 keeb keep_prob
 kerl Kernel
 labl label
 late LaTeX
 layr Layer
+lect lect
 lera Learning_Rate
+line line
 lins linspace
 linu Linux
 linx Linux
 list List
+lnxx Linux
 logc Logistic
 logs logs
 loss Loss
@@ -82,6 +93,7 @@ mado markdown
 manj Manjaro
 mapr Mapreduce
 mapt Matplotlib
+mavn maven
 mean Mean
 mysl Mysql
 name name
@@ -101,6 +113,7 @@ ovfi Overfitting
 padg padding
 pand pandas
 pkge package
+pkgs packages
 plar placeholder
 poog Pooling
 powe power
@@ -108,6 +121,7 @@ prep Preprocessing
 prin print
 prit print
 proo Pro
+pycm PyCharm
 pytn Python
 redi Redis
 regn Regularization
@@ -121,6 +135,8 @@ root root
 savr Saver
 scar scalar
 scoe scope
+secr SecureCRT
+secu SecureCRT
 serr Server
 sesn Session
 shae shape
@@ -130,7 +146,9 @@ skle sk-learn
 sofx Softmax
 solr Solr
 soue Source
+spak Spark
 squa square
+stat status
 step Step
 stom Storm
 strs strides
@@ -155,6 +173,7 @@ vgne VGGNet
 vimm Vim
 vmwe Vmware
 weio weidongcao
+wgan WGAN
 widh width
 wind Windows
 winds Windows

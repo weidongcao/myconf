@@ -1,8 +1,11 @@
 cnne Convolutional$_Neural$_Networks
 dime Dimensionality$_reduction
+dimo Discriminative$_Model
 fcla FC$_Layer
 fnfxe f(x)$_=$_
+gane Generative$_Adversarial$_Networks
 gcmm git$_commit$_-m$_
+gemo Generative$_Model
 giad git$_add
 gico git$_commit
 gipu git$_push
@@ -11,4 +14,5 @@ inla Input$_Layer
 nene Neural$_Networks
 pola Pooling$_Layer
 ppro P30$_Pro
+righ $_-->$_
 vmwo Vmware$_Workstation

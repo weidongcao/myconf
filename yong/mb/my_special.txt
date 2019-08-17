@@ -4,6 +4,7 @@ arrw -->
 barr \bar{}
 begn \begin{}
 beta \beta
+caom caowd1990@163.com
 chii \chi
 coss \cos
 dela \Delta
@@ -12,6 +13,7 @@ endd \end{}
 fnfx f(x)
 gama \gamma
 hatt \hat{}
+itgs 《深入理解Java虚拟机》
 jaho ${JAVA_HOME}
 lama \lambda
 mumu \mu
