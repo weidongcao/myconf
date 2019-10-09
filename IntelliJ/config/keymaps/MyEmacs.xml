@@ -1,0 +1,26 @@
+<keymap version="1" name="MyEmacs" parent="Emacs">
+  <action id="Console.Execute">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="EditorChooseLookupItem">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="EditorEnter">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="EditorTab">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
+  <action id="InsertLiveTemplate" />
+  <action id="NextTemplateVariable">
+    <keyboard-shortcut first-keystroke="tab" />
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="TodoViewGroupByShowModules">
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+</keymap>

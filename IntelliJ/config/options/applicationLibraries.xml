@@ -1,0 +1,89 @@
+<application>
+  <component name="libraryTable">
+    <library name="Python 2.7 (beijingThirdPeriod) interpreter library">
+      <CLASSES>
+        <root url="file://D:/ProgramFiles/Anaconda3/envs/python27/DLLs" />
+        <root url="file://D:/ProgramFiles/Anaconda3/envs/python27/Lib" />
+        <root url="file://D:/ProgramFiles/Anaconda3/envs/python27/Lib/lib-tk" />
+        <root url="file://D:/ProgramFiles/Anaconda3/envs/python27" />
+        <root url="file://D:/ProgramFiles/Anaconda3/envs/python27/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/python_stubs/-1686324561" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://D:/ProgramFiles/Anaconda3/envs/python27/DLLs" />
+        <root url="file://D:/ProgramFiles/Anaconda3/envs/python27/Lib" />
+        <root url="file://D:/ProgramFiles/Anaconda3/envs/python27/Lib/lib-tk" />
+        <root url="file://D:/ProgramFiles/Anaconda3/envs/python27" />
+        <root url="file://D:/ProgramFiles/Anaconda3/envs/python27/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/python_stubs/-1686324561" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.6 (bigdata190711) interpreter library">
+      <CLASSES>
+        <root url="file://D:/ProgramFiles/Anaconda3/envs/python3.6/DLLs" />
+        <root url="file://D:/ProgramFiles/Anaconda3/envs/python3.6/Lib" />
+        <root url="file://D:/ProgramFiles/Anaconda3/envs/python3.6" />
+        <root url="file://D:/ProgramFiles/Anaconda3/envs/python3.6/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/python_stubs/2068606287" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://D:/ProgramFiles/Anaconda3/envs/python3.6/DLLs" />
+        <root url="file://D:/ProgramFiles/Anaconda3/envs/python3.6/Lib" />
+        <root url="file://D:/ProgramFiles/Anaconda3/envs/python3.6" />
+        <root url="file://D:/ProgramFiles/Anaconda3/envs/python3.6/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/python_stubs/2068606287" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="scala-sdk-2.11.7" type="Scala">
+      <properties>
+        <language-level>Scala_2_11</language-level>
+        <compiler-classpath>
+          <root url="file://C:/Program Files (x86)/scala/lib/scala-compiler.jar" />
+          <root url="file://C:/Program Files (x86)/scala/lib/scala-library.jar" />
+          <root url="file://C:/Program Files (x86)/scala/lib/scala-reflect.jar" />
+        </compiler-classpath>
+      </properties>
+      <CLASSES>
+        <root url="jar://C:/Program Files (x86)/scala/lib/scala-actors-2.11.0.jar!/" />
+        <root url="jar://C:/Program Files (x86)/scala/lib/scala-actors-migration_2.11-1.1.0.jar!/" />
+        <root url="jar://C:/Program Files (x86)/scala/lib/scala-library.jar!/" />
+        <root url="jar://C:/Program Files (x86)/scala/lib/scala-parser-combinators_2.11-1.0.4.jar!/" />
+        <root url="jar://C:/Program Files (x86)/scala/lib/scala-reflect.jar!/" />
+        <root url="jar://C:/Program Files (x86)/scala/lib/scala-swing_2.11-1.0.2.jar!/" />
+        <root url="jar://C:/Program Files (x86)/scala/lib/scala-xml_2.11-1.0.4.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://C:/Program Files (x86)/scala/api/jars/scala-actors-2.11.0-javadoc.jar!/" />
+        <root url="jar://C:/Program Files (x86)/scala/api/jars/scala-actors-migration_2.11-1.1.0-javadoc.jar!/" />
+        <root url="jar://C:/Program Files (x86)/scala/api/jars/scala-library-2.11.7-javadoc.jar!/" />
+        <root url="jar://C:/Program Files (x86)/scala/api/jars/scala-parser-combinators_2.11-1.0.4-javadoc.jar!/" />
+        <root url="jar://C:/Program Files (x86)/scala/api/jars/scala-reflect-2.11.7-javadoc.jar!/" />
+        <root url="jar://C:/Program Files (x86)/scala/api/jars/scala-swing_2.11-1.0.2-javadoc.jar!/" />
+        <root url="jar://C:/Program Files (x86)/scala/api/jars/scala-xml_2.11-1.0.4-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES />
+    </library>
+  </component>
+</application>

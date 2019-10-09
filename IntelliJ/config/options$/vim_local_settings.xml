@@ -1,0 +1,421 @@
+<application>
+  <component name="VimLocalSettings">
+    <state version="5" />
+    <globalmarks />
+    <filemarks>
+      <file name="/start_script.py" timestamp="1570520067949">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Workspace/Github/huanLing/src/main/com/learn/learnjson/demo_json_load19082210.py" timestamp="1570501940778">
+        <mark key="'" line="13" column="23" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="22" />
+        <mark key="^" line="13" column="45" />
+        <mark key="." line="13" column="23" />
+      </file>
+      <file name="D:/Workspace/Github/huanLing/src/main/com/entity/demo19082317.py" timestamp="1567433390017">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="48" column="10" />
+        <mark key="]" line="48" column="10" />
+        <mark key="." line="48" column="10" />
+      </file>
+      <file name="D:/Workspace/Github/huanLing/src/main/com/zamp/spider_shlocal.py" timestamp="1570527125233">
+        <mark key="'" line="172" column="13" />
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="161" column="0" />
+        <mark key="^" line="160" column="36" />
+        <mark key="." line="161" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1570522123526">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Workspace/Github/bigdata190711/src/main/java/wedo/App.java" timestamp="1570503657167">
+        <mark key="[" line="14" column="36" />
+        <mark key="]" line="12" column="27" />
+        <mark key="." line="12" column="27" />
+        <mark key="^" line="12" column="27" />
+      </file>
+      <file name="/fragment.py" timestamp="1565252156896">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1568862016754">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/spider_shlocal.py" timestamp="1568888031883">
+        <mark key="[" line="118" column="4" />
+        <mark key="]" line="157" column="28" />
+      </file>
+      <file name="D:/Workspace/Github/huanLing/src/main/com/learn/learndict/dict_demo_switch.py" timestamp="1567651299592">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="44" column="34" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+      </file>
+      <file name="D:/Workspace/Github/huanLing/src/main/com/zamp/area_liufei19090617.py" timestamp="1567825926962">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="69" column="19" />
+        <mark key="]" line="69" column="19" />
+        <mark key="^" line="69" column="19" />
+        <mark key="." line="69" column="19" />
+      </file>
+      <file name="D:/Workspace/Github/huanLing/src/main/com/learn/learnargparse19092914.py" timestamp="1570503785705">
+        <mark key="[" line="14" column="15" />
+        <mark key="]" line="8" column="37" />
+        <mark key="^" line="8" column="37" />
+        <mark key="." line="8" column="37" />
+      </file>
+      <file name="/wedo.blog [wedo@caoweidong.cn]" timestamp="1547188605978">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/wedo.csdn [wedo]" timestamp="1566289737590">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/wedo.university [wedo]" timestamp="1566289773321">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Workspace/Github/huanLing/src/main/com/learn/learnjmespath/jmespath_example_19090809.py" timestamp="1567908077904">
+        <mark key="'" line="26" column="14" />
+        <mark key="[" line="55" column="15" />
+        <mark key="]" line="55" column="17" />
+        <mark key="." line="55" column="17" />
+        <mark key="^" line="48" column="102" />
+      </file>
+      <file name="D:/Workspace/Github/send_email/com/zamp/__init__.py" timestamp="1565319723554">
+        <mark key="[" line="7" column="14" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="D:/Workspace/Github/send_email/com/zamp/aaa.py" timestamp="1569219745400">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1564666893304">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Workspace/Github/huanLing/src/main/com/learn/learnjson/aaa.py" timestamp="1566454226736">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/Workspace/Github/huanLing/src/main/com/learn/learnjmespath/es.json" timestamp="1567906863082">
+        <mark key="'" line="10" column="16" />
+        <mark key="[" line="17" column="17" />
+        <mark key="]" line="17" column="17" />
+        <mark key="." line="17" column="17" />
+      </file>
+      <file name="/HTML File.txt.ft" timestamp="1570520123239">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Workspace/Github/huanLing/src/main/com/entity/Person.py" timestamp="1566554565258">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="9" column="28" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1566289881145">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Workspace/Github/send_email/com/zamp/a.json" timestamp="1567905905944">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/Workspace/Github/huanLing/src/main/com/zamp/rebuild_area_system.py" timestamp="1568945822574">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="356" column="14" />
+        <mark key="]" line="356" column="14" />
+        <mark key="." line="356" column="14" />
+        <mark key="^" line="335" column="60" />
+      </file>
+      <file name="D:/Workspace/Github/send_email/com/don/practice/mysql_connect.py" timestamp="1566290997019">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="13" column="61" />
+        <mark key="." line="13" column="61" />
+      </file>
+      <file name="D:/Workspace/Github/huanLing/src/main/com/learn/learnre/demo_re19082620.py" timestamp="1566957599301">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="/ActionScript File Header.txt.ft" timestamp="1570520119026">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1569739737853">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/logistic_demo" timestamp="1547193879749">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b4c04fb9-7dd9-4f31-9bcc-7da8d73ceda2/console.sql" timestamp="1550384952528">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Workspace/Github/huanLing/src/main/com/entity/Friend.py" timestamp="1566548055396">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="D:/Workspace/Github/bigdata190711/src/main/scala/wedo/zamp/SparkContextHadoopConfiguration.scala" timestamp="1569246293898">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="38" />
+        <mark key="^" line="12" column="36" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="D:/Workspace/Github/send_email/com/zamp/area_location.py" timestamp="1564650227757">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/Workspace/Github/huanLing/src/main/com/learn/learntime/learn_time191008.py" timestamp="1570524737277">
+        <mark key="[" line="15" column="26" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="/wedo.friends [wedo]" timestamp="1566289869108">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Arquillian Deployment Method.txt.ft" timestamp="1570520121156">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/wedo.runs [wedo@caoweidong.cn]" timestamp="1550384976246">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/wedo.getup [wedo@caoweidong.cn]" timestamp="1550385234969">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Workspace/Github/huanLing/src/main/com/utils/common_util.py" timestamp="1570503741828">
+        <mark key="'" line="22" column="0" />
+      </file>
+      <file name="D:/Workspace/Github/send_email/com/zamp/s.json" timestamp="1567848014046">
+        <mark key="'" line="118" column="51" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="145" column="0" />
+        <mark key="." line="145" column="0" />
+        <mark key="^" line="145" column="0" />
+      </file>
+      <file name="D:/Workspace/Github/send_email/com/zamp/Friend.py" timestamp="1565318337297">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="/Python Script.txt.ft" timestamp="1570520134881">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Workspace/Github/huanLing/src/main/com/entity/Student.py" timestamp="1567411818957">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="23" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="D:/Workspace/Github/huanLing/src/main/com/learn/learnjson/demo_json19082311.py" timestamp="1568082839225">
+        <mark key="[" line="60" column="21" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+      </file>
+      <file name="D:/Workspace/Github/huanLing/src/main/com/learn/learnjmespath/jmespath_demo_19090518.py" timestamp="1567907121595">
+        <mark key="'" line="1" column="10" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="13" column="10" />
+        <mark key="." line="9" column="64" />
+        <mark key="^" line="8" column="26" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="16" column="22" filename="D:/Workspace/Github/huanLing/src/main/com/learn/learnjson/demo_json_load19082210.py" />
+      <jump line="27" column="49" filename="D:/Workspace/Github/huanLing/src/main/com/learn/learnjson/demo_json19082311.py" />
+      <jump line="28" column="48" filename="D:/Workspace/Github/huanLing/src/main/com/learn/learnjson/demo_json19082311.py" />
+      <jump line="65" column="0" filename="D:/Workspace/Github/huanLing/src/main/com/utils/common_util.py" />
+      <jump line="70" column="0" filename="D:/Workspace/Github/huanLing/src/main/com/utils/common_util.py" />
+      <jump line="119" column="9" filename="D:/ProgramFiles/Anaconda3/envs/python3.6/Lib/json/__init__.py" />
+      <jump line="122" column="19" filename="D:/ProgramFiles/Anaconda3/envs/python3.6/Lib/json/__init__.py" />
+      <jump line="131" column="6" filename="D:/ProgramFiles/Anaconda3/envs/python3.6/Lib/json/__init__.py" />
+      <jump line="152" column="14" filename="D:/ProgramFiles/Anaconda3/envs/python3.6/Lib/json/__init__.py" />
+      <jump line="153" column="7" filename="D:/ProgramFiles/Anaconda3/envs/python3.6/Lib/json/__init__.py" />
+      <jump line="168" column="47" filename="D:/ProgramFiles/Anaconda3/envs/python3.6/Lib/json/__init__.py" />
+      <jump line="175" column="67" filename="D:/ProgramFiles/Anaconda3/envs/python3.6/Lib/json/__init__.py" />
+      <jump line="10" column="44" filename="D:/Workspace/Github/huanLing/src/main/com/entity/Person.py" />
+      <jump line="3" column="0" filename="D:/Workspace/Github/huanLing/src/main/com/entity/Person.py" />
+      <jump line="24" column="0" filename="D:/Workspace/Github/huanLing/src/main/com/entity/Student.py" />
+      <jump line="9" column="13" filename="D:/Workspace/Github/huanLing/src/main/com/entity/demo19082317.py" />
+      <jump line="0" column="0" filename="D:/Workspace/Github/huanLing/src/main/com/entity/demo19082317.py" />
+      <jump line="215" column="25" filename="D:/ProgramFiles/Anaconda3/envs/python3.6/Lib/json/decoder.py" />
+      <jump line="228" column="25" filename="D:/ProgramFiles/Anaconda3/envs/python3.6/Lib/json/decoder.py" />
+      <jump line="354" column="28" filename="D:/ProgramFiles/Anaconda3/envs/python3.6/Lib/json/decoder.py" />
+      <jump line="4" column="0" filename="D:/Workspace/Github/send_email/com/zamp/aaa.py" />
+      <jump line="4" column="17" filename="D:/ProgramFiles/Anaconda3/envs/python3.6/Lib/json/decoder.py" />
+      <jump line="330" column="25" filename="D:/ProgramFiles/Anaconda3/envs/python3.6/Lib/json/decoder.py" />
+      <jump line="64" column="16" filename="D:/ProgramFiles/Anaconda3/envs/python3.6/Lib/json/scanner.py" />
+      <jump line="72" column="41" filename="D:/ProgramFiles/Anaconda3/envs/python3.6/Lib/json/scanner.py" />
+      <jump line="0" column="14" filename="D:/ProgramFiles/Anaconda3/envs/python3.6/Lib/json/scanner.py" />
+      <jump line="4" column="45" filename="D:/ProgramFiles/Anaconda3/envs/python3.6/Lib/json/scanner.py" />
+      <jump line="6" column="11" filename="D:/ProgramFiles/Anaconda3/envs/python3.6/Lib/json/scanner.py" />
+      <jump line="8" column="17" filename="D:/ProgramFiles/Anaconda3/envs/python3.6/Lib/json/scanner.py" />
+      <jump line="14" column="12" filename="D:/ProgramFiles/Anaconda3/envs/python3.6/Lib/json/scanner.py" />
+      <jump line="240" column="0" filename="D:/ProgramFiles/Anaconda3/envs/python3.6/Lib/json/__init__.py" />
+      <jump line="353" column="15" filename="D:/ProgramFiles/Anaconda3/envs/python3.6/Lib/json/__init__.py" />
+      <jump line="338" column="24" filename="D:/ProgramFiles/Anaconda3/envs/python3.6/Lib/json/decoder.py" />
+      <jump line="301" column="31" filename="D:/ProgramFiles/Anaconda3/envs/python3.6/Lib/json/__init__.py" />
+      <jump line="9" column="8" filename="D:/Workspace/Github/huanLing/src/main/com/learn/learndict/demo_dict19081210.py" />
+      <jump line="21" column="0" filename="D:/Workspace/Github/huanLing/src/main/com/learn/learndict/dict_demo_switch.py" />
+      <jump line="86" column="1" filename="D:/Workspace/Github/huanLing/src/main/com/learn/learnjmespath/es.json" />
+      <jump line="18" column="16" filename="D:/Workspace/Github/huanLing/src/main/com/learn/learnjmespath/es.json" />
+      <jump line="81" column="16" filename="D:/Workspace/Github/huanLing/src/main/com/learn/learnjmespath/es.json" />
+      <jump line="17" column="17" filename="D:/Workspace/Github/huanLing/src/main/com/learn/learnjmespath/es.json" />
+      <jump line="68" column="10" filename="D:/Workspace/Github/send_email/com/zamp/aaa.py" />
+      <jump line="15" column="0" filename="D:/Workspace/Github/send_email/com/zamp/aaa.py" />
+      <jump line="335" column="10" filename="D:/ProgramFiles/Anaconda3/envs/python27/Lib/json/decoder.py" />
+      <jump line="351" column="30" filename="D:/ProgramFiles/Anaconda3/envs/python27/Lib/json/decoder.py" />
+      <jump line="302" column="28" filename="D:/ProgramFiles/Anaconda3/envs/python27/Lib/json/decoder.py" />
+      <jump line="70" column="12" filename="D:/Workspace/Github/huanLing/src/main/com/zamp/area_liufei19090617.py" />
+      <jump line="7" column="21" filename="D:/Workspace/Github/huanLing/src/main/com/learn/learnjson/demo_json_load19082210.py" />
+      <jump line="1" column="0" filename="D:/Workspace/Github/huanLing/src/main/com/zamp/area_liufei19090617.py" />
+      <jump line="3" column="10" filename="D:/Workspace/Github/huanLing/src/main/com/zamp/area_liufei19090617.py" />
+      <jump line="0" column="0" filename="D:/Workspace/Github/huanLing/src/main/com/zamp/area_liufei19090617.py" />
+      <jump line="81" column="104" filename="D:/Workspace/Github/send_email/com/zamp/aaa.py" />
+      <jump line="54" column="22" filename="D:/Workspace/Github/send_email/com/zamp/aaa.py" />
+      <jump line="61" column="3" filename="D:/Workspace/Github/send_email/com/zamp/aaa.py" />
+      <jump line="58" column="4" filename="D:/Workspace/Github/send_email/com/zamp/aaa.py" />
+      <jump line="59" column="4" filename="D:/Workspace/Github/send_email/com/zamp/aaa.py" />
+      <jump line="112" column="9" filename="D:/Workspace/Github/send_email/com/zamp/aaa.py" />
+      <jump line="157" column="89" filename="D:/Workspace/Github/send_email/com/zamp/aaa.py" />
+      <jump line="153" column="44" filename="D:/Workspace/Github/send_email/com/zamp/aaa.py" />
+      <jump line="76" column="0" filename="D:/Workspace/Github/send_email/com/zamp/aaa.py" />
+      <jump line="154" column="0" filename="D:/Workspace/Github/send_email/com/zamp/aaa.py" />
+      <jump line="40" column="0" filename="D:/Workspace/Github/send_email/com/zamp/aaa.py" />
+      <jump line="136" column="0" filename="D:/Workspace/Github/send_email/com/zamp/aaa.py" />
+      <jump line="156" column="0" filename="D:/Workspace/Github/send_email/com/zamp/aaa.py" />
+      <jump line="42" column="68" filename="D:/Workspace/Github/send_email/com/zamp/s.json" />
+      <jump line="30" column="36" filename="D:/Workspace/Github/send_email/com/zamp/s.json" />
+      <jump line="18" column="70" filename="D:/Workspace/Github/send_email/com/zamp/s.json" />
+      <jump line="6" column="16" filename="D:/Workspace/Github/send_email/com/zamp/s.json" />
+      <jump line="0" column="0" filename="D:/Workspace/Github/send_email/com/zamp/s.json" />
+      <jump line="118" column="51" filename="D:/Workspace/Github/send_email/com/zamp/s.json" />
+      <jump line="17" column="56" filename="D:/Workspace/Github/send_email/com/zamp/a.json" />
+      <jump line="0" column="0" filename="D:/Workspace/Github/send_email/com/zamp/a.json" />
+      <jump line="146" column="4" filename="D:/Workspace/Github/send_email/com/zamp/aaa.py" />
+      <jump line="10" column="16" filename="D:/Workspace/Github/huanLing/src/main/com/learn/learnjmespath/es.json" />
+      <jump line="13" column="9" filename="D:/Workspace/Github/huanLing/src/main/com/learn/learnjmespath/jmespath_demo_19090518.py" />
+      <jump line="1" column="10" filename="D:/Workspace/Github/huanLing/src/main/com/learn/learnjmespath/jmespath_demo_19090518.py" />
+      <jump line="31" column="14" filename="D:/Workspace/Github/huanLing/src/main/com/learn/learnjmespath/jmespath_example_19090809.py" />
+      <jump line="7" column="5" filename="D:/Workspace/Github/huanLing/src/main/com/zamp/spider_shlocal.py" />
+      <jump line="17" column="93" filename="D:/Workspace/Github/huanLing/src/main/com/zamp/spider_shlocal.py" />
+      <jump line="325" column="65" filename="D:/Workspace/Github/huanLing/src/main/com/zamp/rebuild_area_system.py" />
+      <jump line="45" column="83" filename="D:/Workspace/Github/huanLing/src/main/com/zamp/rebuild_area_system.py" />
+      <jump line="107" column="36" filename="D:/Workspace/Github/huanLing/src/main/com/zamp/rebuild_area_system.py" />
+      <jump line="340" column="50" filename="D:/Workspace/Github/huanLing/src/main/com/zamp/rebuild_area_system.py" />
+      <jump line="59" column="13" filename="D:/Workspace/Github/huanLing/src/main/com/zamp/rebuild_area_system.py" />
+      <jump line="0" column="0" filename="D:/Workspace/Github/huanLing/src/main/com/zamp/rebuild_area_system.py" />
+      <jump line="142" column="33" filename="D:/Workspace/Github/huanLing/src/main/com/zamp/spider_shlocal.py" />
+      <jump line="143" column="35" filename="D:/Workspace/Github/huanLing/src/main/com/zamp/spider_shlocal.py" />
+      <jump line="71" column="22" filename="D:/Workspace/Github/huanLing/src/main/com/zamp/spider_shlocal.py" />
+      <jump line="120" column="30" filename="D:/Workspace/Github/huanLing/src/main/com/zamp/spider_shlocal.py" />
+      <jump line="8" column="0" filename="D:/Workspace/Github/send_email/com/zamp/aaa.py" />
+      <jump line="113" column="4" filename="D:/Workspace/Github/huanLing/src/main/com/zamp/spider_shlocal.py" />
+      <jump line="44" column="16" filename="D:/Workspace/Github/huanLing/src/main/com/zamp/spider_shlocal.py" />
+      <jump line="180" column="18" filename="D:/Workspace/Github/huanLing/src/main/com/zamp/spider_shlocal.py" />
+      <jump line="152" column="0" filename="D:/Workspace/Github/huanLing/src/main/com/zamp/spider_shlocal.py" />
+      <jump line="129" column="12" filename="D:/Workspace/Github/huanLing/src/main/com/zamp/spider_shlocal.py" />
+      <jump line="145" column="12" filename="D:/Workspace/Github/huanLing/src/main/com/zamp/spider_shlocal.py" />
+      <jump line="136" column="0" filename="D:/Workspace/Github/huanLing/src/main/com/zamp/spider_shlocal.py" />
+      <jump line="131" column="0" filename="D:/Workspace/Github/huanLing/src/main/com/zamp/spider_shlocal.py" />
+      <jump line="154" column="16" filename="D:/Workspace/Github/huanLing/src/main/com/zamp/spider_shlocal.py" />
+      <jump line="156" column="13" filename="D:/Workspace/Github/huanLing/src/main/com/zamp/spider_shlocal.py" />
+      <jump line="13" column="23" filename="D:/Workspace/Github/huanLing/src/main/com/learn/learnjson/demo_json_load19082210.py" />
+    </jumps>
+    <registers>
+      <register name="a" type="4">
+        <text>area_grid_type</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="e" type="2">
+        <text encoding="base64">ZGVmIGV4YW1wbGUwMyhzKToKICAgIHIgPSBqbWVzcGF0aC5zZWFyY2goIiIsIHMpCiAgICBwcmludChqc29uLmR1bXBzKHIsIGluZGVudD00LCBlbnN1cmVfYXNjaWk9RmFsc2UpKQo=</text>
+      </register>
+      <register name="f" type="4">
+        <text encoding="base64">ICsgJ18nICsg</text>
+      </register>
+      <register name="j" type="4">
+        <text>[j]</text>
+      </register>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgIGYgPSAiMjAxOS0xMC0wMyAxMDo0NTowMCIKICAgIGRmID0gIiVZLSVtLSVkICVIOiVNOiVTIgogICAgdCA9IHRpbWUuc3RycHRpbWUoZiwgZGYpCiAgICBzZWMgPSB0aW1lLm1rdGltZSh0KQo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>_</text>
+      </register>
+      <register name="/" type="4">
+        <text>万祥镇</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">ZGVmIGdldF9zYW1wbGUocG9pbnRzKToKICAgIGx0ID0gbGlzdCgpCiAgICBsID0gbGVuKHBvaW50cykKICAgIGlmIGwgPD0gMjA6CiAgICAgICAgc3RlcCA9IDEKICAgICAgICBzYW1wbGVfY291bnQgPSBsCiAgICBlbGlmIDIwIDwgbCA8PSAxMDA6CiAgICAgICAgc2FtcGxlX2NvdW50ID0gMjAKICAgICAgICBzdGVwID0gbCAvLyBzYW1wbGVfY291bnQKICAgIGVsaWYgMTAwIDwgbCA8PSA1MDA6CiAgICAgICAgc3RlcCA9IDUKICAgICAgICBzYW1wbGVfY291bnQgPSBsIC8vIHN0ZXAKICAgIGVsc2U6CiAgICAgICAgc3RlcCA9IDUKICAgICAgICBzYW1wbGVfY291bnQgPSBsIC8vIHN0ZXAKCiAgICBmb3IgbiBpbiByYW5nZShzYW1wbGVfY291bnQpOgogICAgICAgIGluZGV4ID0gKHN0ZXAgKyAxKSAqIG4KICAgICAgICBpZiBpbmRleCA+PSBsZW4ocG9pbnRzKToKICAgICAgICAgICAgaW5kZXggPSBsZW4ocG9pbnRzKSAtIDEKICAgICAgICBsdC5hcHBlbmQocG9pbnRzW2luZGV4XSkKCiAgICByZXR1cm4gbA==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGwgPSBsZW4ocG9pbnRzKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgaW5kZXggaW4gdHVwOgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9uID0gdHVwCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbXBkaQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGlmIGwgPD0gMjA6CiAgICAgICAgc3RlcCA9IDEKICAgICAgICBzYW1wbGVfY291bnQgPSBsCiAgICBlbGlmIDIwIDwgbCA8PSAxMDA6CiAgICAgICAgc2FtcGxlX2NvdW50ID0gMjAKICAgICAgICBzdGVwID0gbCAvLyBzYW1wbGVfY291bnQKICAgIGVsaWYgMTAwIDwgbCA8PSA1MDA6CiAgICAgICAgc3RlcCA9IDUKICAgICAgICBzYW1wbGVfY291bnQgPSBsIC8vIHN0ZXAKICAgIGVsc2U6CiAgICAgICAgc3RlcCA9IDUKICAgICAgICBzYW1wbGVfY291bnQgPSBsIC8vIHN0ZXAKCiAgICBmb3IgbiBpbiByYW5nZShzYW1wbGVfY291bnQpOgogICAgICAgIGluZGV4ID0gKHN0ZXAgKyAxKSAqIG4KICAgICAgICBpZiBpbmRleCA+PSBsZW4ocG9pbnRzKToKICAgICAgICAgICAgaW5kZXggPSBsZW4ocG9pbnRzKSAtIDEKICAgICAgICBsdC5hcHBlbmQocG9pbnRzW2luZGV4XSkKCg==</text>
+      </register>
+      <register name="w" type="4">
+        <text>weidong_print</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByaW50KCJkID0ge30iLmZvcm1hdChkKSkK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHByaW50KCJkID0ge30iLmZvcm1hdChkKSkK</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>万祥镇</last-search>
+      <last-offset />
+      <last-pattern>万祥镇</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxhcHBlbmRfYXJlYV9pbmZvX3N0clw+</entry>
+        <entry encoding="base64">XDxmX2JhY2tcPg==</entry>
+        <entry encoding="base64">XDxvYmpcPg==</entry>
+        <entry encoding="base64">XDxzY2FuX29uY2VcPg==</entry>
+        <entry encoding="base64">XDxzY2FubmVyXD4=</entry>
+        <entry>scanner</entry>
+        <entry encoding="base64">XDxfZGVmYXVsdF9kZWNvZGVyXD4=</entry>
+        <entry encoding="base64">XDxyYXdfZGVjb2RlXD4=</entry>
+        <entry encoding="base64">XDxjbHNcPg==</entry>
+        <entry encoding="base64">XDxwYXJzZV9jb25zdGFudFw+</entry>
+        <entry encoding="base64">XDxkYXRhX2ZpbGVfZGlyXD4=</entry>
+        <entry encoding="base64">XDxhcmVhX3Njb3BlX29mX3NoYW5naGFpXD4=</entry>
+        <entry encoding="base64">XDxwYXJzZV9zbWFpbF9maWxcPg==</entry>
+        <entry>万祥镇</entry>
+      </history-search>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+</application>

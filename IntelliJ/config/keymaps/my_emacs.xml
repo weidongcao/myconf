@@ -1,0 +1,5 @@
+<keymap version="1" name="my_emacs" parent="Emacs">
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
+</keymap>
