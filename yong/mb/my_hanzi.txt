@@ -48,10 +48,10 @@ ciwf 预测值
 cjdw 对影成三人
 clfa 预加载
 cqtf 马尔科夫
-crjg 难的是 难的是
+crjg 难的是
 csih 邓林波
 ctgj 预处理
-ctxy 双系统 双系统
+ctxy 双系统
 cwwk 鸡公煲
 cwyg 难 难
 dbov 奇函数
@@ -62,7 +62,7 @@ ddrq 大的
 ddyb 太感谢您了
 dejf 感受野
 deud 有着
-deut 有道 有道
+deut 有道
 deww 有人
 deyw 有谁
 dftj 压得
@@ -70,7 +70,7 @@ dgcm 三观
 dggd 三天
 dgjg 而不是
 dguq 有一次
-dgwh 有一个 有一个
+dgwh 有一个
 dhqq 有点多
 didy 非常感谢
 difh 感兴趣
@@ -80,15 +80,15 @@ djff 大昭寺
 djhn 有监督学习
 djog 克里米亚
 djrq 大量的
-djxk 胡晓强 胡晓强
+djxk 胡晓强
 dkqt 在哪儿
 dlab 三甲医院
 dlgd 三四天
 dlmd 压力山大
 dnww 万人
-dopg 大数定理 大数定理
+dopg 大数定理
 dorj 大数据开发工程师 大数据开发工程师
-dorn 大数据 大数据
+dorn 大数据
 dpaq 泰富苑
 dpgd 三室一厅
 drww 成年人
@@ -107,8 +107,8 @@ dwty 有什么问题的话
 dxnt 非线性
 dyih 太小
 dykh 友谊路
-dypn 面试官 面试官
-eenu 鹏飞 鹏飞
+dypn 面试官
+eenu 鹏飞
 esfh 彩超
 euuk 胖总
 eytt 用户特征
@@ -122,8 +122,8 @@ fdwt 云辰信息
 fenu 赵鹏飞
 fetk 云服务器
 ffaa 零零散散
-fflr 垃圾回收机制 垃圾回收机制
-fgdd 地王大厦 地王大厦
+fflr 垃圾回收机制
+fgdd 地王大厦
 fgfc 去不去
 fgky 干嘛 干嘛
 fgve 二姐
@@ -142,17 +142,17 @@ fjhn 无监督学习
 fllg 无力回天
 fmaq 南山区
 fmmm 南山
-fnqg 块钱 块钱
+fnqg 块钱
 fqgk 无事
 fqsk 无可
 fqwd 均匀分布
 fqxe 元组
-friy 彭年酒店 彭年酒店
+friy 彭年酒店
 frln 无所畏惧
 frts 支持向量机
 frwg 过拟合
-ftgs 过街天桥 过街天桥
-ftjg 都是 都是 都是
+ftgs 过街天桥
+ftjg 都是
 fttw 运算符
 ftwa 老代 老代
 ftyu 都说
@@ -182,23 +182,23 @@ gfov 平均数
 gfqt 一块儿
 gfsv 不需要
 gfwf 平均值
-gfyj 环境变量 环境变量
+gfyj 环境变量
 ggfg 一二
 ggtt 开玩笑
-ggvc 一开始 一开始
+ggvc 一开始
 ggwu 一倍
 ggxe 一组
 ggyn 一遍
 ghdy 正态
 ghlk 下架
 ghlt 下图
-ghuf 五点半 五点半
-ghwg 正例 正例
+ghuf 五点半
+ghwg 正例
 giaq 天河区
-gidq 不爽 不爽
+gidq 不爽
 gidy 不太
 gifc 不去
-gihh 不上 不上
+gihh 不上
 giig 不清
 gijg 不是
 gild 不因
@@ -247,9 +247,9 @@ gxfy 一线城市
 gxgw 曹纪玲
 gytj 不记得
 gywc 晋文公
-gywg 不方便 不方便
+gywg 不方便
 gywj 平方公里
-hbov 凸函数 凸函数
+hbov 凸函数
 hdgd 上古恶龙
 hh 目
 hhlt 上图
@@ -261,9 +261,9 @@ hiys 上海市普陀区中江路879号天地软件园10栋2楼A
 hktk 点积
 hrhd 虚拟桌面
 hrsm 虚拟机
-hsbo 目标函数 目标函数
+hsbo 目标函数
 htbn 睡了
-hudh 鼎益丰 鼎益丰
+hudh 鼎益丰
 hugy 目前来说
 huqs 上海市普陀区铜川路1781弄真光新村第七小区41栋502
 hwtw 占位符
@@ -301,7 +301,7 @@ itud 活着
 itwx 泛化
 iwnf 池化层
 iyin 深度学习
-iyra 海底捞 海底捞
+iyra 海底捞
 iywy 测试集
 iyyu 没话说
 jbfq 最远
@@ -316,7 +316,7 @@ jgwx 归一化
 jhin 监督学习
 jifi 最小二乘法
 jjak 蚂蚁花呗
-jjph 蚂蚁宝卡 蚂蚁宝卡
+jjph 蚂蚁宝卡
 jjtf 晶赞
 jjwk 蚂蚁借呗
 jntu 电科
@@ -337,19 +337,19 @@ kgyd 另一方面
 khcr 中牟
 khgc 跳到
 khhh 跟上
-khlf 跳转 跳转 跳转
+khlf 跳转
 khwq 跟你
-khwy 中信 中信
-kjqf 顺时针 顺时针
+khwy 中信
+kjqf 顺时针
 knsg 中心极限定理
 kvsg 哪本
-kwqt 中信银行 中信银行
+kwqt 中信银行
 kyjg 哑变量
 lbnf 输出层
 lbwf 输出值
 ldaq 暂存区
 lfgf 黑球
-lfjg 田老师 田老师
+lfjg 田老师
 lflf 转置
 lfmm 转山
 lfwx 黑化
@@ -371,10 +371,10 @@ lwtg 图像处理
 lxsy 边缘概率
 lyjg 因变量
 lyng 默认情况下
-mdib 内存溢出 内存溢出
+mdib 内存溢出
 mgwf 赋值
 mgwh 同一个
-mjce 财易通 财易通
+mjce 财易通
 mkad 贝叶斯
 mkag 贝叶斯定理
 mmii 山山水水
@@ -383,7 +383,7 @@ naak 异或
 nfov 导数
 ngfh 买不起
 nggo 买下来
-ngty 司篇 司篇
+ngty 司篇
 nigq 懒省事儿
 nkev 劈腿
 nn 快
@@ -403,7 +403,7 @@ orsw 数据可视化
 ortt 数据特征
 orws 数据分析
 orwy 数据集
-orxs 数据结构 数据结构
+orxs 数据结构
 otff 业务需求
 ouyx 精准率
 owgf 类似于
@@ -437,13 +437,13 @@ qdxp 解压缩
 qfor 金十数据
 qinu 锁屏
 qmwg 负例
-qpso 银之杰 银之杰
+qpso 银之杰
 qqty 印象笔记
 qqwu 多倍
 qrwg 欠拟合
 qsfu 独酌无相亲
 qsnt 鲁棒性
-qssg 负样本 负样本
+qssg 负样本
 qsya 负梯度
 qtqa 猜错
 qumd 独立同分布
@@ -451,10 +451,10 @@ qvfg 邹博
 qxtk 多线程
 qybm 留出
 qyet 鸟用
-rasg 的东西 的东西
+rasg 的东西
 rbov 反函数
 rbqa 报错
-rclt 的能力 的能力
+rclt 的能力
 rcrw 反推
 rfmj 的规则
 rfrh 挂掉
@@ -465,7 +465,7 @@ rgif 牛顿法
 rgtw 制表符
 rgvt 岳不群
 rhpf 看完
-rhsf 的目标 的目标
+rhsf 的目标
 rjkt 的影响
 rjuj 的时间
 rjwh 的时候
@@ -478,7 +478,7 @@ rnuk 的情况
 rorn 的数据
 rqbn 的了
 rqjg 的是
-rqmq 拉勾网 拉勾网
+rqmq 拉勾网
 rqpb 的名字
 rqqg 的钱
 rqtq 的名称
@@ -499,7 +499,7 @@ rtvb 挻好
 rtwf 插值
 rujg 的问题
 rujs 的效果
-ruqc 拉勾 拉勾
+ruqc 拉勾
 ruqt 招商银行
 rwet 的作用
 rwsf 抢票
@@ -509,7 +509,7 @@ rxjs 的结果
 ryaa 的方式
 ryjg 的变量
 saas 模式匹配
-scgf 相对于 相对于
+scgf 相对于
 scwf 权值
 sdar 核磁共振
 sdwq 极大似然
@@ -524,12 +524,12 @@ siwf 极小值
 skin 机器学习
 slyw 配置文件
 snyy 可以认为
-spuj 栈空间 栈空间
+spuj 栈空间
 spwx 可视化
 srhh 本质上
-srov 相反数 相反数
+srov 相反数
 srwb 模拟仓
-ssmm 梧桐山 梧桐山
+ssmm 梧桐山
 ssnd 梦想以彩虹多色绘成
 ssov 样本数
 stkk 构造器
@@ -574,7 +574,7 @@ tids 生活成本
 tirq 适当的
 tjpq 千里之外
 tjte 复盘
-tjum 短时间内 短时间内
+tjum 短时间内
 tkfb 种地
 tlwh 第四个
 tmam 微黄
@@ -594,7 +594,7 @@ ttat 特征工程
 ttbt 算得了什么
 ttlg 怎么回事
 ttsa 复选框
-ttsh 怎么想 怎么想
+ttsh 怎么想
 ttwe 怎么使用
 tugf 生产环境
 tugy 简单来讲
@@ -603,7 +603,7 @@ tuny 乘以
 tvya 复杂度
 twgv 笑贫不笑娼
 twou 条件熵
-twqk 重命名 重命名
+twqk 重命名
 twsy 条件概率
 twui 微信交流
 twwk 微信公众号
@@ -616,7 +616,7 @@ ubtf 逆行
 ucou 交叉熵
 udbn 关了
 udfj 送进
-udfy 准确地说 准确地说
+udfy 准确地说
 udtk 卷积
 udyx 准确率
 ueqn 前馈
@@ -626,8 +626,8 @@ ugaa 交互式
 ugce 并不能
 ugrq 美欣
 uhyi 北上广深
-ujhn 半监督学习 半监督学习
-ujpx 递归神经网络 递归神经网络
+ujhn 半监督学习
+ujpx 递归神经网络
 ujrc 单反
 ujvb 效果好
 ukag 判别式模型
@@ -647,7 +647,7 @@ uuxl 新新幼儿园
 uwee 半个月
 uwij 半个小时
 uwtb 单位矩阵
-uxtk 单线程 单线程
+uxtk 单线程
 uxud 背着
 uyag 六七
 uyda 北京三期
@@ -660,7 +660,7 @@ vtbn 那算了
 vtte 群租
 vv 女
 vwqt 媳份儿
-wahh 储蓄卡 储蓄卡
+wahh 储蓄卡
 wasg 偷东西
 watc 人工智能
 wbjg 他是
@@ -683,7 +683,7 @@ wgtf 全选
 wgwf 会不会
 whee 个月
 whpr 从此之后
-wjlk 今晚回来吗？ 今晚回来吗？
+wjlk 今晚回来吗？
 wkrq 集中的
 wlrn 全连接层
 wlru 全连接
@@ -704,10 +704,10 @@ wslm 坐标轴
 wsya 全概率公式
 wsyx 全概率
 wtdd 人生百态
-wtjg 什么是 什么是
+wtjg 什么是
 wtjw 什么时候
 wttf 任我行
-wtyn 健身房 健身房
+wtyn 健身房
 wukr 傅立叶变换
 wvww 创始人 创始人
 wvyj 您好,请教个问题
@@ -740,12 +740,12 @@ xwwq 给你
 yagd 京基一百 京基一百
 yaif 广东深圳 广东深圳
 yaig 高斯混合模型
-yaii 广东_深圳_罗湖_ 广东_深圳_罗湖_
+yaii 广东_深圳_罗湖_
 yaud 试着
 yawd 高斯分布
 yfal 高嘉花园
 yfjg 方老师
-yfwj 请教个问题 请教个问题
+yfwj 请教个问题
 ygig 记不清
 ygpr 毫不客气
 ygqt 这事儿
@@ -778,12 +778,12 @@ ysqk 主机名
 yswc 齐桓公
 ysxk 文本编辑器
 ysyi 这样就
-ythb 就先睡了 就先睡了
+ythb 就先睡了
 ytkr 谢啦 谢啦
 ytlk 放回
 ytut 就知道
 yuku 这意味着
-yvia 永灵小区 永灵小区
+yvia 永灵小区
 yvuk 唐总 唐总
 ywgk 这件事
 ywhv 文件目录

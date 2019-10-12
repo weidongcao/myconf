@@ -14,7 +14,7 @@ assn Assign
 basc Basic
 basi batch_size
 calo CapsLock
-caod caowd1990 caowd1990
+caod caowd1990
 ceil ceil
 cent CentOS
 chia China
@@ -25,7 +25,7 @@ clur Cluster
 clus Clustering
 cnnn CNN
 colu column
-conf conf conf
+conf conf
 conl Convolutional
 conv CONV
 copy copy
@@ -47,9 +47,7 @@ drot Dropout
 drou Dropout
 dtye dtype
 elas Elasticsearch
-emac Emacs
-emas Emacs
-emcs Emacs
+emac emacs
 equa equal
 fale False
 feed feed
@@ -61,7 +59,7 @@ floo floor
 flor floor
 getv get_variable
 gihu GitHub
-gite gitignore gitignore
+gite gitignore
 gitt Git
 gnme Gnome
 gpuu GPU
@@ -71,33 +69,33 @@ hado Hadoop
 hadp Hadoop
 heit height
 helo Hello
-hosp HotSpot HotSpot
-idea IDEA IDEA
+hosp HotSpot
+idea IDEA
 inde index
 inie initialize
 inir initializer
 init init
 inpt Input
-intj IntelliJ IntelliJ
+intj IntelliJ
 iter iter
-java Java Java
+java Java
 jebr JetBrain
 jira jira
-jvmm JVM JVM
+jvmm JVM
 kafk Kafka
 keeb keep_prob
 kerl Kernel
 labl label
 late LaTeX
 layr Layer
-lect lect lect
+lect lect
 lera Learning_Rate
 line line
 lins linspace
 linu Linux
 linx Linux
 list List
-lnxx Linux Linux
+lnxx Linux
 logc Logistic
 logs logs
 loss Loss
@@ -106,7 +104,7 @@ mado markdown
 manj Manjaro
 mapr Mapreduce
 mapt Matplotlib
-mavn maven maven
+mavn maven
 mean Mean
 msmc mstmc
 msts mstsc
@@ -132,7 +130,7 @@ pand pandas
 pgnn plugin
 pgns plugins
 pkge package
-pkgs packages packages
+pkgs packages
 plar placeholder
 plun plugin
 poog Pooling
@@ -143,7 +141,7 @@ prin print
 prit print
 proo Pro
 puls puls
-pycm PyCharm PyCharm
+pycm PyCharm
 pytn Python
 redi Redis
 regn Regularization
@@ -158,8 +156,7 @@ savr Saver
 scaa Scala
 scar scalar
 scoe scope
-secr SecureCRT SecureCRT
-secu SecureCRT SecureCRT
+secr SecureCRT
 serr Server
 sesn Session
 shae shape
@@ -169,7 +166,7 @@ skle sk-learn
 sofx Softmax
 solr Solr
 soue Source
-spak Spark Spark
+spak Spark
 sqll SQL
 squa square
 stat status

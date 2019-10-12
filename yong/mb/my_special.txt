@@ -5,7 +5,7 @@ arrw -->
 barr \bar{}
 begn \begin{}
 beta \beta
-caom caowd1990@163.com caowd1990@163.com
+caom caowd1990@163.com
 chii \chi
 coss \cos
 date $yyyy-$mon0-$day0$_$hour0:$min:$sec
@@ -16,7 +16,7 @@ endd \end{}
 fnfx f(x)
 gama \gamma
 hatt \hat{}
-itgs 《深入理解Java虚拟机》 《深入理解Java虚拟机》
+itgs 《深入理解Java虚拟机》
 jaho ${JAVA_HOME}
 lama \lambda
 mumu \mu
