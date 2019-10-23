@@ -78,3 +78,25 @@ IntelliJ/config/plugins/availables.xml
 IntelliJ/config/plugins/availables.xml.etag
 IntelliJ/config/plugins/extensions.xml
 IntelliJ/config/options/packages.xml
+IntelliJ/config/options$/vim_local_settings.xml
+IntelliJ/config/options/KeyPromoterXStatistic.xml
+IntelliJ/config/options/conda_packages.xml
+IntelliJ/config/options/editor.xml
+IntelliJ/config/options/project.default.xml
+IntelliJ/config/options/runner.layout.xml
+IntelliJ/config/options/ui.lnf.xml
+IntelliJ/config/options/updates.xml
+IntelliJ/config/options/vim_settings.xml
+IntelliJ/config/templates/Python.xml
+
+# Notepad++ 不跟踪的文件
+Notepad++/backup/
+Notepad++/session.xml
+
+# SecureCRT 不跟踪的文件
+VanDyke/config/Sessions
+VanDyke/config/KnownHosts
+!VanDyke/config/Sessions/Default.ini
+
+# 小小输入法不跟踪的文件
+yong/yong.ini.old
