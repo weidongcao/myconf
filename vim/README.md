@@ -6,6 +6,8 @@ mklink /j ${vim_install_dir}\Vim\${vim_version}\colors D:\Workspace\Github\mycon
 例:
 ```
 mklink /j "C:\Program Files (x86)\Vim\vim81\colors" D:\Workspace\Github\myconf\vim\colorscheme\colors
+
+mklink /j C:\Vim\vim81\colors D:\Workspace\Github\myconf\vim\colorscheme\colors
 ```
 为主配置文件创建软链接:
 ```
@@ -14,6 +16,8 @@ mklink ${vim_install_dir}\Vim\vimrc D:\Workspace\Github\myconf\vim\vimrc
 例:
 ```
 mklink  "C:\Program Files (x86)\Vim\vimrc" D:\Workspace\Github\myconf\vim\vimrc
+
+mklink  C:\Vim\vimrc D:\Workspace\Github\myconf\vim\vimrc
 ```
 ## Linux下配置说明
 
