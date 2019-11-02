@@ -1,0 +1,15 @@
+** myconf
+常用软件配置文件(IDEA/PyCharm/Vim/Emacs/Notepad++...)
+
+*使用的时候把所有的配置文件pull到一个地方，软件再通过软链接读取*
+Windows下github目录创建软链接到用户目录:
+#+BEGIN_SRC 
+mklink /j ${user.home}\github D:\Workspace\Github
+#+END_SRC
+
+
+# Emacs配置文件软链接
+#+BEGIN_SRC 
+ln -s /opt/workspace/github/myconf/emacs ~/.emacs.d
+#+END_SRC
+
