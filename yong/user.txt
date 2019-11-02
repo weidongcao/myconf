@@ -55,7 +55,9 @@
 {0}idmt 汤奇峰
 {0}ilfq 江边城外烤全鱼
 {0}ipfa 学霸
+{0}jdbc JDBC
 {0}jfrq 里的
+{0}jobb job
 {0}json json
 {0}jtsv 最重要
 {0}jufx 时间元组
@@ -63,11 +65,13 @@
 {0}jump jump
 {0}jwti 时分秒
 {-}khlf 跳转
+{0}kmwl 中山公园
 {0}levl level
 {0}lfdn 转成
 {0}lflf 转转
 {0}link link
 {0}lkiu 回滚
+{0}lkny 圆心
 {0}modu module
 {0}more more
 {0}mous mouse
@@ -92,6 +96,7 @@
 {0}rpdc 的密码
 {0}rqjg 的是
 {0}rudy 的状态
+{0}runr runner
 {-}ruqc 拉勾
 {0}ruwv 的部分
 {0}rvqt 搜狗
@@ -101,6 +106,7 @@
 {0}rywr 的文件
 {0}sblh 李四
 {0}secd second
+{0}shel shell
 {0}shit shift
 {0}some some
 {0}ssih 林波
@@ -131,6 +137,7 @@
 {0}wedo CaoWeidong
 {1}wedo weidong
 {0}wfai 伟东
+{0}wfcd 传参
 {0}wfuq 会将
 {0}wtjg 偏移量
 {-}wtjg 什么是
