@@ -1,5 +1,7 @@
+{0}aneb 巨乳
 {0}anor another
 {0}auju autojump
+{0}bmqq 出金
 {0}bugg bug
 {0}cnfc 马云
 {0}code 311008002708
@@ -56,6 +58,7 @@
 {0}ilfq 江边城外烤全鱼
 {0}ipfa 学霸
 {0}jfrq 里的
+{0}jjgi 电影天堂
 {0}json json
 {0}jtsv 最重要
 {0}jufx 时间元组
@@ -73,6 +76,8 @@
 {0}mous mouse
 {0}msge message
 {0}msgg message
+{0}noma normal
+{0}norl normal
 {0}note note
 {0}nusk 飞哥
 {0}ojff 爆款
@@ -114,6 +119,7 @@
 {1}thbn 鼻孔
 {0}tiov 秒数
 {0}tist timestamp
+{0}tjaw 梨花
 {-}tjov 得数
 {0}tkga 我叫曹伟东
 {0}tlga 待办事项
@@ -126,7 +132,9 @@
 {0}tsrq 重要的
 {0}txus 系统剪切板
 {0}ubwy 美联储
+{0}ugvf 辣妹
 {0}utaq 闵行区
+{0}uusa 凛音桃花
 {0}wcsm 堡垒机
 {0}wedo CaoWeidong
 {1}wedo weidong
@@ -134,6 +142,7 @@
 {0}wfuq 会将
 {0}wtjg 偏移量
 {-}wtjg 什么是
+{0}wwvt 人妖
 {0}xtdg 张三
 {0}ybkc 变了吗
 {0}ymtf 高德
