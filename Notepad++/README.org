@@ -1,12 +1,17 @@
-# Notepad++配置文件说明
+** Notepad++配置文件说明
+*** windows
+Windows下Notepad++配置文件目录创建软链接:
+#+BEGIN_SRC 
+mklink /j ${user.home}\AppData\Roaming\Notepad++ D:\Workspace\Github\myconf\Notepad++
+#+END_SRC
 
-## 目的
+*** 目的
 配置Notepad++使之越来越符合Emacs的使用习惯
 
-## 参考文档
+*** 参考文档
 http://doc.okbase.net/guqiwei/archive/116208.html
 
-## 说明
+*** 说明
 主要修改Notepad++的快捷键,使之向Emacs靠拢
 文件名称:
     shortcuts.xml
