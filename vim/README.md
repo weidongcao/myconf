@@ -39,3 +39,9 @@ mklink /j C:\Vim\vimfiles\autoload D:\Workspace\Github\myconf\vim\colorscheme\au
 ## Linux下配置说明
 
 //TODO
+
+## Vim执行Python外部命令
+把以下文件软链接到python的site-packages目录下
+```
+mklink  D:\ProgramFiles\Anaconda3\envs\python27\Lib\site-packages\wedo.pth  D:\Workspace\Github\myconf\vim\cmd\wedo.pth
+```
