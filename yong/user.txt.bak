@@ -9,6 +9,7 @@
 {0}arev area_event
 {0}args args
 {0}auju autojump
+{0}ausu 菜单栏
 {0}awmp 工作内容
 {0}bafg 陈博
 {0}bafj 陈坤
@@ -115,6 +116,7 @@
 {0}iiqf 泗泾镇
 {0}ilfq 江边城外烤全鱼
 {0}ipfa 学霸
+{0}iput input
 {0}iruj 派单
 {0}isst 小木桥
 {0}iwyl 法人库
@@ -141,6 +143,8 @@
 {0}lflf 转转
 {0}lghh 连不上
 {0}link link
+{0}list list
+{-}list List
 {0}lkiu 回滚
 {0}lkny 圆心
 {0}mfuk 周总
@@ -208,6 +212,7 @@
 {-}tapu 长袍
 {0}tbfy 入职培训
 {0}tbmq 物联网
+{0}tddc 乱码
 {0}tdkh 长寿路
 {0}test test
 {0}text text
@@ -239,6 +244,7 @@
 {0}umbj 兰崇阳
 {0}use use
 {0}utaq 闵行区
+{0}utff UTF-8
 {0}uytf 闵行
 {0}vtpl 姬生军
 {0}vtvt 娇娇
@@ -254,6 +260,8 @@
 {0}wswf 何儒
 {0}wtjg 偏移量
 {-}wtjg 什么是
+{0}wwtf 命令行
+{0}xggh 线下
 {0}xshl XShell
 {0}xtdg 张三
 {0}xtjd 张晨
