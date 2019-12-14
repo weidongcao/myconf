@@ -60,10 +60,13 @@ endif
 
 " Windows/Linux由于操作系统的不同导致的配置命令的不同
 " 判定当前操作系统类型)
-if(has("win32") || has("win95") || has("win64") || has("win16"))
+if(has("win32") || has("win95") || has("win64") || has("win"))
 	" set guifont=Consolas:h14:cANSI
 	set guifont=Source\ Code\ Pro:h14:cANSI
 	" set guifont=Monospace:h14
+	
+	"source $VIMRUNTIME/delmenu.vim
+	"source $VIMRUNTIME/menu.vim
 else
 	" set guifont=Consolas\ 16
 	set guifont=SourceCodePro\ 18
@@ -75,8 +78,8 @@ set autowrite
 set ruler                   " 打开状态栏标尺
 set cursorline              " 突出显示当前行
 set magic                   " 设置魔术
-set guioptions-=T           " 隐藏工具栏
-set guioptions-=m           " 隐藏菜单栏
+"set guioptions-=T           " 隐藏工具栏
+"set guioptions-=m           " 隐藏菜单栏
 set foldcolumn=0
 set foldmethod=marker 
 set foldlevel=3 
@@ -122,6 +125,12 @@ set fencs=utf-8,ucs-bom,shift-jis,gb18030,gbk,gb2312,cp936
 set langmenu=zh_CN.UTF-8
 set helplang=cn
 
+if(has("win32") || has("win95") || has("win64") || has("win10"))
+	source $VIMRUNTIME/delmenu.vim
+	source $VIMRUNTIME/menu.vim
+endif 
+
+" ---------------------------------------------配置vim状态栏----------------------------------------------
 " 状态行显示的内容（包括文件类型和解码）
 set statusline=
 " 状态行显示文件名/如果缓冲区修改则为[+]/
@@ -180,8 +189,14 @@ winpos 500 0
 " 普通模式显示输入
 set showcmd
 
+" ---------------------------------------------配置Vim主题及背景色----------------------------------------------
 set background=dark
 " colorscheme solarized
 colorscheme molokai
 
+" ---------------------------------------------配置常用命令的快捷键----------------------------------------------
+command! Fmtjson :execute '%!python -m fmt_json'
+command! FJ :execute '%!python -m fmt_json'
 
+command! Fmtdate :execute '%!python -m fmt_date'
+command! FD :execute '%!python -m fmt_date'
