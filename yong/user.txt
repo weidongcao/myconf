@@ -55,6 +55,7 @@
 {0}dyta 太长
 {0}emas emacs
 {0}emli emacs-lisp
+{0}enew enew
 {0}etum 服务端
 {0}evee Evernote
 {0}evet event
@@ -255,6 +256,7 @@
 {0}wfai 伟东
 {0}wfcd 传参
 {0}wfuq 会将
+{0}whee where
 {0}wkyl 人口库
 {0}wmqf 佘山镇
 {0}word word
