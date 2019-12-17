@@ -58,12 +58,12 @@ def str_to_timestamp(str_time=None, fmt='%Y-%m-%d %H:%M:%S'):
     if str_time:
         if str_time.isdigit():
             if len(str_time) == 10:
-                convert_timestamp = long(str_time)
+                convert_timestamp = int(str_time)
             else:
-                convert_timestamp = long(str_time) / 1000
+                convert_timestamp = int(str_time) / 1000
         else:
             d = parse_datetime(str_time, fmt)
-            convert_timestamp = long(time.mktime(d.timetuple()))
+            convert_timestamp = int(time.mktime(d.timetuple()))
     return convert_timestamp
 
 
@@ -71,7 +71,7 @@ def timestamp2str(ts, fmt='%Y-%m-%d %H:%M:%S'):
     ts = str(ts)
     convert_str = ts
     if ts.isdigit():
-        ts = long(ts[0:11])
+        ts = int(ts[0:11])
         convert_str = time.strftime(fmt, time.localtime(ts))
     return convert_str
 
@@ -87,19 +87,21 @@ def main():
         raise SystemExit(sys.argv[0] + " [transform time/timestamp error]")
     with infile:
         try:
-            obj = infile.read()
-            obj = obj.strip()
-        except ValueError, e:
+            content = infile.read()
+            content = content.strip()
+            obj = json.loads(content)
+        except ValueError as e:
             raise SystemExit(e)
     with outfile:
         if isinstance(obj, str):
-            if obj.isdigit():
-                outfile.write(timestamp2str(obj))
-            else:
-                outfile.write(str(str_to_timestamp(obj)))
+            outfile.write(str_to_timestamp(obj))
+        elif isinstance(obj, int):
+            outfile.write(timestamp2str(obj))
 
         outfile.write('\n')
 
 
 if __name__ == '__main__':
-    main()
+    # main()
+    obj = json.loads("2019-12-13 18:06:20")
+    print(obj)
