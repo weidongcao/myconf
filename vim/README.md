@@ -44,4 +44,10 @@ mklink /j C:\Vim\vimfiles\autoload D:\Workspace\Github\myconf\vim\colorscheme\au
 把以下文件软链接到python的site-packages目录下
 ```
 mklink  D:\ProgramFiles\Anaconda3\envs\python27\Lib\site-packages\wedo.pth  D:\Workspace\Github\myconf\vim\cmd\wedo.pth
+mklink  D:\ProgramFiles\Anaconda3\envs\python3.6\Lib\site-packages\wedo.pth  D:\Workspace\Github\myconf\vim\cmd\wedo.pth
+```
+
+为vim外部Python命令创建软链接指向IDEA目录:
+```
+mklink D:\Workspace\Github\huanLing\src\main\com\utils\fmt_date.py D:\Workspace\Github\myconf\vim\cmd\python\fmt_date.py
 ```
