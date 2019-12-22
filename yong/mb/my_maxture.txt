@@ -3,6 +3,7 @@ bpmx BP网络
 bppx BP神经网络
 bpti BP算法
 logi Logistic回归
+orgs Org模式
 rbfx RBF神经网络
 sigd Sigmod函数
 sigm sigmoid函数
