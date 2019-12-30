@@ -89,19 +89,18 @@ def main():
         try:
             content = infile.read()
             content = content.strip()
-            obj = json.loads(content)
         except ValueError as e:
             raise SystemExit(e)
     with outfile:
-        if isinstance(obj, str):
-            outfile.write(str_to_timestamp(obj))
-        elif isinstance(obj, int):
-            outfile.write(timestamp2str(obj))
+        if content.isdigit():
+            outfile.write(timestamp2str(int(content)))
+        else:
+            outfile.write(str(str_to_timestamp(content)))
 
         outfile.write('\n')
 
 
 if __name__ == '__main__':
-    # main()
-    obj = json.loads("2019-12-13 18:06:20")
-    print(obj)
+    main()
+    # obj = json.loads("2019-12-13 18:06:20")
+    # print(obj)

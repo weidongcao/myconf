@@ -49,16 +49,22 @@ def main():
             else:
                 obj = json.loads(c, object_pairs_hook=collections.OrderedDict)
         except Exception as e:
-            raise SystemExit(e)
+            if "\\u" in c:
+                obj = eval("u'" + c.strip() + "'")
+            # raise SystemExit(e)
     with outfile:
-        json.dump(
-            obj,
-            outfile,
-            sort_keys=sort_keys,
-            indent=4,
-            ensure_ascii=False
-        )
-        outfile.write('\n')
+        if isinstance(obj, dict) or isinstance(obj, list):
+            json.dump(
+                obj,
+                outfile,
+                sort_keys=sort_keys,
+                indent=4,
+                ensure_ascii=False
+            )
+            outfile.write('\n')
+        elif isinstance(obj, str) or isinstance(obj, int):
+            outfile.write(obj)
+            outfile.write('\n')
 
 
 if __name__ == '__main__':
