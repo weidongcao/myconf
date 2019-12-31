@@ -199,6 +199,8 @@ command! Fmtjson :execute '%!python -m fmt_json'
 command! FJ :execute '%!python -m fmt_json'
 
 command! Fmtdate :execute '%!python -m fmt_date'
-command! FD :execute '%!python -m fmt_date'
+command! FD :execute '%!python -m fmt_date '
+command! FS :execute '%!python -m fs'
 
+" vim插入时间
 iab xtime <c-r>=strftime("%Y-%m-%d %H:%M:%S")<cr>
