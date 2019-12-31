@@ -204,3 +204,15 @@ command! FS :execute '%!python -m fs'
 
 " vim插入时间
 iab xtime <c-r>=strftime("%Y-%m-%d %H:%M:%S")<cr>
+
+" 重新定义可视模式下*及#的行为为查找选中的文本
+xnoremap * :<C-u>call <SID>VSetSearch()<CR>/<C-R>=@/<CR><CR>
+xnoremap # :<C-u>call <SID>VSetSearch()<CR>?<C-R>=@/<CR><CR>
+
+function! s:VSetSearch()
+  let temp = @s
+  norm! gv"sy
+  let @/ = '\V' . substitute(escape(@s, '/\'), '\n', '\\n', 'g')
+  let @s = temp
+endfunction
+
