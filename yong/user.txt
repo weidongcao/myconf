@@ -30,9 +30,11 @@
 {0}plur plumber
 {0}prid prime_id
 {0}qsej 铃村爱里
+{0}qult 饼状图
 {0}riap 朱小蒙
 {0}rjpy 看电视
 {0}rnna 的发展
+{0}rnrf 的性质
 {0}rtit 的生活
 {0}rtiy 手游
 {0}rubc 拉取
