@@ -46,7 +46,8 @@ This function should only modify configuration layer settings."
      ;; lsp
      ;; markdown
      multiple-cursors
-     ;; org
+     org
+	 org-download
      ;; (shell :variables
      ;;        shell-default-height 30
      ;;        shell-default-position 'bottom)
@@ -496,6 +497,30 @@ This function is called at the very end of Spacemacs startup, after layer
 configuration.
 Put your configuration code here, except for variables that should be set
 before packages are loaded."
+;;	(use-package org-download
+;;		:bind ("C-S-y" . org-download-clipboard)
+;;		:config
+;;		(defun org-download-clipboard ()
+;;		  "Save the captured image from clipboard to file, and insert into buffer. Or org-download-yank."
+;;		  (interactive)
+;;		  (let ((link "http://images2015.cnblogs.com/blog/717724/201703/717724-20170318145647104-177813066.jpg"))
+;;			(if (eq 0 (shell-command (format "\"c:/Program\sFiles/ImageMagick-6.9.3-Q16/convert.exe\" clipboard:myimage %s" link) "*screenshot2file*" "*screenshot2file*"))
+;;				(org-download-image link)
+;;			  (org-download-yank)))))
+	(use-package org-download
+	  :ensure t 
+	  :bind ("C-S-y" . org-download-screenshot)
+	  :config
+	  (require 'org-download)
+	  ;; Drag and drop to Dired
+	  (add-hook 'dired-mode-hook 'org-download-enable)
+	  ;;(setq org-download-method 'directory)
+	  ;;(setq-default org-download-image-dir "./img")
+	  ;;(setq org-download-abbreviate-filename-function 'expand-file-name)
+	  ;;(setq org-download-heading-lvl nil)
+	  ;;(setq org-download-screenshot-method "screencapture -i")
+	  ;;(setq org-download-screenshot-file "./tmp.png")
+	  )
   )
 
 ;; Do not write anything past this comment. This is where Emacs will
