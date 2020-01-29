@@ -21,6 +21,7 @@
 {0}begg begining
 {0}begn begin
 {0}behd behind
+{0}belv believe
 {0}betn between
 {0}big big
 {0}bill bill
@@ -32,6 +33,7 @@
 {0}bsce 也可能
 {0}bulk bulk
 {0}card card
+{0}care care
 {0}cedpu procedure
 {0}cene center
 {0}cenpg percentage
@@ -59,8 +61,11 @@
 {0}corr record
 {0}coua account
 {0}cous course
+{0}couy country
+{0}cove cover
 {0}cred credit
 {0}cret credit
+{0}curst security
 {0}cuti current_timestamp
 {0}cycl cycle
 {0}date $yyyy-$mon0-$day0$_$hour0:$min:$sec
@@ -95,9 +100,11 @@
 {0}edlu 朋友圈
 {0}edun education
 {0}elet electricity
+{0}enda agenda
 {0}ente enter
 {0}entg entering
 {0}envml environmental
+{0}essl essential
 {0}euyg 爱音麻里亚
 {0}evit evident
 {0}fare fare
@@ -106,6 +113,7 @@
 {0}feby February
 {0}ffjf 过去时
 {0}fidnn confidence
+{0}finc finance
 {0}finl finally
 {0}finln final
 {0}five five
@@ -116,6 +124,7 @@
 {0}folw follow
 {0}fory forty
 {0}fouh fourth
+{0}free free
 {0}frid Friday
 {1}frid friend
 {0}friy friendly
@@ -125,6 +134,8 @@
 {0}gargr regarding
 {0}garr regard
 {0}gbgq 五险一金
+{0}genl generally
+{1}genl general
 {0}geqk 表名
 {-}gisv 不要
 {0}give give
@@ -133,6 +144,8 @@
 {0}glag glancing
 {0}glbl global
 {0}glbn globalization
+{0}govm government
+{0}govs governments
 {0}gpwg 不安全
 {0}gral gradual
 {0}gray gradually
@@ -143,6 +156,8 @@
 {0}have have
 {0}head head
 {0}heada ahead
+{0}heah health
+{0}heal health
 {0}high high
 {0}hous house
 {0}hovr hover
@@ -154,6 +169,8 @@
 {0}intl international
 {0}iony 少数民族
 {0}isno is$_not$_
+{0}isss issues
+{0}issu issue
 {0}isth is$_that$_
 {0}itis it$_is$_
 {0}itlt 流程图
@@ -222,7 +239,10 @@
 {0}morg morning
 {0}mqce 风能
 {0}munnm communication
+{0}naml namely
 {0}natd National$_Day
+{0}natl national
+{0}natn nation
 {0}neay nearly
 {0}neti internet
 {0}nigh night
@@ -252,6 +272,8 @@
 {0}parc compare
 {0}parcg comparing
 {0}parcn comparison
+{0}parr particular
+{0}part part
 {0}perd period
 {-}pgty 定稿
 {0}phas phase
@@ -265,16 +287,21 @@
 {0}poit point
 {0}porn portion
 {0}porpn proportion
+{0}port port
 {0}posdc composed
 {0}poud pound
 {0}poun pound
 {0}pous pounds
 {0}pric comprise
 {0}prid prime_id
+{0}pris priorities
+{0}prit priority
+{0}prof proof
 {0}puug 冠状病毒
 {0}qkga 句型
 {0}qsej 铃村爱里
-{0}quat quantity
+{0}quat quality
+{1}quat quantity
 {0}qult 饼状图
 {0}race race
 {0}rank rank
@@ -314,6 +341,7 @@
 {0}sept September
 {0}seqs subsequent
 {0}shar share
+{0}shod should
 {0}shos shows
 {0}sigt significant
 {0}sigy significantly
@@ -321,6 +349,7 @@
 {0}sims similarities
 {0}simy similarity
 {0}sinc since
+{0}sisi insist
 {0}sixn sixteen
 {0}slil slightly
 {0}slip slip
@@ -328,9 +357,13 @@
 {0}smae smaller
 {0}smal small
 {0}smar smaller
+{0}smft 机考
 {0}soea southeast
 {0}soth something
+{0}soud sound
 {0}sout south
+{0}sovy sovereignty
+{0}spel specifically
 {0}srxn 可持续发展
 {0}stad standard
 {0}stag stage
@@ -348,6 +381,7 @@
 {0}sumy summary
 {-}sumy Summary
 {0}sund Sunday
+{0}sure sure
 {0}suty 相关短语
 {0}sxpg 相比之下
 {0}syse ecosystem
@@ -406,6 +440,7 @@
 {0}utst unix_timestamp
 {0}uywq 状语从句
 {0}vear reveal
+{0}vidp provide
 {0}vidpd provided
 {0}view view
 {0}vipd provided
@@ -422,6 +457,7 @@
 {0}wgyj 全球变暖
 {0}what what
 {0}when when
+{0}whil while
 {0}with with
 {0}wqdm 低碳
 {0}wqxe 父级
@@ -437,3 +473,5 @@
 {0}ygdy 语态
 {-}ywqk 座钟
 {0}yyyy 议论文
+{-}yyyy 方言
+{-}yyyy 文言
