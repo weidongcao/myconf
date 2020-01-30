@@ -7,8 +7,6 @@ altt Alt
 amps zamplus
 anaa Anaconda
 andd Android
-anor another
-apae apache
 apii API
 aran arange
 area area
@@ -18,7 +16,6 @@ argx argmax
 arra array
 assn Assign
 auju autojump
-basc Basic
 basi batch_size
 beli beeline
 bugg bug
