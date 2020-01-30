@@ -26,6 +26,7 @@
 {0}big big
 {0}bill bill
 {0}bnfn beneficence
+{0}book book
 {0}brea break
 {0}brek break
 {0}brif brief
@@ -93,6 +94,7 @@
 {0}dray dramatically
 {0}driv drive
 {0}drop drop
+{0}dsyx 大概率
 {0}durg during
 {0}dwpf 三分之二
 {0}dwyy 大作文
@@ -124,6 +126,7 @@
 {0}folw follow
 {0}fory forty
 {0}fouh fourth
+{0}fpjg 填空题
 {0}free free
 {0}frid Friday
 {1}frid friend
@@ -144,6 +147,7 @@
 {0}glag glancing
 {0}glbl global
 {0}glbn globalization
+{-}gmrh 现年
 {0}govm government
 {0}govs governments
 {0}gpwg 不安全
@@ -153,6 +157,7 @@
 {0}gulnr regulation
 {0}gygy 班班
 {0}haln Halloween
+{0}haue exhaust
 {0}have have
 {0}head head
 {0}heada ahead
@@ -247,9 +252,9 @@
 {0}neti internet
 {0}nigh night
 {0}ninn nineteen
+{0}nobo notebook
 {0}nomce economic
 {0}nort north
-{-}north north
 {0}notb noteble
 {0}nove November
 {0}novni innovation
@@ -335,6 +340,8 @@
 {0}scic scientific
 {0}scrd describe
 {0}secl secondly
+{0}secn section
+{-}secn secion
 {0}secy security
 {0}seen seen
 {0}senp present
@@ -425,6 +432,7 @@
 {0}true true
 {-}true True
 {0}trul truly
+{0}ttwx 自我介绍
 {0}tued Tuesday
 {0}tuft 生产者
 {0}tynf 知识改变命运
@@ -440,6 +448,7 @@
 {0}utst unix_timestamp
 {0}uywq 状语从句
 {0}vear reveal
+{0}vercn conversation
 {0}vidp provide
 {0}vidpd provided
 {0}view view
