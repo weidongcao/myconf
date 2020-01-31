@@ -52,6 +52,7 @@
 {0}city city
 {0}clea clear
 {0}clel clearly
+{0}clos close
 {0}cltl cultural
 {0}cluc conclude
 {0}clucn conclusion
@@ -88,6 +89,7 @@
 {0}devm development
 {0}difc difference
 {0}difnn confidence
+{0}dirn direction
 {0}dirt direct
 {0}divd diversified
 {0}divf diversify
@@ -120,7 +122,6 @@
 {0}entg entering
 {0}envl environmental
 {0}envm environment
-{-}envml environmental
 {0}essl essential
 {0}euyg ∞Æ“Ù¬È¿Ô—«
 {0}evit evident

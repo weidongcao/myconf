@@ -52,6 +52,7 @@
 {0}city city
 {0}clea clear
 {0}clel clearly
+{0}clos close
 {0}cltl cultural
 {0}cluc conclude
 {0}clucn conclusion
@@ -121,7 +122,6 @@
 {0}entg entering
 {0}envl environmental
 {0}envm environment
-{-}envml environmental
 {0}essl essential
 {0}euyg 爱音麻里亚
 {0}evit evident
@@ -373,6 +373,7 @@
 {0}road road
 {0}roga 的类型
 {0}roua around
+{0}rous surround
 {-}rqjg 的是
 {0}rtit 的生活
 {0}rtiy 手游
