@@ -27,6 +27,7 @@
 {0}bill bill
 {0}bnfn beneficence
 {0}book book
+{0}brca broadcast
 {0}brea break
 {0}brek break
 {0}brif brief
@@ -233,6 +234,7 @@
 {0}list list
 {-}list List
 {0}litt least
+{0}load load
 {0}locn location
 {0}look look
 {0}lowt lowest
@@ -270,6 +272,7 @@
 {0}mody moderately
 {0}mond Monday
 {0}morg morning
+{0}morl moral
 {0}mqce 风能
 {0}munnm communication
 {0}naml namely
@@ -329,6 +332,7 @@
 {0}picu picture
 {0}plac place
 {0}plas places
+{0}pleca complementary
 {0}plur plumber
 {0}plut plummet
 {0}poin point
@@ -345,6 +349,8 @@
 {0}pris priorities
 {0}prit priority
 {0}prof proof
+{0}pupl pupil
+{0}pups pupils
 {0}puug 冠状病毒
 {0}qkga 句型
 {0}qsej 铃村爱里
@@ -361,6 +367,8 @@
 {0}rect recipient
 {0}refc reference
 {0}rept report
+{0}resl responsibility
+{0}ress responsibilities
 {0}rfyy 的地方
 {0}riap 朱小蒙
 {0}righ right
@@ -373,9 +381,11 @@
 {0}road road
 {0}roga 的类型
 {0}roua around
+{0}rous surround
 {-}rqjg 的是
 {0}rtit 的生活
 {0}rtiy 手游
+{0}rtrj 拖拽
 {0}rubc 拉取
 {0}rurl rural
 {0}ruyk 的意识
@@ -428,6 +438,9 @@
 {0}stey steadily
 {1}stey steady
 {0}stic constitute
+{0}stii instill
+{0}stiin instillation
+{0}stis substitute
 {0}stre street
 {0}sudn sudden
 {0}sudy suddenly
@@ -509,6 +522,7 @@
 {0}vidpd provided
 {0}view view
 {0}vipd provided
+{0}viru virtue
 {0}vnnx 好习惯
 {0}walw 全世界
 {0}wate water
@@ -523,6 +537,7 @@
 {0}what what
 {0}when when
 {0}whil while
+{0}wism wisdom
 {0}with with
 {0}word world
 {-}word World
@@ -539,6 +554,7 @@
 {0}yeas years
 {0}yfwp 市场份额
 {0}ygdy 语态
+{0}youg young
 {-}ywqk 座钟
 {0}yyyy 议论文
 {-}yyyy 方言
