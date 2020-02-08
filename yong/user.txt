@@ -115,6 +115,7 @@
 {0}durg during
 {0}dwpf 三分之二
 {0}dwyy 大作文
+{0}dyit 太少
 {0}east east
 {0}edlu 朋友圈
 {0}edun education
@@ -213,6 +214,7 @@
 {0}july July
 {0}june June
 {0}juwd 时间段
+{0}kcgy 中牟一高
 {0}khrq 中的
 {0}klww 中国人
 {0}knwg knowledge
@@ -285,6 +287,7 @@
 {1}need need
 {0}nees needs
 {0}neti internet
+{0}nggy 屈玲玉
 {0}nigh night
 {0}ninn nineteen
 {0}nobo notebook
@@ -350,6 +353,7 @@
 {0}pris priorities
 {0}prit priority
 {0}prof proof
+{0}pudg 初三
 {0}pupl pupil
 {0}pups pupils
 {0}puug 冠状病毒
