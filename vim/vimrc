@@ -63,6 +63,7 @@ endif
 if(has("win32") || has("win95") || has("win64") || has("win"))
 	" set guifont=Consolas:h14:cANSI
 	set guifont=Source\ Code\ Pro:h14:cANSI
+	" source $VIMRUNTIME/mswin.vim
 	" set guifont=Monospace:h14
 	
 	"source $VIMRUNTIME/delmenu.vim
@@ -71,7 +72,11 @@ else
 	" set guifont=Consolas\ 16
 	set guifont=SourceCodePro\ 18
 endif 
-
+if &ft=="python"
+    set foldmethod=indent
+else
+    set foldmethod=syntax
+endif
 
 "自动保存
 set autowrite
@@ -127,7 +132,6 @@ set helplang=cn
 
 if(has("win32") || has("win95") || has("win64") || has("win10"))
 	source $VIMRUNTIME/delmenu.vim
-	source $VIMRUNTIME/menu.vim
 endif 
 
 " ---------------------------------------------配置vim状态栏----------------------------------------------
@@ -195,11 +199,19 @@ set background=dark
 colorscheme molokai
 
 " ---------------------------------------------配置常用命令的快捷键----------------------------------------------
+" CTRL-A is Select all
+noremap <C-A> gggH<C-O>G
+inoremap <C-A> <C-O>gg<C-O>gH<C-O>G
+cnoremap <C-A> <C-C>gggH<C-O>G
+onoremap <C-A> <C-C>gggH<C-O>G
+snoremap <C-A> <C-C>gggH<C-O>G
+xnoremap <C-A> <C-C>ggVG
+
 command! Fmtjson :execute '%!python -m fmt_json'
 command! FJ :execute '%!python -m fmt_json'
 
 command! Fmtdate :execute '%!python -m fmt_date'
-command! FD :execute '%!python -m fmt_date '
+command! FD :execute '%!python -m fmt_date'
 command! FS :execute '%!python -m fs'
 
 " vim插入时间

@@ -9,17 +9,19 @@ Windows下为小小输入法配置文件目录创建软链接:
 mklink /j ${user.home}\AppData\Roaming\yong D:\Workspace\Github\myconf\yong
 #+END_SRC
 
-** 小小输入法使用说明
+** 小小输入法英文单词编码说明
 所有个人约定都基于小小输入法官方约定及配置
 
 英文单词编码约定:
 1. 约定使用词根/词根简写作为开头
-2. 词根/词根简写尽量为两个字母,少数为3个,绝对不能为4个
-3. 词根/词根简写之后,是前缀,然后是后缀,前缀后缀均为一个字母
+2. 词根过长使用前3个字母或者元音字段
+3. 词根/词根简写尽量为3个字母,绝对不能为4个
+4. 词根/词根简写之后,是前缀,然后是后缀,前缀后缀均为一个字母
 
 英文词组约定:
 1. 两个单词分别取前两个
 2. 三个及以上分别取第一字母
+3. 复合单词参考参考上面两个
 
 特殊符号简写约定
 | 特殊符号   | 英文        | 简写 | 例子 | 备注            |
@@ -34,69 +36,116 @@ mklink /j ${user.home}\AppData\Roaming\yong D:\Workspace\Github\myconf\yong
 | 编码       |             |      |      | 第{}个,第{}步等 |
 |            |             |      |      |                 |
 
-英文前缀后缀约定:
-| 后缀      | 简写 |
-|-----------+------|
-| ly        | l    |
-| ies       | i    |
-| es        | e    |
-| y         | y    |
-| al        | a    |
-| ment      |      |
-| ibility   | i    |
-| ability   | i    |
-| able/ible | b    |
-| ably      | a    |
-| age       | g    |
-| an        | n    |
-| ance      | n    |
-| ancy      | n    |
-| ant       | t    |
-| ation     | o    |
-| cular     | u    |
-| icular    | i    |
-| dom       | d    |
-| ed        | d    |
-| ee        | e    |
-| en        | n    |
-| ize       | z    |
-| ify       | f    |
-| less      | s    |
-| ful       | f    |
-| er        | r    |
-| eer       | r    |
-| or        | r    |
-| graph     | p    |
-| ian       | i    |
-| ese       | s    |
-| ician     | c    |
-| ist       | s    |
-| ism       | m    |
-| ard       | d    |
-| ette      | e    |
-| let       | l    |
-| age       | g    |
-| cy        | c    |
-| dom       | d    |
-| hood      | h    |
-| it        | t    |
-| is        | s    |
-| ity       | i    |
-| ness      | n    |
-| gram      | g    |
-| ship      | p    |
-| try       | t    |
-| th        | h    |
-| ure       | u    |
-| ics       | c    |
-| logy      | g    |
-| nomy      | m    |
-| em        | m    |
-| ical      | l    |
-| ish       | h    |
-| ar        | a    |
-| fold      | d    |
-| ive       | v    |
-| th        | h    |
-| rward     | w    |
-|           |      |
+*** 单词后缀
+    | s | 复数       | s/es/ies | 复数           |
+    | r | 名词后缀   | er/or    | 动词转名词表人 |
+    | n | 名词后缀   | ion      |                |
+    | m | 名词后缀   | ment     |                |
+    | g | 动词后缀   | ing      | 现在进行时     |
+    | d | 动词后缀   | d/ed     | 过去时         |
+    | l | 形容词后缀 | al       |                |
+    | o | 形容词后缀 | ous      |                |
+    | f | 形容词后缀 | ful      |                |
+    | b | 形容词后缀 | able     |                |
+    | v | 形容词后缀 | ive      |                |
+    | y |            |          | cloudy         |
+    | y |            | atory    |                |
+    | n | 名词后缀   | ence     | beneficence |
+
+*** 单词前缀
+    | n | con    |                                      |
+    | p | pro    |                                      |
+    | p | pre    |                                      |
+    | a | anti   | 表示反对                             |
+    | b | be     | 构成介词;构成动词,表示使...成为      |
+    | b | bi     |                                      |
+    | o | co     | 表共同                               |
+    | o | col    |                                      |
+    | o | com    | 表示共同                             |
+    | d | dif    |                                      |
+    | d | dis    |                                      |
+    | a | an     | 表示不,无                            |
+    | e | ef     | 表示出,出来                          |
+    | e | em     | 表示进入...之中                      |
+    | e | endo   | 表示内部                             |
+    | e | ex     | 表示出,出去                          |
+    | e | exo    | 表示外部的                           |
+    | e | extra  | 表示以外的,超过的                    |
+    | f | fore   | 表示前面,预先                        |
+    | h | hemi   | 表示半                               |
+    | h | hepta  | 表示7                                |
+    | h | hetero | 表示异类                             |
+    | h | hexa   | 表示6                                |
+    | h | holo   | 表示全部                             |
+    | h | holo   | 表示同类                             |
+    | h | hyper  | 表示超过,太多                        |
+    | h | hypo   | 表示下面,次等                        |
+    | i | il/ir  | 辅音字母表示不,无/表示使...成为,进入 |
+    | i | im/in  | 表示不,无,非/表示向内,进入           |
+    | i | inter  | 表示在...之间,相互                   |
+ 英文前缀后缀约定:
+ | 后缀      | 简写 |
+ |-----------+------|
+ | ly        | l    |
+ | ies       | i    |
+ | es        | e    |
+ | y         | y    |
+ | al        | a    |
+ | ment      |      |
+ | ibility   | i    |
+ | ability   | i    |
+ | able/ible | b    |
+ | ably      | a    |
+ | age       | g    |
+ | an        | n    |
+ | ance      | n    |
+ | ancy      | n    |
+ | ant       | t    |
+ | ation     | o    |
+ | cular     | u    |
+ | icular    | i    |
+ | dom       | d    |
+ | ed        | d    |
+ | ee        | e    |
+ | en        | n    |
+ | ize       | z    |
+ | ify       | f    |
+ | less      | s    |
+ | ful       | f    |
+ | er        | r    |
+ | eer       | r    |
+ | or        | r    |
+ | graph     | p    |
+ | ian       | i    |
+ | ese       | s    |
+ | ician     | c    |
+ | ist       | s    |
+ | ism       | m    |
+ | ard       | d    |
+ | ette      | e    |
+ | let       | l    |
+ | age       | g    |
+ | cy        | c    |
+ | dom       | d    |
+ | hood      | h    |
+ | it        | t    |
+ | is        | s    |
+ | ity       | i    |
+ | ness      | n    |
+ | gram      | g    |
+ | ship      | p    |
+ | try       | t    |
+ | th        | h    |
+ | ure       | u    |
+ | ics       | c    |
+ | logy      | g    |
+ | nomy      | m    |
+ | em        | m    |
+ | ical      | l    |
+ | ish       | h    |
+ | ar        | a    |
+ | fold      | d    |
+ | ive       | v    |
+ | th        | h    |
+ | rward     | w    |
+ |           |      |

@@ -50,4 +50,5 @@ mklink  D:\ProgramFiles\Anaconda3\envs\python3.6\Lib\site-packages\wedo.pth  D:\
 为vim外部Python命令创建软链接指向IDEA目录:
 ```
 mklink D:\Workspace\Github\huanLing\src\main\com\utils\fmt_date.py D:\Workspace\Github\myconf\vim\cmd\python\fmt_date.py
+mklink D:\Workspace\Github\huanLing\src\main\com\utils\fs.py D:\Workspace\Github\myconf\vim\cmd\python\fs.py
 ```
