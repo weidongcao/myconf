@@ -36,6 +36,7 @@
 {0}bulk bulk
 {0}card card
 {0}care care
+{0}cbud 预判
 {0}cedpu procedure
 {0}cene center
 {0}cenpg percentage
@@ -89,6 +90,7 @@
 {0}depic independence
 {0}depit independent
 {0}devm development
+{0}dgbb 厨子
 {0}difc difference
 {0}difnn confidence
 {0}dirn direction
@@ -150,6 +152,7 @@
 {0}frid Friday
 {1}frid friend
 {0}friy friendly
+{0}fryj 直播课
 {0}ftpn 考官
 {0}fumo furthermore
 {0}futi from_unixtime
@@ -195,6 +198,7 @@
 {0}hund hundred
 {0}ielt IELTS
 {0}iftr 小动物
+{0}ihrr 小白
 {0}infn information
 {0}inil initial
 {0}inth in$_the$_
@@ -211,9 +215,11 @@
 {0}java java
 {0}jbmw 电子邮件
 {0}jgfg 题干
+{0}jtpw 量身定做
 {0}july July
 {0}june June
 {0}juwd 时间段
+{0}kcgy 中牟一高
 {0}khrq 中的
 {0}klww 中国人
 {0}knwg knowledge
@@ -301,6 +307,7 @@
 {0}octo October
 {0}oero zero
 {0}ofth of$_the$_
+{0}ogkr 精听
 {0}opecn cooperation
 {0}openo cooperation
 {0}orgn organization
@@ -328,6 +335,7 @@
 {0}petcg competing
 {0}petcn competition
 {0}petcs competes
+{0}pfyn 冠词
 {-}pgty 定稿
 {0}phas phase
 {0}phon phone
@@ -528,8 +536,10 @@
 {0}vipd provided
 {0}viru virtue
 {0}vnnx 好习惯
+{0}vryj 录播课
 {0}walw 全世界
 {0}wate water
+{-}wayn 供词
 {0}wdgi 从大到小
 {0}wdpw 假大空
 {0}weca we$_can$_
