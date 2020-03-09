@@ -108,6 +108,7 @@
 {0}domc domestic
 {0}doto downtown
 {0}doub double
+{0}dpux 顾家北
 {0}drac dramatic
 {0}dray dramatically
 {0}driv drive
@@ -295,6 +296,7 @@
 {0}nggy 屈玲玉
 {0}nigh night
 {0}ninn nineteen
+{0}nnfj 快进
 {0}nobo notebook
 {0}nomce economic
 {0}nort north
@@ -366,6 +368,7 @@
 {0}puug 冠状病毒
 {0}qkga 句型
 {0}qsej 铃村爱里
+{0}qtjg 多选题
 {0}quat quality
 {1}quat quantity
 {0}qult 饼状图
@@ -396,6 +399,7 @@
 {0}rous surround
 {-}rqjg 的是
 {0}rrkr 抓听
+{0}rrrt 手把手
 {0}rtit 的生活
 {0}rtiy 手游
 {0}rtrj 拖拽
