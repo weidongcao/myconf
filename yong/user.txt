@@ -515,6 +515,7 @@
 {0}true true
 {-}true True
 {0}trul truly
+{0}ttft 笔考
 {0}ttwx 自我介绍
 {0}tued Tuesday
 {0}tuft 生产者
