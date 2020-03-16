@@ -532,6 +532,7 @@
 {0}urbsn suburban
 {0}usul usual
 {1}usul usually
+{0}utov µ¥¸´Êý
 {0}utst unix_timestamp
 {0}uywq ×´Óï´Ó¾ä
 {0}vear reveal
