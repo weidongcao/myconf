@@ -214,6 +214,7 @@ command! Fmtdate :execute '%!python -m fmt_date'
 command! FD :execute '%!python -m fmt_date'
 command! FS :execute '%!python -m fs'
 
+" vim插入时间
 iab xtime <c-r>=strftime("%Y-%m-%d %H:%M:%S")<cr>
 
 " 重新定义可视模式下*及#的行为为查找选中的文本
