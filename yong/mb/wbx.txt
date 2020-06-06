@@ -7351,7 +7351,7 @@ dasw 耍花枪
 dat 硗
 data 砌筑
 datd 大功告成
-date $yyyy年$mon月$day日 $YYYY0年$MON月$DAY日 农历$RIQI
+date $yyyy年$mon月$day日
 datf 左迁
 dath 碟片
 datm 万花筒
@@ -19253,7 +19253,7 @@ gmqv 现银
 gmrc 两把
 gmrd 再拜
 gmrf 丽质
-gmrh 现年
+gmrh 
 gmrj 再提
 gmrk 曹操
 gmrn 一网打尽
@@ -41613,7 +41613,7 @@ pgtq 宣称
 pgtr 宝物
 pgtv 定律
 pgtw 寡不敌众
-pgty 定稿 写稿 写入
+pgty 写稿 写入
 pgud 宣判
 pgug 宝盖
 pguj 写意
@@ -55769,7 +55769,7 @@ tdcq 雉鸡
 tdcu 叐
 tdcy 秡
 tdd 舌
-tddc 筹码 乱码
+tddc 筹码
 tddd 乱套
 tddh 智慧
 tddj 积非成是
@@ -65928,7 +65928,7 @@ wayi 供应
 wayj 代课
 wayl 代为
 waym 借调
-wayn 供词 代词
+wayn 代词
 wayq 代庖
 wayt 代谢
 wayw 供认
@@ -75772,7 +75772,7 @@ ywpw 夜空
 ywpy 夜视
 ywqa 认错
 ywqc 夜色
-ywqk 座钟
+ywqk 
 ywqn 腐蚀
 ywqu 变化多端
 ywqv 论争
@@ -76189,5 +76189,5 @@ yyyq 广义
 yyyt 广州
 yyyu 言说
 yyyw 言论 议论
-yyyy 方言 文言 言
+yyyy 言
 z $LAST

@@ -1,4 +1,5 @@
 arro $_->$_
+chda Christmas$_Day
 cnne Convolutional$_Neural$_Networks
 date $yyyy-$mon0-$day0$_$hour0:$min:$sec
 dime Dimensionality$_reduction
@@ -13,8 +14,18 @@ gico git$_commit
 gipu git$_push
 gist git$_status
 inla Input$_Layer
+inth in$_the$_
+isno is$_not$_
+isth is$_that$_
+itis it$_is$_
+natd National$_Day
 nene Neural$_Networks
+nyda New$_Year's$_Day
+ofth of$_the$_
 pola Pooling$_Layer
 ppro P30$_Pro
 righ $_-->$_
+thar there$_are
+this there$_is
 vmwo Vmware$_Workstation
+weca we$_can$_
