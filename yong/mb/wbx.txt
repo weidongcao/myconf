@@ -20260,7 +20260,7 @@ gtu 麦
 gtud 亚特兰大
 gtun 一片冰心
 gtuq 一等奖 一知半解
-gtut 再生产
+gtut 
 gtux 不得善终
 gtvb 弄得好
 gtvg 不知好歹

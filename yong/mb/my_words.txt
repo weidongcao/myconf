@@ -184,6 +184,7 @@ evit evident
 evno Evernote
 excel excel
 excl excel
+exvp ExpressVPN
 fale False
 fare fare
 febr February
@@ -594,6 +595,7 @@ sout south
 sovy sovereignty
 spak Spark
 spel specifically
+spem spacemacs
 sqll SQL
 squa square
 stad standard

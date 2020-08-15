@@ -8,6 +8,7 @@ beta \beta
 caom caowd1990@163.com
 chii \chi
 coss \cos
+cwdg caowd1990@gmail.com
 date 20$mon0$day0$hour0 $yyyy-$mon0-$day0$_$hour0:$min:$sec
 dela \Delta
 diay ¡¾Diary¡¿

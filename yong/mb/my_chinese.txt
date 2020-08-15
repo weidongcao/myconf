@@ -10,9 +10,11 @@ aiyy 范文
 ajdr 荒野雄兵
 alfl 世界地图
 alhh 世界上
+amdm 英布
 andx 巨龙
 aneb 巨乳
 anyn 巨鹿
+apgs 花宫亚梦
 apqf 七宝镇
 aqng 警情
 ashh 基本上
@@ -20,10 +22,12 @@ atlt 甘特图
 augi 花间一壸酒
 ausu 菜单栏
 autj 堇美香
+avws 萧何
 awaq 工作区
 awjg 工作量
 awju 工作时间
 awmp 工作内容
+awng 葵司
 awuk 工信部
 aygm 东方不败
 bafg 陈博
@@ -46,6 +50,7 @@ bgjg 也不是
 bguj 隔间
 bide 也没有
 bjfc 阿里云
+blqi 出国留学
 bmqq 出金
 bnkn 了呢
 bnvc 也即
@@ -77,6 +82,7 @@ ctgj 预处理
 ctxy 双系统
 cwwk 鸡公煲
 cwyg 难
+dbdt 在职研究生
 dbov 奇函数
 dcbn 太难了
 ddbn 大了
@@ -86,6 +92,7 @@ ddnu 大屏
 ddny 大忙
 ddpy 大神
 ddrq 大的
+ddtt 三原穗香
 ddyb 太感谢您了
 degf 有助于
 dejf 感受野
@@ -109,7 +116,7 @@ didy 非常感谢
 difh 感兴趣
 diih 非常小
 dixo 大学毕业
-djff 大昭寺
+djff 大昭寺 大昭寺
 djhn 有监督学习
 djog 克里米亚
 djrq 大量的
@@ -145,6 +152,7 @@ dwpf 三分之二
 dwtc 有什么
 dwty 有什么问题的话
 dwyy 大作文
+dxiq 戚继光
 dxnt 非线性
 dxwf 龙伟
 dycw 太难
@@ -154,6 +162,7 @@ dyit 太少
 dykh 友谊路
 dypn 面试官
 dyta 太长
+ebbn 服了
 edlu 朋友圈
 eenu 鹏飞
 esfh 彩超
@@ -163,6 +172,8 @@ euuk 胖总
 euyg 爱音麻里亚
 eytt 用户特征
 fakh 截距
+fatx 赵匡胤
+fbqt 地儿
 fcdf 云辰
 fclg 动车
 fcov 超参数
@@ -181,13 +192,14 @@ fgdb 地球百子
 fgdd 地王大厦
 fgfc 去不去
 fgky 干嘛
-fgve 二姐
+fgve 二姐 二姐
 fhdd 越大
 fhih 越小
 fhit 越少
 fhjg 真题
 fhvb 越好
 fhwg 真命
+fhwv 超分
 fhxk 越强
 fhym 越高
 fifa 馨汇南苑
@@ -196,8 +208,10 @@ fikk 过滤器
 fioq 赵小焕
 fiua 真光新村第七小区41栋502
 fjhn 无监督学习
+fjwy 韩信
 fllg 无力回天
 fmaq 南山区
+fmgk 老同事
 fmmm 南山
 fnqg 块钱
 forn 元数据
@@ -209,19 +223,21 @@ fqsk 无可
 fqwd 均匀分布
 fqxe 元组
 friy 彭年酒店
+frka 老牛吃嫩草
 frln 无所畏惧
 frts 支持向量机
 frwg 过拟合
 fryj 直播课
 fsny 都可以
 ftgs 过街天桥
-ftjg 都是
+ftjg 都是 都是
 ftpn 考官
 fttw 运算符
 ftut 才知道
 ftwa 老代
 ftyu 都说
 ftyy 远程调试
+fuug 坂道美琉
 fwet 起作用
 fwod 二分类
 fwpg 支付宝
@@ -234,8 +250,10 @@ fyqt 赫高锋
 fysf 南京西路重点区域
 fysk 南京西路
 fyud 协方差
+galg 开国
 gaud 开头
 gauj 开区间
+gauq 武将
 gaxg 下划线
 gbgq 五险一金
 gcbf 亚马逊云
@@ -247,6 +265,8 @@ gdjr 不太明白
 gdqt 天猫
 gdrq 正确的
 gdwd 正态分布
+gdwu 天龙八部
+gegm 靓丽
 geqk 表名
 gfcq 不喜欢
 gfky 不干嘛
@@ -257,6 +277,8 @@ gfsv 不需要
 gfwf 平均值
 gfyj 环境变量
 ggfg 一二
+ggpg 不一定
+ggsg 一本
 ggtt 开玩笑
 ggvc 一开始
 ggwu 一倍
@@ -274,9 +296,9 @@ gidy 不太
 gifc 不去
 gihh 不上
 giig 不清
-gijg 不是
+gijg 不是 不是
 gild 不因
-giny 不小心
+giny 不小心 不小心
 giss 不清楚
 gisv 
 gitj 还得
@@ -287,8 +309,10 @@ gixw 不给
 giyi 不就
 gjiw 平时没事的时候
 gkbw 整除
+gkqq 青史留名
 gkte 整租
 gkwq 带你
+glaa 开国功臣
 gmrh 两年
 gmrq 不同的
 gmww 两人
@@ -296,6 +320,7 @@ gmwx 正则化
 gmyf 曹庄
 gngw 曹改玲
 godx 恶龙
+gofa 灭霸
 gpaq 静安区
 gpcn 一字马
 gpff 静安寺
@@ -308,9 +333,11 @@ gpwg 不安全
 gqfn 五角场
 gqgq 玩儿玩儿
 gqud 残差
+gsbn 不要了
 gtdy 一般而言
 gtng 一般情况下
 gtut 不知道
+gtyu 一篇文章
 gufw 一拳超人
 gutb 正交矩阵
 guwv 一部分
@@ -332,10 +359,13 @@ gywg 不方便
 gywj 平方公里
 hbov 凸函数
 hdgd 上古恶龙
+hdul 上古卷轴
 hh 目
+hhec 止盈
 hhgh 上/下
 hhlt 上图
 hhpy 上社
+hhrk 止损
 hiou 上海火车站
 hiya 上海市铜川路1781弄真光新村第七小区41栋502
 hiyn 上海市普陀区中江路879号天地软件园10栋2楼A云辰信息技术有限公司
@@ -379,6 +409,7 @@ iili 小小输入法
 iily 小小输入法更新个人词
 iiqf 泗泾镇
 iirq 满满的
+iiun 水沢美心
 ijwh 小时候
 ilfq 江边城外烤全鱼
 ilxu 深田绘美
@@ -386,7 +417,7 @@ incf 满心欢喜
 inyx 学习率
 iony 少数民族
 ipfa 学霸
-ipit 学海
+ipit 学海 学海
 ipwf 党伟
 irjw 小的时候
 iruj 派单
@@ -416,6 +447,7 @@ jgfg 题干
 jgrx 是指
 jgwx 归一化
 jhin 监督学习
+jhyy 早该
 jifi 最小二乘法
 jjak 蚂蚁花呗
 jjgi 电影天堂
@@ -455,9 +487,13 @@ khrq 中的
 khwq 跟你
 khwy 中信
 kjqf 顺时针
+kkkk 哔哩哔哩
 klww 中国人
 kmwl 中山公园
 knsg 中心极限定理
+krkr 听听
+ksdh 呆在
+ktrc 吃瓜
 kvsg 哪本
 kwqt 中信银行
 kyjg 哑变量
@@ -473,12 +509,14 @@ lfwx 黑化
 lghh 连不上
 lgld 图形界面
 lguj 辅音
+lgya 加速度
 lhrh 四年
 liaq 罗湖区
 ljxe 轻量级
 lkhk 圆点
 lkiu 回滚
 lkny 圆心
+lkwb 加仓
 lllj 逻辑回归
 llus 园田美樱
 lmid 国内源
@@ -488,6 +526,7 @@ lqru 软链接
 lrib 连接池
 ltnf 输入层
 ludd 较大
+lvxw 男女比例
 lwlf 软件园
 lwpd 四分之三
 lwpg 四分之一
@@ -498,6 +537,7 @@ lyng 默认情况下
 mdib 内存溢出
 mfuk 周总
 mfxk 周强
+mgfb 峰不二子
 mgju 同一时间
 mgwf 赋值
 mgwh 同一个
@@ -513,20 +553,25 @@ mwww 凡人修仙传
 naak 异或
 nfov 导数
 ngfh 买不起
+nggf 以至于
 nggo 买下来
 nggy 屈玲玉
 ngty 司篇
 nigq 懒省事儿
 nkev 劈腿
+nmnm 刷刷
 nn 快
 nnfb 慢慢地
 nnfj 快进
 nnwf 属性值
 nqdg 悄然而至
+nqna 飞鸟尽良弓藏
 nsce 尽可能
 ntih 发小
 nugh 情况下
+nulg 买车
 nusk 飞哥
+nuyn 买房
 nygi 忙不
 ogkr 精听
 ojff 爆款
@@ -546,6 +591,7 @@ owgf 类似于
 owyt 数值计算
 pbhh 实际上
 pcad 神圣巨龙
+pdgu 安达亚美
 pdkk 寄存器
 pfyn 冠词
 pgty 写入
@@ -555,7 +601,7 @@ pmaq 宝山区
 pnmq 官网
 pnpt 安居客
 prhh 实质上
-ptkk 字符串
+ptkk 字符串 字符串
 ptyl 被称为
 pudg 初三
 pufw 补零
@@ -576,10 +622,12 @@ qdjg 鲁大师
 qdql 金三银四
 qdxp 解压缩
 qfor 金十数据
+qhte 外盘
 qinu 锁屏
 qkga 句型
 qmwg 负例
 qpso 银之杰
+qqgy 狡兔死走狗烹
 qqty 印象笔记
 qqwu 多倍
 qrwg 欠拟合
@@ -590,12 +638,14 @@ qssg 负样本
 qsya 负梯度
 qthh 银行卡
 qtjg 多选题
+qtoy 狗粮
 qtqa 猜错
 qult 饼状图
 qumd 独立同分布
 qvfg 邹博
 qxtk 多线程
 qybm 留出
+qydh 留在
 qyet 鸟用
 rahh 的项目
 rahk 撒点
@@ -606,9 +656,11 @@ rclt 的能力
 rcrw 反推
 retk 的服务器
 rfbn 挂了
+rfgu 朱元璋
 rfmj 的规则
 rfrh 挂掉
 rftk 的过程
+rfuj 持单
 rfyy 的地方
 rgga 打不开
 rggc 找不到
@@ -618,6 +670,7 @@ rgtw 制表符
 rgvt 岳不群
 rhpf 看完
 rhsf 的目标
+rhww 牛人
 riap 朱小蒙
 rjkt 的影响
 rjpy 看电视
@@ -627,6 +680,7 @@ rjyt 打电话
 rkrk 扣扣
 rkyc 的顺序
 rlwf 返回值
+rmdn 抽成
 rnna 的发展
 rnrf 的性质
 rnsv 所要
@@ -667,12 +721,14 @@ rujg 的问题
 rujs 的效果
 ruqc 拉勾
 ruqt 招商银行
+ruuj 抖音
 ruwv 的部分
 ruyk 的意识
 rvqt 搜狗
 rwet 的作用
 rwsf 抢票
 rwth 的信息
+rwtr 推特
 rwwa 迭代
 rwwy 的命令
 rxjs 的结果
@@ -689,9 +745,10 @@ sdwq 极大似然
 sdwy 极大似然估计
 seew 梦乃爱华
 sewf 极值
+sfgw 李元玲
 sgmh 栈帧
 sgqd 要不然
-sgsv 要不要
+sgsv 要不要 要不要
 sgxb 松下纱荣子
 shvb 想好
 siaq 松江区
@@ -702,10 +759,14 @@ skin 机器学习
 skpv 森川安娜
 slml 本田岬
 slyw 配置文件
+smdf 林由奈
 smft 机考
+snjc 杨坚
 snyy 可以认为
+spsi 樱空桃
 spuj 栈空间
 spwx 可视化
+sqkw 樊哙
 srhh 本质上
 srov 相反数
 srwb 模拟仓
@@ -745,6 +806,9 @@ tdax 生成式对抗网络
 tddc 
 tdkh 长寿路
 tdkk 生成器
+tdng 自古以来
+tdsg 适配
+tdtu 知乎
 tdwh 第三个
 tdyy 第三方
 tfbn 丢了
@@ -767,7 +831,7 @@ tguw 第一部分
 tgwh 每一个
 thaf 重点区域
 thbg 向上取整
-thbn 算了
+thbn 算了 算了
 thrr 自拍
 tids 生活成本
 tiov 秒数
@@ -796,6 +860,7 @@ tpxp 管综
 tqpp 自然灾害
 tqui 自然资源
 trbu 物联
+trcc 我又
 trkn 我叫
 tsce 很可能
 tsnt 重要性
@@ -815,6 +880,7 @@ tugf 生产环境
 tugy 简单来讲
 tunn 简书
 tuny 乘以
+turg 税后
 tvya 复杂度
 twgv 笑贫不笑娼
 twou 条件熵
@@ -832,6 +898,7 @@ tyod 很麻烦
 ubaq 普陀区
 ubtf 逆行
 ubwy 美联储
+ucgs 普通一本
 ucou 交叉熵
 udbn 关了
 udfj 送进
@@ -847,6 +914,8 @@ ugce 并不能
 ugrq 美欣
 ugvf 辣妹
 uhyi 北上广深
+uhyr 羊卓雍措
+uiee 美洲豹
 ujhn 半监督学习
 ujpx 递归神经网络
 ujrc 单反
@@ -860,9 +929,11 @@ ulst 冲田杏梨
 umbj 兰崇阳
 upxg 首字母
 uqej 新名爱明
+uqjt 将星
 uqlt 竞争力
 urdd 美欣大厦
 urss 单反相机
+usud 新郑
 utaq 闵行区
 utbl 逆矩阵
 utnf 卷积层
@@ -876,6 +947,7 @@ uusa 凛音桃花
 uuxl 新新幼儿园
 uwee 半个月
 uwij 半个小时
+uwrj 美谷朱里
 uwtb 单位矩阵
 uxtk 单线程
 uxud 背着
@@ -889,7 +961,9 @@ vgpj 好不容易
 vikm 女演员
 vlyx 召回率
 vnnx 好习惯
+vqux 君岛美绪
 vryj 录播课
+vsra 那木措
 vtbn 那算了
 vtpl 姬生军
 vtte 群租
@@ -946,7 +1020,7 @@ wqdm 低碳
 wqjg 你是
 wqpu 命名空间
 wqrq 您的
-wqvc 爸妈
+wqvc 爸妈 爸妈
 wqxe 父级
 wsik 谷歌浏览器
 wslm 坐标轴
@@ -970,7 +1044,7 @@ wwqk 从句
 wwtf 命令行
 wwvt 人妖
 wxtu 化简
-wxyl 华为
+wxyl 华为 华为
 wydh 停在
 wyfa 邻域
 wyih 偏小
@@ -997,8 +1071,10 @@ xtdg 张三
 xtjd 张晨
 xtwf 终值
 xutn 红颜知己
+xvtb 结婚生子
 xwft 纳什均衡
 xwwq 给你
+xxfg 弱弱地问一下
 xxya 经纬度
 yagd 京基一百
 yaif 广东深圳
@@ -1012,6 +1088,7 @@ yfal 高嘉花园
 yfjg 方老师
 yfwj 请教个问题
 yfwp 市场份额
+yfyf 讲讲
 ygdy 语态
 ygig 记不清
 ygpr 毫不客气
@@ -1020,7 +1097,7 @@ ygrh 这一年
 ygwx 序列化
 ygyq 语义
 yhrh 这些年
-yiai 京东
+yiai 京东 京东
 yide 就有
 yidh 就在
 yirc 就把
@@ -1029,10 +1106,13 @@ yjal 文星花园
 yjfg 刘博
 yjnu 刘飞
 yjqt 变量名称
+yjsw 高晓松
+yjte 刘秀
 yjwf 变量作用域
 ymad 高斯
 ymcd 调参
 ymdg 高三
+ymqr 高铁
 ymtf 高德
 ymwd 调优
 ymym 高高
