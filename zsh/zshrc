@@ -107,31 +107,6 @@ plugins=(
 )
 
 
-# >>> conda initialize >>>
-# !! Contents within this block are managed by 'conda init' !!
-__conda_setup="$('/opt/tools/anaconda3/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
-if [ $? -eq 0 ]; then
-    eval "$__conda_setup"
-else
-    if [ -f "/opt/tools/anaconda3/etc/profile.d/conda.sh" ]; then
-        . "/opt/tools/anaconda3/etc/profile.d/conda.sh"
-    else
-        export PATH="/opt/tools/anaconda3/bin:$PATH"
-    fi
-fi
-unset __conda_setup
-# <<< conda initialize <<<
-export PYTHON_HOME=/opt/shortcut/python3
-export PATH=$PYTHON_HOME/bin:$PATH 
-
-# set java environment
-export JAVA_HOME=/opt/shortcut/jdk1.8
-export PATH=$JAVA_HOME/bin:$PATH
-export CLASSPATH=.:$JAVA_HOME/lib/dt.jar:$JAVA_HOME/lib/tools.jar
-
-# set scala environment
-export SCALA_HOME=/opt/shortcut/scala
-export PATH=$PATH:$SCALA_HOME/bin
 
 # 命令重命名solarized
 alias vi="vim"
@@ -155,3 +130,5 @@ if [ -f $HOME/.Xmodmap ]; then
 	/usr/bin/xmodmap $HOME/.Xmodmap
 fi
 export LD_LIBRARY_PATH=/lib/x86_64-linux-gnu/:$LD_LIBRARY_PATH
+
+#yong -d
