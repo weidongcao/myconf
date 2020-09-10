@@ -120,7 +120,7 @@ alias gd="git diff"
 alias gh="git push"
 alias gl="git pull"
 alias gc="git checkout"
-alias o="opendir"
+alias o="nohup nautilus . &"
 #alias gl="git clone"
 #alias gh="git checkout"
 # 配置gvim主题可以在终端下完美显示
@@ -131,4 +131,4 @@ if [ -f $HOME/.Xmodmap ]; then
 fi
 export LD_LIBRARY_PATH=/lib/x86_64-linux-gnu/:$LD_LIBRARY_PATH
 
-#yong -d
+yong -d > /dev/null 2>&1
