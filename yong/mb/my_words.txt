@@ -26,11 +26,13 @@ area area
 arev area_event
 args args
 argx argmax
+arli archlinux
 arra array
 assn Assign
 augt August
 augu August
 auju autojump
+bala bala
 basi batch_size
 befr before
 begg begining
@@ -195,6 +197,7 @@ ff F
 fidnn confidence
 fifo firefox
 file file
+filp profile
 filr filter
 finc finance
 find find
@@ -454,6 +457,7 @@ parcn comparison
 parg parenting
 parr particular
 part parent
+pass pass
 penib indispensable
 perd period
 petc compete
@@ -620,6 +624,7 @@ sums summarise
 sumy 
 sund Sunday
 sure sure
+sysc systemctl
 syse ecosystem
 sysm system
 tabe table
@@ -734,4 +739,5 @@ xray xray
 xshl XShell
 year year
 yeas years
+yong yong
 youg young
