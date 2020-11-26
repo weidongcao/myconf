@@ -7,6 +7,7 @@ ln -s /opt/workspace/github/myconf/yong ~/.yong
 Windows下为小小输入法配置文件目录创建软链接:
 #+BEGIN_SRC 
 mklink /j ${user.home}\AppData\Roaming\yong D:\Workspace\Github\myconf\yong
+mklink /j C:\Users\wedo\AppData\Roaming\yong D:\Workspace\Github\myconf\yong
 #+END_SRC
 
 ** 小小输入法英文单词编码说明
