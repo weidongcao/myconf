@@ -17,3 +17,10 @@ mklink /j ${user.home}\.IntelliJIdea\config D:\Workspace\Github\myconf\IntelliJ\
 #+BEGIN_SRC 
 mklink D:\ProgramFiles\JetBrains\IntelliJIDEA\bin\idea.properties D:\Workspace\Github\myconf\IntelliJ\idea\idea.properties
 #+END_SRC
+
+创建IDEA Project Location文件夹的软链接
+mklink /j C:\Users\wedo\IdeaProjects D:\Workspace\IdeaProjects
+#+BEGIN_SRC 
+mklink /j ${user.home}\IdeaProjects D:\Workspace\IdeaProjects
+mklink /j C:\Users\wedo\IdeaProjects D:\Workspace\IdeaProjects
+#+END_SRC
