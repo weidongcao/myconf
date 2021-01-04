@@ -7351,7 +7351,6 @@ dasw 耍花枪
 dat 硗
 data 砌筑
 datd 大功告成
-date $yyyy年$mon月$day日
 datf 左迁
 dath 碟片
 datm 万花筒

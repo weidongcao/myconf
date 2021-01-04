@@ -1,7 +1,6 @@
 arro $_->$_
 chda Christmas$_Day
 cnne Convolutional$_Neural$_Networks
-date $yyyy-$mon0-$day0$_$hour0:$min:$sec
 dime Dimensionality$_reduction
 dimo Discriminative$_Model
 fcla FC$_Layer
