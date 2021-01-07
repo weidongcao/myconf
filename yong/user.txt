@@ -9,7 +9,10 @@
 {0}bwdc 取件码
 {0}caodg caowd1990@gmail.com
 {0}caody caowd1990@163.com
-{0}clho clickhouse
+{0}clho ClickHouse
+{1}clho clickhouse
+{0}cron crontab
+{0}dconf D:\Workspace\Github\myconf
 {0}ddyb 太感谢了
 {0}dekb 有啊
 {0}dhvj 丰巢
@@ -24,6 +27,7 @@
 {0}gfqt 玩儿
 {0}ggip 不正常
 {0}ggjc 王坚
+{0}ghfj 正坤
 {0}ghwy 不瞒你说
 {0}gijg 不是
 {0}gnwy 王忆念
@@ -42,10 +46,15 @@
 {0}logg logging
 {0}lqxk 罗强
 {0}mapg mapping
+{0}mode mode
 {0}nxgy 心比天高
+{0}optt /opt
+{0}orid 数据源
 {0}otll 业务逻辑
 {0}pfiw 宁超举
 {0}pgty 写入
+{0}pogr postgre
+{0}posq PostgreSQL
 {0}ptkk 字符串
 {0}pyut 禅道
 {0}qvud 急着
@@ -70,8 +79,10 @@
 {0}trgh 我看下
 {0}twwf 徐伟
 {0}uide 并没有
+{0}usgo 新来
 {0}vtju 好长时间
 {0}vtyp 九亭
+{0}wapo wavepoint
 {0}wjyd 何晓庆
 {0}wjyu 何晓庆总
 {0}wtja 任晓
@@ -84,6 +95,7 @@
 {0}xxfg 弱弱地问下
 {0}yaml yaml
 {0}ydfc 郭万云
+{0}yfgh 请教下
 {0}yiam 刘水英
 {0}yiau 刘水英总
 {0}yikn 就叫
