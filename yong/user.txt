@@ -7,11 +7,13 @@
 {0}bntj 也得
 {0}bufc 联动
 {0}bwdc 取件码
+{0}calc calc
 {0}caodg caowd1990@gmail.com
 {0}caody caowd1990@163.com
 {0}clho ClickHouse
 {1}clho clickhouse
 {0}cron crontab
+{0}data data
 {0}dconf D:\Workspace\Github\myconf
 {0}ddyb 太感谢了
 {0}dekb 有啊
@@ -38,6 +40,7 @@
 {0}ieuk 汲总
 {0}iiam 水英
 {0}info INFO
+{0}ipip 192.168.
 {0}iwqq 汲传鑫
 {0}jayd 晓庆
 {0}jfkc 里吗
@@ -55,6 +58,7 @@
 {0}pgty 写入
 {0}pogr postgre
 {0}posq PostgreSQL
+{0}pppp 192.168.
 {0}ptkk 字符串
 {0}pyut 禅道
 {0}qvud 急着
@@ -66,6 +70,7 @@
 {0}rrck 控制台
 {0}ryjg 的就是
 {0}sgfb 本地
+{0}smdd SmartDDI
 {0}spbo Springboot
 {0}sprg Spring
 {0}sscc 梦双
