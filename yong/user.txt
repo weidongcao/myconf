@@ -61,7 +61,8 @@
 {0}jayd 晓庆
 {0}jfkc 里吗
 {0}jhwf 早会
-{0}kdid 顺涛
+{0}kdid 吴万涛
+{1}kdid 顺涛
 {0}klkl 嗯嗯
 {0}ktkt 哦哦
 {0}level level
@@ -115,6 +116,7 @@
 {0}tomt Tomcat
 {0}trdh 我在
 {0}trgh 我看下
+{0}tsga 和梦琪
 {0}twwf 徐伟
 {0}uide 并没有
 {0}usgo 新来
@@ -122,6 +124,7 @@
 {0}vtju 好长时间
 {0}vtyp 九亭
 {0}wapo wavepoint
+{0}wcbp 信通院
 {0}wedo wedo
 {0}wjyd 何晓庆
 {0}wjyu 何晓庆总
