@@ -24,6 +24,7 @@
 {0}ddyb 太感谢了
 {0}dekb 有啊
 {0}dhvj 丰巢
+{0}dnid 万涛
 {0}dnss DNS
 {0}dnsys dnsys
 {0}dock Docker
@@ -32,7 +33,11 @@
 {0}error error
 {0}fhiw 超举
 {0}flex flowexport
+{0}flin flink
+{0}flink flink
+{0}flnk flink
 {0}fnpl 志军
+{0}fqso 元杰
 {0}ftjg 都是
 {0}gduj 不愿意
 {0}gfqt 玩儿
@@ -43,6 +48,7 @@
 {0}ghwy 不瞒你说
 {0}gice 不通
 {0}gijg 不是
+{0}giqv 不急
 {0}gish 还想
 {0}gisv 不要
 {0}gnwy 王忆念
@@ -72,6 +78,8 @@
 {0}match match
 {0}mode mode
 {0}mumq 内部网
+{0}mysl MySQL
+{-}mysl Mysql
 {0}nxgy 心比天高
 {0}ofli offline
 {0}optt /opt
@@ -84,8 +92,10 @@
 {0}pppp 192.168.
 {0}ptkk 字符串
 {0}push push
+{0}pwwx 实例化
 {0}pytn Python
 {0}pyut 禅道
+{0}qkpb 错别字
 {0}qqrf 多多指教
 {0}qvud 急着
 {0}rbqa 报错
@@ -135,8 +145,10 @@
 {1}wyth 令牌
 {0}xjai 张晓东
 {0}xovv 继娜
+{0}xtgw 给我一个
 {0}xuxu 弱弱
 {0}xwgc 给到
+{0}xwtr 给我
 {0}xxfg 弱弱地问下
 {0}yaml yaml
 {0}yamu yamu
