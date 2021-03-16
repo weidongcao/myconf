@@ -216,6 +216,19 @@ under the License.
       </repositories>
     </profile>
     -->
+    <profile>
+      <id>jdk-1.11</id>
+
+      <activation>
+        <activeByDefault>true</activeByDefault>
+        <jdk>1.11</jdk>
+      </activation>
+		<properties>
+			<maven.compiler.source>1.8</maven.compiler.source>
+			<maven.compiler.target>1.8</maven.compiler.target>
+		</properties>
+
+    </profile>
 
     <!--
      | Here is another profile, activated by the system property 'target-env' with a value of 'dev',
