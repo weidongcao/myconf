@@ -1,3 +1,4 @@
+{0}add add
 {0}agent agent
 {0}agfj 苟正坤
 {0}ahss 牙木
@@ -7,7 +8,10 @@
 {0}ascc 葛梦双
 {0}ascy 牙木通讯
 {0}awrt 工作报告
+{0}bin bin
+{0}binn bin
 {0}bntj 也得
+{0}boot boot
 {0}bufc 联动
 {0}bwdc 取件码
 {0}calc calc
@@ -31,7 +35,9 @@
 {0}doco docker-compose
 {0}dtwq 帮你
 {0}error error
+{0}etc etc
 {0}fhiw 超举
+{0}flco confluence
 {0}flex flowexport
 {0}flin flink
 {0}flink flink
@@ -72,6 +78,7 @@
 {0}klkl 嗯嗯
 {0}ktkt 哦哦
 {0}level level
+{0}log log
 {0}logg logging
 {0}lqxk 罗强
 {0}mapg mapping
@@ -80,6 +87,7 @@
 {0}mumq 内部网
 {0}mysl MySQL
 {-}mysl Mysql
+{0}ngix nginx
 {0}nxgy 心比天高
 {0}ofli offline
 {0}optt /opt
@@ -108,7 +116,10 @@
 {0}rqkc 的吗
 {0}rrck 控制台
 {0}rubc 拉取
+{0}rwud 推送
 {0}ryjg 的就是
+{0}sbin sbin
+{0}sbuo 李普
 {0}seah search
 {0}sgfb 本地
 {0}skid 李顺涛
@@ -117,12 +128,16 @@
 {0}sprg Spring
 {0}sscc 梦双
 {0}sudo sudo
+{0}suvi supervisord
+{0}suvic supervisorctl
 {0}svyn 李建永
 {0}target target
 {0}tddc 乱码
 {0}tdwq 我帮你
 {0}tfaq 告警
 {0}tfbn 行了
+{0}tfkc 行吧
+{0}tjaw 向日葵
 {0}tomt Tomcat
 {0}trdh 我在
 {0}trgh 我看下
@@ -130,6 +145,9 @@
 {0}twwf 徐伟
 {0}uide 并没有
 {0}usgo 新来
+{0}usr usr
+{0}usrr usr
+{0}var var
 {0}vscd VScode
 {0}vtju 好长时间
 {0}vtyp 九亭
