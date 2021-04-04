@@ -83,11 +83,14 @@
 {0}lqxk 罗强
 {0}mapg mapping
 {0}match match
+{0}mbts mybatis
 {0}mode mode
 {0}mumq 内部网
+{0}myba mybatis
 {0}mysl MySQL
 {-}mysl Mysql
 {0}ngix nginx
+{0}null null
 {0}nxgy 心比天高
 {0}ofli offline
 {0}optt /opt
@@ -137,6 +140,7 @@
 {0}tfaq 告警
 {0}tfbn 行了
 {0}tfkc 行吧
+{0}thfu 自增
 {0}tjaw 向日葵
 {0}tomt Tomcat
 {0}trdh 我在
@@ -144,6 +148,7 @@
 {0}tsga 和梦琪
 {0}twwf 徐伟
 {0}uide 并没有
+{0}user user
 {0}usgo 新来
 {0}usr usr
 {0}usrr usr
