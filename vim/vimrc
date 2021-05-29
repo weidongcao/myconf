@@ -207,12 +207,12 @@ onoremap <C-A> <C-C>gggH<C-O>G
 snoremap <C-A> <C-C>gggH<C-O>G
 xnoremap <C-A> <C-C>ggVG
 
-command! Fmtjson :execute '%!python -m fmt_json'
-command! FJ :execute '%!python -m fmt_json'
+command! fmtjson :execute '%!python -m fmt_json'
+command! fj :execute '%!python -m fmt_json'
 
-command! Fmtdate :execute '%!python -m fmt_date'
-command! FD :execute '%!python -m fmt_date'
-command! FS :execute '%!python -m fs'
+command! fmtdate :execute '%!python -m fmt_date'
+command! fd :execute '%!python -m fmt_date'
+command! fs :execute '%!python -m fs'
 
 " vim插入时间
 iab xtime <c-r>=strftime("%Y-%m-%d %H:%M:%S")<cr>
