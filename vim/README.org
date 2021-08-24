@@ -1,4 +1,4 @@
-## Windows下配置说明
+** Windows下配置说明
 主配置文件创建软链接:
 ```
 mklink ${vim_install_dir}\Vim\_vimrc D:\Workspace\Github\myconf\vim\vimrc
@@ -30,7 +30,7 @@ mkdir ~/.vim
 git clone https://github.com/flazz/vim-colorschemes.git ~/.vim
 ```
 
-## Vim执行Python外部命令
+** Vim执行Python外部命令
 把以下文件软链接到python的site-packages目录下
 ```
 mklink  D:\ProgramFiles\Anaconda3\envs\python27\Lib\site-packages\wedo.pth  D:\Workspace\Github\myconf\vim\cmd\wedo.pth
