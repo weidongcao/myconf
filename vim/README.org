@@ -1,47 +1,60 @@
-** Windows下配置说明
-主配置文件创建软链接:
-```
-mklink ${vim_install_dir}\Vim\_vimrc D:\Workspace\Github\myconf\vim\vimrc
-```
-例:
-```
-mklink  "C:\Program Files (x86)\Vim\_vimrc" D:\Workspace\Github\myconf\vim\vimrc
+* 配置说明
+  
+** Windows下的配置说明
+*** 主配置文件创建软链接:
+  #+begin_src shell
+ mklink ${vim_install_dir}\Vim\_vimrc D:\Workspace\Github\myconf\vim\vimrc
+  #+end_src
 
-mklink C:\Vim\_vimrc D:\Workspace\Github\myconf\vim\vimrc
-```
-```
-ln -s /opt/workspace/github/myconf/vim/vimrc ~/.vimrc
-```
+ 例:
 
-为配色主题创建软链接:
-创建colors目录软链接:
-```
-mklink /j ${vim_install_dir}\Vim\vimfiles\colors D:\Workspace\Github\myconf\vim\colorscheme\colors
-```
-例:
-```
-mklink /j "C:\Program Files (x86)\Vim\vim81\colors" D:\Workspace\Github\myconf\vim\colorscheme\colors
+ #+begin_src shell
+ mklink  "C:\Program Files (x86)\Vim\_vimrc" D:\Workspace\Github\myconf\vim\vimrc
 
-mklink /j C:\Vim\vimfiles\colors D:\Workspace\Github\myconf\vim\colorscheme\colors
-```
-```
-mkdir ~/.vim
+ mklink C:\Vim\_vimrc D:\Workspace\Github\myconf\vim\vimrc
+ #+end_src
+*** 为配色主题创建软链接:
+ 创建colors目录软链接:
+ #+begin_src 
+ mklink /j ${vim_install_dir}\Vim\vimfiles\colors D:\Workspace\Github\myconf\vim\colorscheme\colors
+ #+end_src
+ 例:
+#+begin_src 
+ mklink /j "C:\Program Files (x86)\Vim\vim81\colors" D:\Workspace\Github\myconf\vim\colorscheme\colors
 
-git clone https://github.com/flazz/vim-colorschemes.git ~/.vim
-```
+ mklink /j C:\Vim\vimfiles\colors D:\Workspace\Github\myconf\vim\colorscheme\colors
+#+end_src
+*** 执行Python外部命令
+ 把以下文件软链接到python的site-packages目录下
+ #+begin_src 
+ mklink  D:\ProgramFiles\Anaconda3\envs\python27\Lib\site-packages\wedo.pth  D:\Workspace\Github\myconf\vim\cmd\wedo.pth
+ mklink  D:\ProgramFiles\Anaconda3\envs\python3.6\Lib\site-packages\wedo.pth  D:\Workspace\Github\myconf\vim\cmd\wedo.pth
+ #+end_src
 
-** Vim执行Python外部命令
-把以下文件软链接到python的site-packages目录下
-```
-mklink  D:\ProgramFiles\Anaconda3\envs\python27\Lib\site-packages\wedo.pth  D:\Workspace\Github\myconf\vim\cmd\wedo.pth
-mklink  D:\ProgramFiles\Anaconda3\envs\python3.6\Lib\site-packages\wedo.pth  D:\Workspace\Github\myconf\vim\cmd\wedo.pth
 
-ln -s /opt/workspace/github/myconf/vim/cmd/wedo.pth ~/.local/lib/python3.6/site-packages/wedo.pth
-```
+ 为vim外部Python命令创建软链接指向IDEA目录:
+ #+begin_src 
+ mklink D:\Workspace\Github\huanLing\src\main\com\utils\fmt_date.py D:\Workspace\Github\myconf\vim\cmd\python\fmt_date.py
+ mklink D:\Workspace\Github\huanLing\src\main\com\utils\fs.py D:\Workspace\Github\myconf\vim\cmd\python\fs.py
+ #+end_src
+** Linux配置说明
+*** 主配置文件
+  #+begin_src 
+  ln -s /opt/workspace/github/myconf/vim/vimrc ~/.vimrc
+  #+end_src
+*** 主题配置
+ #+begin_src 
+  mkdir ~/.vim
+  cd ~/.vim
+  ln -s /opt/workspace/github/myconf/vim/colorscheme/colors
+  ln -s /opt/workspace/github/myconf/vim/colorscheme/autoload
+  # 或者
+  git clone https://github.com/flazz/vim-colorschemes.git ~/.vim
 
-为vim外部Python命令创建软链接指向IDEA目录:
-```
-mklink D:\Workspace\Github\huanLing\src\main\com\utils\fmt_date.py D:\Workspace\Github\myconf\vim\cmd\python\fmt_date.py
-mklink D:\Workspace\Github\huanLing\src\main\com\utils\fs.py D:\Workspace\Github\myconf\vim\cmd\python\fs.py
-```
+ #+end_src
 
+*** 执行Python外部命令
+ 把以下文件软链接到python的site-packages目录下
+ #+begin_src 
+ ln -s /opt/workspace/github/myconf/vim/cmd/wedo.pth ~/.local/lib/python3.6/site-packages/wedo.pth
+ #+end_src
