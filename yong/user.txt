@@ -1,3 +1,4 @@
+{0}aaem A股
 {0}add add
 {0}agent agent
 {0}agfj 苟正坤
@@ -35,6 +36,7 @@
 {0}clho ClickHouse
 {1}clho clickhouse
 {0}cmhk 观战
+{0}cntr 马特
 {0}config config
 {0}cron crontab
 {0}daba database
@@ -47,8 +49,10 @@
 {0}dddn 有感而发
 {0}ddwf 大佬
 {0}ddyb 太感谢了
+{0}deib docker$_exec$_-it$_wedo$_bash
 {0}dekb 有啊
 {0}dhvj 丰巢
+{0}diut 非常道
 {0}djwm 悲催
 {0}dlis 万国觉醒
 {0}dmbt 布隆
@@ -100,7 +104,7 @@
 {0}ghbj 正阳
 {0}ghfj 正坤
 {0}ghwy 不瞒你说
-{0}gice 不通
+{1}gice 不通
 {0}giid 武江涛
 {0}gijg 不是
 {0}gili GitLib
@@ -109,6 +113,7 @@
 {0}gisv 不要
 {0}gjsj 理查
 {0}gkuq 副将
+{0}gmjm 曹帅
 {0}gmmf 两周
 {0}gmmq 现网
 {0}gngf 开发环境
@@ -125,6 +130,8 @@
 {0}hklt 战力
 {0}hkqt 点儿
 {0}hkxx 占比
+{0}hljp data@WH2o!7
+{0}hljr super@CJYH2o!7
 {0}home home
 {0}htkc 睡吧
 {0}hule 战斗力旺盛的伯爵
@@ -143,6 +150,7 @@
 {0}isbj 沐阳
 {0}isgs 治标不治本
 {0}itga 泛型
+{0}itmt 浩峰
 {0}ityc 小程序
 {0}iuiu 滴滴
 {0}ivve 小姐姐
@@ -160,6 +168,7 @@
 {0}jljl 曼曼
 {0}jqjq 歇歇
 {0}jtsc 鉴权
+{0}julg 电瓶车
 {0}kdid 顺涛
 {1}kdid 吴万涛
 {0}kgai 吴东
@@ -241,6 +250,7 @@
 {0}rdww 所有人
 {0}regt regedit
 {0}rgvt 朱再群
+{0}rgyt 皇庭
 {0}rhwq 看你
 {0}riwx 朱华
 {0}rlfa 热加载
@@ -260,6 +270,7 @@
 {0}rwud 推送
 {0}ryjg 的就是
 {0}sbin sbin
+{0}sbqt 李狗
 {0}sbuo 李普
 {0}scma ScrumMaster
 {0}scrum Scrum
@@ -268,7 +279,9 @@
 {0}seah search
 {0}sgfb 本地
 {0}sgjg 要不是
+{0}shda show$_databases
 {0}shdo ShowDoc
+{0}shta show$_tables
 {0}shud 想着
 {0}sivt 李小群
 {0}skid 李顺涛
@@ -277,6 +290,7 @@
 {0}sprg Spring
 {0}sscc 梦双
 {0}ssga 梦琪
+{0}sshp ssh$_-p$_64922$_218.203.64.35
 {0}start start
 {0}sudo sudo
 {0}suvi supervisord
@@ -328,6 +342,7 @@
 {0}wapo wavepoint
 {0}wcbp 信通院
 {0}wcqe 公钥
+{0}wdaa 分布式
 {1}wdwx 拿破仑
 {0}wedo wedo
 {0}wfqq 传鑫
