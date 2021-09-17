@@ -61,3 +61,14 @@ if test -d ${HADOOP_HOME}; then
 	export PATH=${PATH}:${HADOOP_HOME}/bin:${HADOOP_HOME}/sbin
 fi
 
+# load local environment
+LOCAL_HOME=~/.local/bin
+if test -d ${LOCAL_HOME};then
+	export PATH=${PATH}:${LOCAL_HOME}
+fi
+
+# set airflow environment
+AIRFLOW_HOME=/opt/shortcut/airflow
+if test -d ${AIRFLOW_HOME}; then
+	export AIRFLOW_HOME
+fi
