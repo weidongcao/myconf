@@ -113,39 +113,13 @@ source $ZSH/oh-my-zsh.sh
 [[ -s ~/.autojump/etc/profile.d/autojump.sh ]] && source ~/.autojump/etc/profile.d/autojump.sh
 autoload -U compinit && compinit -u
 
-# 命令重命名solarized
-alias vi="vim"
-alias v ="vim"
-alias e="emacs"
-alias es="emacs"
-alias gs="git status"
-alias ga="git add"
-alias gm="git commit -m "
-alias gd="git diff"
-alias gh="git push"
-alias gl="git pull"
-alias gc="git checkout"
-alias o="nohup nautilus . >/dev/null 2>&1 &"
-
-alias doim="docker image"
-alias dops="docker ps"
-alias dpa="docker ps -a"
-alias doco="docker-compose"
-alias dcud="docker-compose up -d"
-alias dcdo="docker-compose down"
-alias dcps="docker-compose ps"
-alias de='doex() { sudo docker exec -it $1 /bin/bash; }; doex'
-alias pag='psauxgrep() { echo "sudo ps aux | grep $1"; sudo ps aux | grep $1 }; psauxgrep'
-
-#alias gl="git clone"
-#alias gh="git checkout"
 # 配置gvim主题可以在终端下完美显示
 export TERM=xterm-256color
 # Linux历史命令保留10000条
 HISTFILESIZE=10000
-#export PYTHON_HOME=/usr/local/python3
-#export PATH=$PYTHON_HOME/bin:$PATH
-source /opt/shortcut/myconf/shell/global_environment/myenv.sh
+
+source /etc/profile.d/myenv.sh
+source /etc/profile.d/myalias.sh
 
 export LD_LIBRARY_PATH=/lib/x86_64-linux-gnu/:$LD_LIBRARY_PATH
 
