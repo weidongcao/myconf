@@ -566,7 +566,7 @@ pups pupils
 push push
 pych pycharm
 pycm PyCharm
-pytn Python Python
+pytn Python
 quat quality
 race race
 rank rank
@@ -798,7 +798,7 @@ vscd VScode
 wapo wavepoint
 wate water
 wedd Wednesday
-wedo weidongcao
+wedo wedo weidongcao
 ween weekend
 weio weidongcao
 west west

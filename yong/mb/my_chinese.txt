@@ -131,7 +131,7 @@ ddry 大大提高
 ddtt 三原穗香
 ddvt 大群
 ddwf 大佬
-ddyb 太感谢您了
+ddyb 太感谢了 太感谢您了
 degf 有助于
 dejf 感受野
 dekb 有啊
@@ -303,7 +303,7 @@ frwg 过拟合
 fryj 直播课
 fsny 都可以
 ftgs 过街天桥
-ftjg 都是 都是
+ftjg 都是
 ftpn 考官
 fttw 运算符
 ftut 才知道
@@ -348,7 +348,7 @@ gfjg 王老师
 gfky 不干嘛
 gfmq 王志刚
 gfov 平均数
-gfqt 一块儿
+gfqt 玩儿 一块儿
 gfsv 不需要
 gfwf 平均值
 gfyj 环境变量
@@ -364,7 +364,7 @@ ggpg 不一定
 ggpp 严严实实
 ggqv 一键
 ggsg 一本
-ggtt 开玩笑
+ggtt 王禾 开玩笑
 ggvc 一开始
 ggvw 一开始的时候
 ggwu 一倍
@@ -388,7 +388,7 @@ gigf 现学现卖
 gihh 不上
 giid 武江涛
 giig 不清
-gijg 不是 不是
+gijg 不是
 gild 不因
 giny 不小心
 giqv 不急
@@ -552,7 +552,7 @@ inyx 学习率
 iony 少数民族
 ipfa 学霸
 ipip 学学
-ipit 学海 学海
+ipit 学海
 ipwf 党伟
 iqbb 小锤子
 iqiq 泡泡
@@ -682,7 +682,7 @@ ldbb 黑太子
 lfdn 转成
 lfgf 黑球
 lfjg 田老师
-lflf 转置
+lflf 轩轩 转转 转置
 lfmm 转山
 lfwx 黑化
 lfyc 转译
@@ -800,7 +800,7 @@ pdkk 寄存器
 pfbb 寨子
 pfiw 宁超举
 pfyn 冠词
-pgty 写入 写入
+pgty 写入
 phft 视频教程
 pift 初学者
 pipq 定海神针
@@ -808,7 +808,7 @@ pmaq 宝山区
 pnmq 官网
 pnpt 安居客
 prhh 实质上
-ptkk 字符串 字符串
+ptkk 字符串
 ptyl 被称为
 pudg 初三
 pufw 补零
@@ -876,7 +876,7 @@ rahh 的项目
 rahk 撒点
 rasg 的东西
 rbov 反函数
-rbqa 报错 报错
+rbqa 报错
 rclt 的能力
 rcqi 拜巴尔
 rcrw 反推
@@ -899,7 +899,7 @@ rggo 接下来
 rgif 牛顿法
 rgjf 兵野
 rgtw 制表符
-rgvt 岳不群
+rgvt 朱再群 岳不群
 rgyt 皇庭
 rhbc 爬取
 rhef 牛腩
@@ -930,8 +930,7 @@ rnuk 的情况
 roga 的类型
 rorn 的数据
 rpdc 的密码
-rqbn 的了
-rqjg 
+rqbn 打错了 的了
 rqkb 的啊
 rqkc 的吗
 rqmq 拉勾网
@@ -962,7 +961,7 @@ rttg 的特征
 rtts 后备箱
 rtvb 挻好
 rtwf 插值
-rubc 拉取 拉取
+rubc 拉取
 rudy 的状态
 rujg 的问题
 rujs 的效果
@@ -985,7 +984,7 @@ rwwy 的命令
 rxjs 的结果
 rxsq 的结构
 ryaa 
-ryjg 的变量
+ryjg 的就是 的变量
 rywr 的文件
 saas 模式匹配
 sblh 李四
@@ -1082,7 +1081,7 @@ tdwq 我帮你
 tdyn 科大讯飞
 tdyy 第三方
 tfaq 告警
-tfbn 丢了
+tfbn 行了 丢了
 tffd 迁城
 tfgh 等下
 tfkc 行吧
@@ -1113,7 +1112,7 @@ tiov 秒数
 tiqs 秒杀
 tirq 适当的
 titj 我觉得
-tjaw 梨花
+tjaw 向日葵 梨花
 tjpq 千里之外
 tjte 复盘
 tjuj 短时间
@@ -1265,7 +1264,7 @@ uyda 北京三期
 uysu 北京西站
 uytf 闵行
 uywq 状语从句
-vbkc 好吧
+vbkc 好了吗 好吧
 veiy 退游
 vgpj 好不容易
 vikm 女演员
@@ -1294,7 +1293,7 @@ wbwu 仓位
 wcbp 信通院
 wcqe 公钥
 wcsm 堡垒机
-wdaa 分布式 分布式
+wdaa 分布式
 wdat 分布式计算
 wdbl 代克孟
 wdbn 做了
@@ -1368,7 +1367,7 @@ wvww 创始人
 wvyj 您好,请教个问题
 wwkk 优化器
 wwqk 从句
-wwtf 命令行 命令行
+wwtf 命令行
 wwvt 人妖
 wxtu 化简
 wxyl 华为
@@ -1425,7 +1424,7 @@ xwlt 给力
 xwtr 给我
 xwwq 给你
 xwyi 维京
-xxfg 弱弱地问一下
+xxfg 弱弱地问下 弱弱地问一下
 xxya 经纬度
 yagd 京基一百
 yagh 试下
@@ -1456,7 +1455,7 @@ yhrh 这些年
 yiai 京东
 yiam 刘水英
 yiau 刘水英总
-yide 就有
+yide 就没有 就有
 yidh 就在
 yidr 方尖碑
 yiid 刘波涛

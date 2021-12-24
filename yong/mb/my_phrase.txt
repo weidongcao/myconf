@@ -1,4 +1,4 @@
-arro $_->$_
+arro $_-->$_ $_->$_
 chda Christmas$_Day
 cnne Convolutional$_Neural$_Networks
 deib docker$_exec$_-it$_wedo$_bash
