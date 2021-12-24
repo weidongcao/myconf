@@ -1,7 +1,11 @@
+aaem A股
 asci ascii码
 bpmx BP网络
 bppx BP神经网络
 bpti BP算法
+hgwy hold不住
+ipff IP地址
+jarq jar包
 logi Logistic回归
 orgs Org模式
 rbfx RBF神经网络

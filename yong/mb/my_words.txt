@@ -1,7 +1,9 @@
+abix zabbix
 abot about
 abov above
 accy Accuracy
 adam Adam
+add add
 addn addition
 adds address
 adgr AdaGrad
@@ -10,6 +12,8 @@ afte after
 aftn afternoon
 aftr after
 aged aged
+agent agent
+aifl airflow
 alne AlexNet
 altt Alt
 amos amounts
@@ -19,6 +23,7 @@ anaa Anaconda
 and and
 andd Android
 apii API
+apol apollo
 apri April
 aprl April
 aran arange
@@ -41,10 +46,14 @@ behd behind
 beli beeline
 belv believe
 betn between
+bida BigData
 big big
 bill bill
+bin bin
+binn bin
 bnfn beneficence
 book book
+boot boot
 brca broadcast
 brea break
 brek break
@@ -52,10 +61,12 @@ brif brief
 bril briefly
 bugg bug
 bulk bulk
+calc calc
 calo CapsLock
 caod caowd1990
 card card
 care care
+cd cd
 cedpu procedure
 ceil ceil
 cene center
@@ -70,13 +81,16 @@ chag changing
 chas changes
 chat chart
 chia China
+chpo checkpoint
 chrs Christmas
 cime ciimc_meta
 cire CitrixReceiver
 city city
 clas Classification
+class class
 clea clear
 clel clearly
+clho clickhouse
 clos close
 clpa classpath
 cltl cultural
@@ -93,6 +107,7 @@ comc common
 come come
 coms comes
 conf conf
+config config
 conl Convolutional
 conv CONV
 copy copy
@@ -107,6 +122,7 @@ cpuu CPU
 cred credit
 cree Create
 cret credit
+cron crontab
 ctrl Ctrl
 culi inculcate
 cull culturally
@@ -116,9 +132,11 @@ curst security
 cuti current_timestamp
 cwdo caoweidong
 cycl cycle
+daba database
+daen data_engine
 dafr DataFrame
-data DataFrame
-dati datetime
+data data
+dbea DBeaver
 deal deal
 dece December
 deen Deepin
@@ -144,6 +162,12 @@ divf diversify
 divs diversifies
 dmpp DMP
 dmsc domestic
+dnss DNS
+dnsys dnsys
+dock docker
+docker docker
+doco docker-compose
+dofi Dockerfile
 dog dog
 dogs dogs
 doid dataObjectID
@@ -179,7 +203,9 @@ entg entering
 envl environmental
 envm environment
 equa equal
+error error
 essl essential
+etc etc
 evee Evernote
 evet event
 evit evident
@@ -205,7 +231,15 @@ finl finally
 finln final
 firt first
 five five
+flag flag
+flask flask
 flat flat
+flcl flowexport2clickhouse
+flco confluence
+flex flowexport
+flin flink
+flink flink
+flnk flink
 floo floor
 flor floor
 fold folder
@@ -227,6 +261,7 @@ genl generally
 getv get_variable
 giha githash
 gihu GitHub
+gili GitLib
 gite gitignore
 gitt Git
 give give
@@ -238,6 +273,7 @@ glbn globalization
 gnme Gnome
 goal goal
 goas goals
+goog google
 govm government
 govs governments
 gpuu GPU
@@ -249,6 +285,8 @@ grapg programming
 graps programs
 gray gradually
 gret great
+grfa grafana
+grpl GreenPlum
 guli guideline
 gulnr regulation
 gvim gvim
@@ -256,6 +294,7 @@ gwss WGS84
 hado Hadoop
 hadp Hadoop
 haln Halloween
+hash hash
 haue exhaust
 have have
 hbas HBase
@@ -269,6 +308,7 @@ helo Hello
 high high
 hise HiveServer2
 hive Hive
+home home
 hosp HotSpot
 hous house
 hovr hover
@@ -279,6 +319,7 @@ idea IDEA
 ielt IELTS
 inde index
 infn information
+info INFO
 inie initialize
 inil initial
 inir initializer
@@ -325,6 +366,7 @@ lect lect
 lemtm complement
 lera Learning_Rate
 less less
+level level
 levl level
 lies lies
 like like
@@ -341,7 +383,9 @@ litt least
 lnxx Linux
 load load
 locn location
+log log
 logc Logistic
+logg logging
 logs logs
 look look
 loss Loss
@@ -357,6 +401,7 @@ majt majority
 make make
 manj Manjaro
 many many
+mapg mapping
 mapr Mapreduce
 mapt Matplotlib
 marc March
@@ -365,9 +410,11 @@ marh March
 mark mark
 marr remark
 marrb remarkable
+match match
 matl material
 mavn maven
 may May
+mbts mybatis
 mean 
 mecl message_class
 meda media
@@ -377,6 +424,7 @@ mety message_type
 mewh meanwhile
 mill million
 mint minority
+mode mode
 modn modern
 modt moderate
 modu module
@@ -391,12 +439,14 @@ msgg message
 msmc mstmc
 msts mstsc
 munnm communication
-mysl Mysql
+myba mybatis
+mysl 
 name name
 naml namely
 nams name_scope
 natl national
 natn nation
+nats nats
 navt Navicat
 ndar ndarray
 neay nearly
@@ -405,10 +455,12 @@ nees needs
 neti internet
 netk Network
 next next
+ngix nginx
 nigh night
 ninn nineteen
 nlpp NLP
 nobo notebook
+nohp nohup
 noma normal
 nomce economic
 norl normal
@@ -418,12 +470,15 @@ note note
 nove November
 novni innovation
 nowe northwest
+null null
 nump NumPy
 numr number
 nvct Navicat
 objt Object
 octo October
 oero zero
+ofli offline
+omsh oh-my-zsh
 oneh one_hot
 onho one_hot
 ooke Zookeeper
@@ -471,6 +526,7 @@ phas phase
 phon phone
 phyl physical
 picu picture
+ping ping
 pipe pipe
 pkge package
 pkgs packages
@@ -481,6 +537,7 @@ pleca complementary
 plun plugin
 plur plumber
 plut plummet
+pogr postgre
 poin point
 poit point
 poma postman
@@ -489,6 +546,7 @@ porn portion
 porpn proportion
 port port
 posdc composed
+posq postgresql
 poud pound
 poun pound
 pous pounds
@@ -505,8 +563,10 @@ proo Pro
 puls puls
 pupl pupil
 pups pupils
+push push
+pych pycharm
 pycm PyCharm
-pytn Python
+pytn Python Python
 quat quality
 race race
 rank rank
@@ -521,6 +581,7 @@ redi Redis
 refc reference
 regn Regularization
 regr Regression
+regt regedit
 relu RelU
 rene ResNet
 rept report
@@ -541,13 +602,18 @@ rurl rural
 same same
 satd Saturday
 savr Saver
+sbin sbin
+sblm sublime
 scaa Scala
 scar scalar
 schg schooling
 schl school
 scic scientific
+scma ScrumMaster
 scoe scope
 scrd describe
+scrum Scrum
+seah search
 secd second
 secl secondly
 secn section
@@ -565,6 +631,7 @@ sesn Session
 shae shape
 shap shape
 shar share
+shdo ShowDoc
 shel shell
 shit shift
 shod should
@@ -587,6 +654,7 @@ slit slight
 smae smaller
 smal small
 smar smaller
+smdd SmartDDI
 socl socially
 soea southeast
 sofx Softmax
@@ -598,12 +666,16 @@ soue Source
 sout south
 sovy sovereignty
 spak Spark
+spbo Springboot
 spel specifically
 spem spacemacs
+sprg Spring
+sprt sprint
 sqll SQL
 squa square
 stad standard
 stag stage
+start start
 stat status
 stem Streaming
 step 
@@ -618,13 +690,17 @@ strm streaming
 strs strides
 stti struct_time
 sudn sudden
+sudo sudo
 sudy suddenly
 sugt suggest
 sums summarise
 sumy 
 sund Sunday
 sure sure
+suvi supervisord
+suvic supervisorctl
 sysc systemctl
+sysd systemd
 syse ecosystem
 sysm system
 tabe table
@@ -635,6 +711,7 @@ taio tailor
 take take
 takn taken
 tanh tanh
+target target
 task Task
 tchl technological
 tchy technology
@@ -669,6 +746,7 @@ tite Title
 tmpl template
 todo TODO
 togg toggle
+tomt Tomcat
 topc topic
 topp top
 town town
@@ -693,12 +771,17 @@ upts update_ts
 urbs suburb
 urbsn suburban
 use use
+user user
+usr usr
+usrr usr
 usul usual
 utff UTF-8
 utst unix_timestamp
 uuid UUID
+uuu ubuntu
 vale Value
 valu value
+var var
 vare Variable
 vars variable_scope
 vear reveal
@@ -711,12 +794,15 @@ vimm Vim
 vipd provided
 viru virtue
 vmwe Vmware
+vscd VScode
+wapo wavepoint
 wate water
 wedd Wednesday
 wedo weidongcao
 ween weekend
 weio weidongcao
 west west
+wete wedotest
 wgan WGAN
 what what
 whee where
@@ -737,7 +823,10 @@ xgbt XGBoost
 ximya approximately
 xray xray
 xshl XShell
+yaml yaml
+yamu YAMU
 year year
 yeas years
 yong yong
 youg young
+yrdns yrdns

@@ -1,6 +1,7 @@
 arro $_->$_
 chda Christmas$_Day
 cnne Convolutional$_Neural$_Networks
+deib docker$_exec$_-it$_wedo$_bash
 dime Dimensionality$_reduction
 dimo Discriminative$_Model
 fcla FC$_Layer
@@ -23,8 +24,14 @@ nyda New$_Year's$_Day
 ofth of$_the$_
 pola Pooling$_Layer
 ppro P30$_Pro
+pseg ps$_-ef$_|$_grep$_
+pyhe #$_-*-$_coding:utf-8$_-*-
 righ $_-->$_
+shda show$_databases
+shta show$_tables
+sshp ssh$_-p$_64922$_$_flowexport0
 thar there$_are
 this there$_is
 vmwo Vmware$_Workstation
 weca we$_can$_
+wite Windows$_Terminal

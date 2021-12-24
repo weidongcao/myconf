@@ -5,11 +5,16 @@ arrw -->
 barr \bar{}
 begn \begin{}
 beta \beta
+caodg caowd1990@gmail.com
+caody caowd1990@163.com
 caom caowd1990@163.com
 chii \chi
+cicd CI/CD
 coss \cos
 cwdg caowd1990@gmail.com
-date 21$mon0$day0$hour0 $yyyy-$mon0-$day0$_$hour0:$min:$sec date $yyyy年$mon月$day日
+date $yyyy-$mon0-$day0 $yyyy年$mon月$day日 $yyyy$mon0$day0
+dati 21$mon0$day0$hour0 $yyyy-$mon0-$day0$_$hour0:$min:$sec datetime
+dconf D:\Workspace\Github\myconf
 dela \Delta
 diay 【Diary】
 divv \div
@@ -17,6 +22,9 @@ endd \end{}
 fnfx f(x)
 gama \gamma
 hatt \hat{}
+hljp data@WH2o!7
+hljr super@CJYH2o!7
+ipip 192.168.
 itgs 《深入理解Java虚拟机》
 jaho ${JAVA_HOME}
 lama \lambda
@@ -24,8 +32,10 @@ mumu \mu
 muum \mu
 nopd Notepad++
 notd Notepad++
+optt /opt
 pasd 233288#Adnine
 piip \pi
+pppp 192.168.
 siga \sigma
 sinn \sin
 sqrt \sqrt{}

@@ -17902,7 +17902,7 @@ ggmm 一册
 ggmq 一岁
 ggms 一朵
 ggmw 五内
-ggmy 王丹
+ggmy 
 ggn 瑟
 ggnf 一层 开天辟地
 ggng 玙
@@ -51278,7 +51278,7 @@ ruj 撞
 rujc 拉紧
 ruje 摇头晃脑
 rujf 掸 撞
-rujg 拉量 揞
+rujg 揞
 rujq 摬
 ruk 掊
 rukd 拉顺
