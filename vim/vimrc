@@ -92,7 +92,7 @@ set foldenable              " 开始折叠
 " 不要使用vi的键盘模式，而是vim自己的
 set nocompatible
 " 语法高亮
-set syntax=on
+" set syntax=on
 " 去掉输入错误的提示声音
 set noeb
 " 在处理未保存或只读文件的时候，弹出确认
@@ -187,25 +187,39 @@ set matchtime=1
 " 不自动换行
 set nowrap
 " 设置Vim窗口打开大小
-set lines=48 columns=100
+"set lines=48 columns=100
 " 设置Vim窗口打开位置
 winpos 500 0
 " 普通模式显示输入
 set showcmd
 
+" 自动补全
+set completeopt-=menu
+set completeopt+=menuone   " Show the completions UI even with only 1 item
+set completeopt-=longest   " Don't insert the longest common text
+set completeopt-=preview   " Hide the documentation preview window
+set completeopt+=noinsert  " Don't insert text automatically
+set completeopt-=noselect  " Highlight the first completion automatically
+
+
 " ---------------------------------------------配置Vim主题及背景色----------------------------------------------
 set background=dark
 " colorscheme solarized
 colorscheme molokai
+let mapleader=" "
+
+"fast reloading of the.vimrc
+map<silent><leader>s :source $VIM/_vimrc<cr>
+
+"fast editing of.vimrc
+map<silent><leader>e :e $VIM/_vimrc<cr>
+
+
+"when .cimrc is edited ,reloadit
+
+autocmd! bufwritepost _vimrc source $VIM/_vimrc
 
 " ---------------------------------------------配置常用命令的快捷键----------------------------------------------
-" CTRL-A is Select all
-noremap <C-A> gggH<C-O>G
-inoremap <C-A> <C-O>gg<C-O>gH<C-O>G
-cnoremap <C-A> <C-C>gggH<C-O>G
-onoremap <C-A> <C-C>gggH<C-O>G
-snoremap <C-A> <C-C>gggH<C-O>G
-xnoremap <C-A> <C-C>ggVG
 
 command! Fmtjson :execute '%!python -m fmt_json'
 command! FJ :execute '%!python -m fmt_json'
@@ -227,4 +241,29 @@ function! s:VSetSearch()
   let @/ = '\V' . substitute(escape(@s, '/\'), '\n', '\\n', 'g')
   let @s = temp
 endfunction
+" ---------------------------------------------配置Leader键----------------------------------------------
+nnoremap <leader>sql  :%!sqlformat --reindent --keywords upper --identifiers lower -<CR>
+nnoremap <leader>json :%!python -m fmt_json -<CR>
+nnoremap <leader>date :%!python -m fmt_date<CR>
 
+
+"===========================Vundle环境设置=================================
+set nocompatible	"vim比vi支持更多功能，如showcmd，避免冲突和副作用
+filetype off
+set rtp+=~/.vim/bundle/Vundle.vim
+"vundle管理的插件列表必须位于vundle#begin()和vundle#end()之间
+call vundle#begin()
+
+"避免PluginClean把自己卸载了
+Plugin 'VundleVim/Vundle.vim'
+
+
+"插件列表结束
+call vundle#end()
+filetype plugin indent on
+"安装插件，先找到其在github的地址，再将配置信息加入.vimrc中的call
+"vundle#begin()和call vundle#end()之间，最后进入vim执行
+":PluginInstall 便可自动安装
+"要卸载插件，先在.vimrc中注释或删除对应插件配置信息，然后在vim中执行
+":PluginClean便可卸载对应插件
+"批量更新，只需执行:PluginUpdate
