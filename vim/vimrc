@@ -204,8 +204,11 @@ set completeopt-=noselect  " Highlight the first completion automatically
 
 " ---------------------------------------------配置Vim主题及背景色----------------------------------------------
 set background=dark
-" colorscheme solarized
-colorscheme molokai
+" 设置主题为solarized,如果主题不存在,跳过
+silent! colorscheme solarized
+silent! colorscheme atom
+" 设置主题为molokai,如果主题不存在,跳过
+silent! colorscheme molokai
 let mapleader=" "
 
 "fast reloading of the.vimrc
@@ -249,17 +252,17 @@ nnoremap <leader>date :%!python -m fmt_date<CR>
 
 "===========================Vundle环境设置=================================
 set nocompatible	"vim比vi支持更多功能，如showcmd，避免冲突和副作用
-filetype off
+"filetype off
 set rtp+=~/.vim/bundle/Vundle.vim
 "vundle管理的插件列表必须位于vundle#begin()和vundle#end()之间
-call vundle#begin()
+"call vundle#begin()
 
 "避免PluginClean把自己卸载了
-Plugin 'VundleVim/Vundle.vim'
+"Plugin 'VundleVim/Vundle.vim'
 
 
 "插件列表结束
-call vundle#end()
+"call vundle#end()
 filetype plugin indent on
 "安装插件，先找到其在github的地址，再将配置信息加入.vimrc中的call
 "vundle#begin()和call vundle#end()之间，最后进入vim执行
