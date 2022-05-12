@@ -70,6 +70,7 @@ fi
 AIRFLOW_HOME=/opt/shortcut/airflow
 if test -d ${AIRFLOW_HOME}; then
 	export AIRFLOW_HOME
+	#export PATH=${PATH}:${AIRFLOW_HOME}/bin
 fi
 
 # set emacs environment
@@ -78,3 +79,4 @@ if [[ -d ${EMACS_HOME} ]]; then
 	export EMACS_HOME
 	export PATH=${PATH}:${EMACS_HOME}/bin
 fi
+

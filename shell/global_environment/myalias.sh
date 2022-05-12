@@ -32,5 +32,10 @@ alias pag='psauxgrep() { echo "sudo ps aux | grep $1"; sudo ps aux | grep $1 }; 
 
 alias mydf="mysql --defaults-file=~/.my.conf"
 alias geny="/opt/modules/genymotion/genymotion"
+
+alias pc="proxychains"
+alias chc="clickhouse-client"
+alias clcl="clickhouse-client"
+
 #alias gl="git clone"
 #alias gh="git checkout"
