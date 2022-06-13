@@ -38,7 +38,7 @@ PYTHON_HOME=/opt/shortcut/python3
 if test -d ${PYTHON_HOME}; then
 	export PYTHON_HOME
 	export PATH=$PYTHON_HOME/bin:$PATH 
-fi
+#fi
 
 # set maven environment 
 MAVEN_HOME=/opt/shortcut/maven
@@ -85,4 +85,10 @@ ZK_HOME=/opt/shortcut/zookeeper
 if [[ -d ${ZK_HOME} ]]; then
 	export ZK_HOME
 	export PATH=${PATH}:${ZK_HOME}/bin
+fi
+
+#set docker-compose environment
+DOCKER_COMPOSE_FILE=/opt/shortcut/docker-compose
+if [[ -f  ${DOCKER_COMPOSE_FILE} ]]; then
+	export PATH=${PATH}:${DOCKER_COMPOSE_FILE}
 fi
