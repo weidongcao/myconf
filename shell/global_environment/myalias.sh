@@ -18,7 +18,11 @@ alias gd="git diff"
 alias gh="git push"
 alias gl="git pull"
 alias gc="git checkout"
-alias o="nohup nautilus . >/dev/null 2>&1 &"
+if [[ "$(hostnamectl)" =~ "ubuntu" ]]; then
+	alias o="nohup nautilus . >/dev/null 2>&1 &"
+elif [[ "$(hostnamectl)" =~ "deepin" ]]; then
+	alias o = "/usr/bin/dde-file-manager -n $(pwd)"
+fi
 
 alias doim="docker image"
 alias dops="docker ps"
@@ -36,6 +40,10 @@ alias geny="/opt/modules/genymotion/genymotion"
 alias pc="proxychains"
 alias chc="clickhouse-client"
 alias clcl="clickhouse-client"
+#alias ali="ssh wedo@caowd1990.com"
+#alias ten="ssh wedo@caowd.com"
+#alias zkc="${ZK_HOME}/bin/zkCli.sh"
+#alias zks="${ZK_HOME}/bin/zkServer.sh"
 
 #alias gl="git clone"
 #alias gh="git checkout"
