@@ -80,3 +80,9 @@ if [[ -d ${EMACS_HOME} ]]; then
 	export PATH=${PATH}:${EMACS_HOME}/bin
 fi
 
+# set Zookeeper environment
+ZK_HOME=/opt/shortcut/zookeeper
+if [[ -d ${ZK_HOME} ]]; then
+	export ZK_HOME
+	export PATH=${PATH}:${ZK_HOME}/bin
+fi
