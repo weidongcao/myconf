@@ -180,6 +180,7 @@
 {0}rqjg 的是
 {0}rrck 控制台
 {0}rubc 拉取
+{0}rvdc 扫码
 {0}rwtk 携程
 {0}rwud 推送
 {0}ryjg 的就是
