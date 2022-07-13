@@ -9,6 +9,7 @@
 {0}alps 苏宁
 {0}ampl 葛贴军
 {0}auvn 燕妮
+{0}bmyl 出库
 {0}bnkc 了吧
 {0}bntj 也得
 {0}bpkh 陆家嘴
@@ -138,6 +139,7 @@
 {0}lqxk 罗强
 {0}mbts mybatis
 {0}mysl MySQL
+{0}ntff 必填
 {0}ntgf 羽毛球
 {0}ofqg 烤鱼
 {0}oqoo 火急火燎
