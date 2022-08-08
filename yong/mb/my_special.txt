@@ -21,6 +21,9 @@ divv \div
 endd \end{}
 fnfx f(x)
 gama \gamma
+gdyde 2022.F4@12Wa00!#
+gdyds Fl2x3#qc@123
+giig .gitignore
 hatt \hat{}
 hljp data@WH2o!7
 hljr super@CJYH2o!7
@@ -35,6 +38,7 @@ notd Notepad++
 optt /opt
 pasd 233288#Adnine
 piip \pi
+poxm pom.xml
 pppp 192.168.
 siga \sigma
 sinn \sin

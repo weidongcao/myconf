@@ -13,6 +13,7 @@ aftn afternoon
 aftr after
 aged aged
 agent agent
+aico air-core
 aifl airflow
 alne AlexNet
 altt Alt
@@ -59,6 +60,7 @@ brea break
 brek break
 brif brief
 bril briefly
+btsp Bootstrap
 bugg bug
 bulk bulk
 calc calc
@@ -93,6 +95,7 @@ clel clearly
 clho clickhouse
 clos close
 clpa classpath
+clse clickhouse-server
 cltl cultural
 cluc conclude
 clucn conclusion
@@ -101,6 +104,7 @@ clur Cluster
 clus Clustering
 cmin ciimc_meta_inceptor
 cnnn CNN
+code code
 cofe coffee
 colu column
 comc common
@@ -138,6 +142,7 @@ dafr DataFrame
 data data
 dbea DBeaver
 deal deal
+debn Debian
 dece December
 deen Deepin
 deep Deep
@@ -166,6 +171,7 @@ dnss DNS
 dnsys dnsys
 dock docker
 docker docker
+docm document
 doco docker-compose
 dofi Dockerfile
 dog dog
@@ -231,6 +237,7 @@ finl finally
 finln final
 firt first
 five five
+fiwa firewalld
 flag flag
 flask flask
 flat flat
@@ -249,6 +256,7 @@ folw follow
 fory forty
 foti format_time
 fouh fourth
+fowa firewalld
 free free
 frid Friday
 friy friendly
@@ -258,6 +266,7 @@ futi from_unixtime
 gargr regarding
 garr regard
 genl generally
+geny genymotion
 getv get_variable
 giha githash
 gihu GitHub
@@ -438,6 +447,7 @@ msge message
 msgg message
 msmc mstmc
 msts mstsc
+mtdt matadata
 munnm communication
 myba mybatis
 mysl 
@@ -564,7 +574,7 @@ puls puls
 pupl pupil
 pups pupils
 push push
-pych pycharm
+pych PyCharm pycharm
 pycm PyCharm
 pytn Python
 quat quality
@@ -572,6 +582,7 @@ race race
 rank rank
 rapd rapid
 rapy rapidly
+rbmq RabbitMQ
 read read
 reah reach
 recd record
@@ -589,6 +600,7 @@ rese restore
 resl responsibility
 ress responsibilities
 reue reuse
+review review
 righ right
 rigt right
 rise rise
@@ -626,8 +638,9 @@ senp present
 sens sense
 sept September
 seqs subsequent
-serr Server
+serr server Server
 sesn Session
+seve server
 shae shape
 shap shape
 shar share
@@ -744,6 +757,7 @@ tire entire
 tist timestamp
 tite Title
 tmpl template
+tncn content
 todo TODO
 togg toggle
 tomt Tomcat
@@ -772,7 +786,7 @@ urbs suburb
 urbsn suburban
 use use
 user user
-usr usr
+usr 
 usrr usr
 usul usual
 utff UTF-8
@@ -797,6 +811,7 @@ vmwe Vmware
 vscd VScode
 wapo wavepoint
 wate water
+wdps wordpress
 wedd Wednesday
 wedo wedo weidongcao
 ween weekend
