@@ -236,7 +236,6 @@ esfh 彩超
 esll 采田
 etgg 爱答不理
 etum 服务端
-etwg 用例
 euqj 彩美旬果
 euuk 胖总
 euyg 爱音麻里亚
@@ -317,7 +316,6 @@ frwg 过拟合
 fryj 直播课
 fsny 都可以
 ftgs 过街天桥
-ftjg 都是
 ftpn 考官
 fttw 运算符
 ftut 才知道
@@ -692,7 +690,6 @@ kiit 吴学海
 kiuh 哨站
 kjqf 顺时针
 kkkk 哔哩哔哩
-klkl 嗯嗯
 klww 中国人
 kmwl 中山公园
 knka 中心路小区
@@ -844,7 +841,6 @@ pmaq 宝山区
 pnmq 官网
 pnpt 安居客
 prhh 实质上
-ptkk 字符串
 ptyl 被称为
 pudg 初三
 pufw 补零

@@ -62,7 +62,6 @@ kdwl 别有企图
 kgyb 别再这样子了
 kytr 别这么孩子气
 kysv 别这样子好不好
-kyst 别这样子行不行
 kryt 别指望我
 kuab 别装蒜了
 ktsq 别自相残杀
@@ -71,11 +70,11 @@ gikb 不啊 还没啊
 gkbn 不吃了
 giqa 不错
 gqkb 不错啊 不多啊
-gqkc 不错吧 不错吗
+gqkc 不错吧
 gqbn 不错了
 gqkt 不错哦
 grbn 不打了 不接了 不看了 不提了
-grrb 不打扰了 不打扰你了
+grrb 不打扰你了
 gnkb 不懂啊 不敢啊 不忙啊 不怕啊
 gybn 不读了
 gckb 不对啊 不能啊
@@ -98,7 +97,7 @@ gvrk 不好看啊
 gvbn 不好了 不退了 弄好了
 gvgk 不好玩啊
 gvka 不好呀 还好呀
-gvuk 不好意思啊 不好意思啦 不好意思呀
+gvuk 不好意思啦 不好意思呀
 gvub 不好意思了
 gtwb 不和你聊了 不和你说了
 gwkb 不会啊 不信啊 一会啊
