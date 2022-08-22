@@ -52891,7 +52891,7 @@ sgiv 丁当 酸涩
 sgiy 西游 杯
 sgj 醒
 sgjf 酷暑 槫
-sgjg 酌量 桓 醒
+sgjg 要不是 桓 醒
 sgjh 酣畅 醍
 sgji 棟
 sgjj 西昌
@@ -52994,7 +52994,6 @@ sgqq 本金 酬金
 sgqt 丁卯
 sgqy 酌
 sgra 配搭
-sgrb 本报
 sgrc 西瓜 醜
 sgrf 本质
 sgrh 本年
@@ -53003,7 +53002,6 @@ sgrm 配制
 sgrq 醉鬼
 sgrv 酷热
 sgs 酊
-sgsf 本票
 sgsg 酝酿
 sgsh 本相 酊
 sgsi 醥
