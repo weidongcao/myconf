@@ -3,7 +3,6 @@ abot about
 abov above
 accy Accuracy
 adam Adam
-add add
 addn addition
 adds address
 adgr AdaGrad
@@ -16,12 +15,11 @@ agent agent
 aico air-core
 aifl airflow
 alne AlexNet
-altt Alt
+alt Alt
 amos amounts
 amot amount
 amps zamplus
 anaa Anaconda
-and and
 andd Android
 apii API
 apol apollo
@@ -48,9 +46,7 @@ beli beeline
 belv believe
 betn between
 bida BigData
-big big
 bill bill
-bin bin
 binn bin
 bnfn beneficence
 book book
@@ -68,7 +64,6 @@ calo CapsLock
 caod caowd1990
 card card
 care care
-cd cd
 cedpu procedure
 ceil ceil
 cene center
@@ -110,8 +105,7 @@ colu column
 comc common
 come come
 coms comes
-conf conf
-config config
+conf conf config
 conl Convolutional
 conv CONV
 copy copy
@@ -211,7 +205,6 @@ envm environment
 equa equal
 error error
 essl essential
-etc etc
 evee Evernote
 evet event
 evit evident
@@ -225,7 +218,6 @@ febr February
 feby February
 feed feed
 feth fetch
-ff F
 fidnn confidence
 fifo firefox
 file file
@@ -239,7 +231,7 @@ firt first
 five five
 fiwa firewalld
 flag flag
-flask flask
+flsk flask
 flat flat
 flcl flowexport2clickhouse
 flco confluence
@@ -347,7 +339,6 @@ jawe JavaWeb
 jdbc JDBC
 jebr JetBrain
 jira jira
-jobb job
 join join
 joru job-runner
 json json
@@ -387,7 +378,7 @@ linu Linux
 linx Linux
 lisg listening
 lisn listen
-list 
+list list
 litt least
 lnxx Linux
 load load
@@ -422,9 +413,8 @@ marrb remarkable
 match match
 matl material
 mavn maven
-may May
 mbts mybatis
-mean 
+mean mean
 mecl message_class
 meda media
 meet meet
@@ -445,12 +435,13 @@ morl moral
 mous mouse
 msge message
 msgg message
+msql MySQL
 msmc mstmc
 msts mstsc
 mtdt matadata
 munnm communication
 myba mybatis
-mysl 
+mysl MySQL
 name name
 naml namely
 nams name_scope
@@ -497,7 +488,6 @@ open Operation
 openo cooperation
 orac Oracle
 ordr order
-orgg Org
 orgn organization
 ormo org-mode
 orst orderStep
@@ -569,7 +559,6 @@ prin print
 pris priorities
 prit print
 prof proof
-proo Pro
 puls puls
 pupl pupil
 pups pupils
@@ -632,7 +621,6 @@ secn section
 secr SecureCRT
 secy security
 seen seen
-select select
 selt select
 senp present
 sens sense
@@ -691,7 +679,7 @@ stag stage
 start start
 stat status
 stem Streaming
-step 
+step step
 stey steadily
 stic constitute
 stii instill
@@ -707,7 +695,6 @@ sudo sudo
 sudy suddenly
 sugt suggest
 sums summarise
-sumy 
 sund Sunday
 sure sure
 suvi supervisord
@@ -724,7 +711,7 @@ taio tailor
 take take
 takn taken
 tanh tanh
-target target
+tagt target
 task Task
 tchl technological
 tchy technology
@@ -739,7 +726,6 @@ tgrj t_ga_rjbxx
 than than
 thas those
 that that
-the the
 thee There
 thei their
 then then
@@ -762,13 +748,12 @@ todo TODO
 togg toggle
 tomt Tomcat
 topc topic
-topp top
 town town
 tral traditional
 tram transform
 trip triple
 trsc contrast
-true 
+true true
 trul truly
 trun truncate
 tued Tuesday
@@ -784,9 +769,7 @@ upde update
 upts update_ts
 urbs suburb
 urbsn suburban
-use use
 user user
-usr 
 usrr usr
 usul usual
 utff UTF-8
@@ -795,7 +778,6 @@ uuid UUID
 uuu ubuntu
 vale Value
 valu value
-var var
 vare Variable
 vars variable_scope
 vear reveal
@@ -804,7 +786,6 @@ vgne VGGNet
 vidp provide
 vidpd provided
 view view
-vimm Vim
 vipd provided
 viru virtue
 vmwe Vmware
@@ -832,7 +813,7 @@ wins Windows
 wisc winscp
 wism wisdom
 with with
-word 
+word word
 wrig writting
 xgbt XGBoost
 ximya approximately
