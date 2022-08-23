@@ -52828,7 +52828,7 @@ sger 醒脾
 sgey 醒脑
 sgf 酝
 sgfa 西域
-sgfb 酵 本地
+sgfb 本地 酵
 sgfc 酝
 sgfd 西城
 sgfe 松下幸之助

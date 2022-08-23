@@ -820,7 +820,7 @@ ximya approximately
 xray xray
 xshl XShell
 yaml yaml
-yamu YAMU
+yamu yamu YAMU
 year year
 yeas years
 yong yong
