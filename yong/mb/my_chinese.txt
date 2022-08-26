@@ -340,7 +340,7 @@ gagt 开麦
 galg 开国
 gaud 开头
 gauj 开区间
-gauq 武将
+gauq 武将 开奖
 gaxg 下划线
 gbgq 五险一金
 gcbf 亚马逊云
@@ -575,7 +575,7 @@ iony 少数民族
 ipfa 学霸
 ipip 学学
 ipit 学海
-ipwf 党伟
+ipwf 党伟 学会
 iqbb 小锤子
 iqiq 泡泡
 irjw 小的时候

@@ -15,7 +15,6 @@ agent agent
 aico air-core
 aifl airflow
 alne AlexNet
-alt Alt
 amos amounts
 amot amount
 amps zamplus
@@ -47,7 +46,6 @@ belv believe
 betn between
 bida BigData
 bill bill
-binn bin
 bnfn beneficence
 book book
 boot boot
@@ -57,7 +55,6 @@ brek break
 brif brief
 bril briefly
 btsp Bootstrap
-bugg bug
 bulk bulk
 calc calc
 calo CapsLock
@@ -168,7 +165,6 @@ docker docker
 docm document
 doco docker-compose
 dofi Dockerfile
-dog dog
 dogs dogs
 doid dataObjectID
 dola dollar
@@ -264,7 +260,6 @@ giha githash
 gihu GitHub
 gili GitLib
 gite gitignore
-gitt Git
 give give
 givn given
 glac glance
@@ -383,7 +378,6 @@ litt least
 lnxx Linux
 load load
 locn location
-log log
 logc Logistic
 logg logging
 logs logs

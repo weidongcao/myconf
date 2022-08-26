@@ -16753,7 +16753,6 @@ gauk 刑部
 gaul 开闸
 gaum 开端
 gaup 形旁
-gauq 开奖
 gaut 开道
 gauu 开立
 gauy 开门
@@ -25047,7 +25046,7 @@ ipvt 党群
 ipw 深
 ipwa 涳
 ipwd 湥
-ipwf 学会 浫 漥 潌
+ipwf 浫 漥 潌
 ipwg 溶合
 ipwk 溶 滘
 ipwn 浑似
