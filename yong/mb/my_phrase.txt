@@ -12,7 +12,7 @@ gcmm git$_commit$_-m$_
 gemo Generative$_Model
 giad git$_add
 gico git$_commit
-gipu git$_push
+gipu git$_pull git$_push 不治之症
 gist git$_status
 inla Input$_Layer
 inth in$_the$_

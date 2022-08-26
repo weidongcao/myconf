@@ -18270,7 +18270,6 @@ gipl 璫
 gipr 珠光宝气
 gips 不宁
 gipt 不法之徒
-gipu 不治之症
 gipv 不安
 gipw 不容
 gipy 不祥 还礼
