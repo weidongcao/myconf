@@ -21,7 +21,11 @@ alias gc="git checkout"
 if [[ "$(hostnamectl)" =~ "ubuntu" ]]; then
 	alias o="nohup nautilus . >/dev/null 2>&1 &"
 elif [[ "$(hostnamectl)" =~ "deepin" ]]; then
-	alias o = "/usr/bin/dde-file-manager -n $(pwd)"
+	alias o="/usr/bin/dde-file-manager -d ."
+fi
+
+if [[ -f "/usr/bin/dde-file-manager" ]]; then
+	alias dde="/usr/bin/dde-file-manager -d ."
 fi
 
 alias doim="docker image"
@@ -38,12 +42,15 @@ alias mydf="mysql --defaults-file=~/.my.conf"
 alias geny="/opt/modules/genymotion/genymotion"
 
 alias pc="proxychains"
+alias pcm="proxychains emacs"
 alias chc="clickhouse-client"
 alias clcl="clickhouse-client"
 alias ali="ssh wedo@caowd1990.com"
 alias ten="ssh wedo@caowd.com"
 alias zkc="${ZK_HOME}/bin/zkCli.sh"
 alias zks="${ZK_HOME}/bin/zkServer.sh"
+
+alias sp="export ALL_PROXY=socks5://127.0.0.1:1080"
 
 #alias gl="git clone"
 #alias gh="git checkout"

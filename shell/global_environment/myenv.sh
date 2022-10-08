@@ -8,6 +8,13 @@
 umask 022
 # load local environment
 
+# set Zookeeper environment
+MY_CMD_HOME=/opt/shortcut/cmd
+if [[ -d ${MY_CMD_HOME} ]]; then
+	export MY_CMD_HOME
+	export PATH=${PATH}:${MY_CMD_HOME}
+fi
+
 LOCAL_HOME=~/.local/bin
 if [[ -d ${LOCAL_HOME} ]];then
 	export PATH=${PATH}:${LOCAL_HOME}
