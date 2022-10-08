@@ -192,6 +192,7 @@ set nowrap
 winpos 500 0
 " 普通模式显示输入
 set showcmd
+au BufNewFile,BufRead *.spacemacs set filetype=lisp
 
 " 自动补全
 set completeopt-=menu
