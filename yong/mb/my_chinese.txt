@@ -935,7 +935,6 @@ rggo 接下来
 rgif 牛顿法
 rgjf 兵野
 rgpn 执政官
-rgtw 制表符
 rgvt 朱再群 岳不群
 rgyt 皇庭
 rhbc 爬取

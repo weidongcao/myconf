@@ -26377,7 +26377,7 @@ iwsv 举要
 iwsw 脊椎
 iwsy 脊柱
 iwt 涂
-iwtc 溆 潊
+iwtc 没什么 溆 潊
 iwtf 举行 塗
 iwtg 举重
 iwth 涂片
@@ -48516,7 +48516,7 @@ rgtq 白平衡
 rgtr 乒
 rgtu 手不释卷
 rgtv 兵不血刃
-rgtw 兵符
+rgtw 制表符 兵符
 rgu 挟
 rgub 手到病除
 rgud 后头
@@ -58512,7 +58512,7 @@ trir 特派
 trit 我省
 triy 物流 秼
 trjd 牡蛎
-trjg 牧师
+trjg 我是 牧师
 trjh 千年虫
 trji 犦
 trjt 物换星移
