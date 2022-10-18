@@ -17728,7 +17728,6 @@ ggqn 一顿饭
 ggqp 一不留神
 ggqq 五金 形形色色
 ggqt 璈
-ggqv 琴键
 ggqy 至理名言
 ggrc 一把
 ggrd 一排
