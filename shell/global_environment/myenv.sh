@@ -47,6 +47,7 @@ PYTHON_HOME=/opt/shortcut/python3
 if [[ -d ${PYTHON_HOME} ]]; then
 	export PYTHON_HOME
 	export PATH=$PYTHON_HOME/bin:$PATH 
+	export PYTHONPATH=$PYTHON_HOME/mypkg
 fi
 
 # set maven environment 
