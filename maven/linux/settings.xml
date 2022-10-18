@@ -131,6 +131,36 @@ under the License.
       <passphrase>optional; leave empty if not used.</passphrase>
     </server>
     -->
+    <server>
+       <id>yamu-releases</id>
+       <username>admin</username>
+       <password>YmBD2020troll</password>
+    </server>
+    <server>
+       <id>yamu-snapshots</id>
+       <username>admin</username>
+       <password>YmBD2020troll</password>
+    </server>
+    <server>
+       <id>yamu-public</id>
+       <username>admin</username>
+       <password>YmBD2020troll</password>
+    </server>
+    <server>
+       <id>air-public</id>
+       <username>development</username>
+       <password>14you24me</password>
+    </server>
+    <server>
+       <id>air-release</id>
+       <username>development</username>
+       <password>14you24me</password>
+    </server>
+    <server>
+       <id>air-snapshots</id>
+       <username>development</username>
+       <password>14you24me</password>
+    </server>
   </servers>
 
   <!-- mirrors
@@ -163,6 +193,27 @@ under the License.
       <name>aliyun maven</name>
       <url>http://maven.aliyun.com/nexus/content/groups/public/</url>
     </mirror>
+	<mirror>
+		<id>maven-default-http-blocker</id>
+		<mirrorOf>!*</mirrorOf>
+		<url>http://0.0.0.0/</url>
+	</mirror>
+	<!--
+    <mirror>
+      <id>air-public</id>
+      <mirrorOf>external:http:*</mirrorOf>
+      <name>air public</name>
+      <url>http://maven.aliyun.com/nexus/content/groups/public/</url>
+	  <blocked>true</blocked>
+    </mirror>
+    <mirror>
+      <id>yamu-public</id>
+      <mirrorOf>central</mirrorOf>
+      <name>yamu public</name>
+      <url>http://192.168.15.182:55381/repository/yamu-public</url>
+	  <blocked>false</blocked>
+    </mirror>
+	-->
   </mirrors>
 
   <!-- profiles
