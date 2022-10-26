@@ -4,6 +4,7 @@
 {0}byte byte
 {0}cccc 又又又
 {1}clho ClickHouse
+{0}dhdx 慧龙
 {0}dpim 有空没
 {0}dtkg 有符号
 {0}emmm [Emm]
@@ -43,6 +44,7 @@
 {0}sftp SFTP
 {0}sjjj 杜晶晶
 {0}story story
+{0}tgtf 行不行
 {0}tmtt [微笑]
 {0}ujkm 交易员
 {0}vjwh 那时候
