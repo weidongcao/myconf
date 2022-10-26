@@ -1256,7 +1256,6 @@ ueqn 前馈
 ufdh 半夏
 ufdp 郑云达
 uffg 壮士
-ufwh 半个
 ugaa 交互式
 ugce 并不能
 ugem 美股
