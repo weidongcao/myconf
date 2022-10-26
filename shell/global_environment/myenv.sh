@@ -110,3 +110,11 @@ if [[ -f  ${DOCKER_COMPOSE_FILE} ]]; then
 	export PATH=${PATH}:${DOCKER_COMPOSE_FILE}
 fi
 
+# set go environment
+GO_HOME=/opt/shortcut/go
+if [[ -d ${GO_HOME} ]]; then
+	export GOROOT=${GO_HOME}
+	export GOPATH=/opt/workspace/GoProject
+	export PATH=${PATH}:${GO_HOME}/bin
+fi
+
