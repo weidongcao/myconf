@@ -1,0 +1,18 @@
+[Unit]
+Description=ZooKeeper Service
+Documentation=http://zookeeper.apache.org
+Requires=network.target
+After=network.target
+
+[Service]
+Type=forking
+User=wedo
+Group=wedo
+Environment=JAVA_HOME=/opt/shortcut/jdk
+WorkingDirectory=/opt/shortcut/zookeeper
+ExecStart=/usr/bin/bash  bin/zkServer.sh start   conf/zoo.cfg
+ExecStop=/usr/bin/bash   bin/zkServer.sh stop    conf/zoo.cfg
+ExecReload=/usr/bin/bash bin/zkServer.sh restart conf/zoo.cfg
+
+[Install]
+WantedBy=default.target
