@@ -3,13 +3,17 @@
 {0}brru 阿提拉
 {0}byte byte
 {0}cccc 又又又
+{0}chin china
+{0}chne chinese
 {1}clho ClickHouse
 {0}dhdx 慧龙
+{0}dndt 万邦
 {0}dpim 有空没
 {0}dtkg 有符号
 {0}emmm [Emm]
 {0}eorn 脏数据
 {0}fcdp 云达
+{0}fnae 卖菜
 {0}fplw 过界
 {0}ftbn 老了
 {0}ftkg 无符号
@@ -31,9 +35,11 @@
 {0}nwnn [愉快]
 {0}oppo oppo
 {0}pfwa 富二代
+{0}pfyv 富士康
 {0}pgrq 写的
 {1}posq PostgreSQL
 {0}qpss QPS
+{0}qtqt 狗狗
 {0}rbmq RabbitMQ
 {0}reds Redis
 {0}rgew [捂脸]
@@ -48,6 +54,7 @@
 {0}tmtt [微笑]
 {0}ujkm 交易员
 {0}vjwh 那时候
+{0}wfng 舆情
 {0}wfts 登封造极
 {0}wgnn 僵尸
 {0}wwtt [偷笑]
