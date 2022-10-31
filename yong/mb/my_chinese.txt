@@ -296,7 +296,6 @@ fmmm 南山
 fmqs 击杀
 fnnt 专属
 fnpl 志军
-fnqg 块钱
 forn 元数据
 fpjg 填空题
 fpqb 无密钥登陆

@@ -14960,7 +14960,7 @@ fnpv 专案 迃
 fnpw 亏空
 fnpy 违心之论
 fnqc 声色
-fnqg 朝发夕至
+fnqg 块钱 朝发夕至
 fnqh 场外
 fnqi 声乐
 fnqk 声名
