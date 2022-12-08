@@ -1,5 +1,44 @@
 {
-	"font_size": 15,
+	"font_size": 11,
+	//sublime主题
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"theme": "Material-Theme-Palenight.sublime-theme",
+	// 编程字体
+	"font_face": "JetBrains Mono",
+    //底部行间距
+	"line_padding_bottom": 4,
+    //顶部行间距
+	"line_padding_top": 4,
+    //展示行号
+	"line_numbers": true,
+    // 显示代码折叠按钮
+	"fold_buttons": true,
+    //显示行号边栏
+	"gutter": true,
+    // 突出显示当前光标所在行
+	"highlight_line": true,
+    // 光标闪动的方式("smooth", "phase", "blink" and "solid")
+	"caret_style": "smooth",
+    // 默认编码形式
+	"default_encoding": "UTF-8",
+    //按Tab会根据前后环境进行代码自动匹配填补
+	"tab_completion": true,
+    //代码提示
+	"auto_complete": true,
+    //右侧缩略图边框
+	"draw_minimap_border": true,
+    // 自动换行
+	"word_wrap": false,
+    //自动移除行尾多余空格
+	"trim_trailing_white_space_on_save": true,
+	//配置显示字符编码
+	"show_encoding": true,
+	//显示空格和制表符
+	"draw_white_space": "all",
+    //制表符点4个空格
+	"tab_size": 4,
+    // 制表符转空格
+	"translate_tabs_to_spaces": true,
 	"ignored_packages":
 	[
 		"ActionScript",
@@ -35,13 +74,4 @@
 		"TCL",
 		"Vintage",
 	],
-	//sublime主题
-	"color_scheme": "Mariana.sublime-color-scheme",
-	"theme": "Default Dark.sublime-theme",
-	//配置显示字符编码
-	"show_encoding": true,
-	//显示空格和制表符
-	"draw_white_space": "all",
-	"tab_size": 4,
-	"translate_tabs_to_spaces": true
 }
