@@ -22,6 +22,7 @@
 {0}ggad 天下英雄出我辈
 {0}gifh 不走
 {0}gtiw 一入江湖岁月催
+{0}hktf 点赞
 {0}hqpy 虎狼之词
 {0}idtfr Identifier
 {0}iega 光脚不怕穿鞋
