@@ -7490,7 +7490,7 @@ ddpt 大额
 ddpu 大褂
 ddpv 大案
 ddpw 百万富翁
-ddpy 大礼 大祸
+ddpy 大神 大礼 大祸
 ddqa 大错
 ddqc 厉色
 ddqe 大解
