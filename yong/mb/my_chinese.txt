@@ -120,7 +120,6 @@ csih 邓林波
 ctgj 预处理
 ctxy 双系统
 cwwk 鸡公煲
-cwyg 难
 dbdt 在职研究生
 dbfi 布隆过滤
 dbfk 布隆过滤器
@@ -406,7 +405,6 @@ giny 不小心
 giqv 不急
 gish 还想
 giss 不清楚
-gisv 
 gitj 还得
 giwl 天河公园
 giwy 不信
@@ -487,7 +485,6 @@ gywj 平方公里
 hbov 凸函数
 hdgd 上古恶龙
 hdul 上古卷轴
-hh 目
 hhec 止盈
 hhgh 上/下
 hhgq 卡死
@@ -664,7 +661,6 @@ kceg 中牟县
 kcgy 中牟一高
 kddh 顺丰
 kdid 顺涛
-kdph 哒
 kfbw 跨越阿尔卑斯山圣伯纳隘口的拿破仑
 kfsg 吐槽
 kfsv 只需要
@@ -679,7 +675,6 @@ khgg 中环
 khhh 跟上
 khlf 跳转
 khoq 嘴炮
-khqn 跑
 khrq 中的
 khtf 跃迁
 khwq 跟你
@@ -781,7 +776,6 @@ nigq 懒省事儿
 nkev 劈腿
 nmnm 刷刷
 nmsm 刷机
-nn 快
 nnfb 慢慢地
 nnfj 快进
 nnlo 慢性胃炎
@@ -1021,7 +1015,6 @@ rwwa 迭代
 rwwy 的命令
 rxjs 的结果
 rxsq 的结构
-ryaa 
 ryjg 的就是 的变量
 rywr 的文件
 saas 模式匹配
@@ -1114,7 +1107,6 @@ tcqe 私钥
 tcut 智能音箱
 tdag 生成式模型
 tdax 生成式对抗网络
-tddc 
 tddx 徐慧龙
 tdkh 长寿路
 tdkk 生成器
@@ -1334,7 +1326,6 @@ vtpl 姬生军
 vtte 群租
 vtvt 娇娇
 vtyp 九亭
-vv 女
 vwqt 媳份儿
 waeb 代孕
 wahh 储蓄卡
