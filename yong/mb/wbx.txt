@@ -18205,7 +18205,7 @@ giiw 不渝
 giiy 不济
 gije 不明
 gijf 不时
-gijg 还是
+gijg 不是 还是
 gijh 不畅
 gijj 不日
 gijn 不暇
@@ -45869,7 +45869,6 @@ qqtp 多管
 qqtq 锒铛入狱
 qqts 金条
 qqtt 卿卿我我
-qqty 多篇
 qqu 多 爻
 qqud 多头
 qquf 多半

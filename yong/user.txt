@@ -1,4 +1,5 @@
 {0}adnn 项羽
+{0}asuf 花木兰
 {0}auyf 莘庄
 {0}base Base64
 {0}bave 陈姐
@@ -93,13 +94,16 @@
 {0}nwnn [愉快]
 {0}ooxg 炉火纯青
 {0}oppo oppo
+{0}osdg 米木石
 {0}pfwa 富二代
 {0}pfyv 富士康
 {0}pgrq 写的
+{0}plkk 军器
 {0}posq PostgreSQL
 {0}pvhj 安卓
 {0}pwkk 容器
 {0}qpss QPS
+{0}qqxy 铭纹
 {0}qtqt 狗狗
 {0}qyng 留情
 {0}rbmq RabbitMQ
@@ -108,6 +112,7 @@
 {0}rgew [捂脸]
 {0}rggc 找不到
 {0}rhge 年表
+{0}rqqq 拼多多
 {0}rqrq 撸撸
 {0}rrck 控制台
 {0}rsrs 投桃报李
@@ -147,6 +152,7 @@
 {0}wdaa 分布式
 {0}wfng 舆情
 {0}wfts 登封造极
+{0}wgfc 拿去
 {0}wgnn 僵尸
 {0}wgpe 全家
 {0}wgwf 会不会
