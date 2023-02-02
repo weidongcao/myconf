@@ -17667,7 +17667,7 @@ ggkq 一吹
 ggkw 一只
 ggl 一
 gglf 一团
-gglg 一辆 王国
+gglg 王国 一辆
 gglh 五四
 ggli 瑓
 gglk 一回
@@ -41201,7 +41201,6 @@ pfto 寒秋
 pftr 赛特
 pftt 安土重迁
 pftu 寒冬
-pfty 完稿
 pfu 守
 pfuc 完竣
 pfud 完善
@@ -58575,7 +58574,7 @@ trrh 牦牛 牪
 trrk 我操
 trrm 特制
 trro 犔
-trrp 物探
+trrp 我擦
 trrq 我的
 trrv 特招
 trrx 特指 特批
