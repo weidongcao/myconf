@@ -1,0 +1,268 @@
+" An example for a vimrc file.
+"
+" Maintainer: Bram Moolenaar <Bram@vim.org>
+" Last change: 2016 Jul 28
+"
+" To use it, copy it to
+" for Unix and OS/2: ~/.vimrc
+" for Amiga: s:.vimrc
+" for MS-DOS and Win32: $VIM\_vimrc
+" for OpenVMS: sys$login:.vimrc//
+
+" When started as "evim", evim.vim will already have done these settings.
+if v:progname =~? "evim"
+finish
+endif
+
+" Get the defaults that most users want.
+" source $VIMRUNTIME/defaults.vim
+
+if has("vms")
+set nobackup " do not keep a backup file, use versions instead
+else
+set backup " keep a backup file (restore to previous version)
+if has('persistent_undo')
+set undofile " keep an undo file (undo changes after closing)
+endif
+endif
+
+if &t_Co > 2 || has("gui_running")
+" Switch on highlighting the last used search pattern.
+set hlsearch
+
+endif
+
+" Only do this part when compiled with support for autocommands.
+if has("autocmd")
+
+" Put these in an autocmd group, so that we can delete them easily.
+augroup vimrcEx
+au!
+
+" For all text files set 'textwidth' to 78 characters.
+autocmd FileType text setlocal textwidth=78
+
+augroup END
+
+else
+
+set autoindent " always set autoindenting on
+
+endif " has("autocmd")
+
+" Add optional packages.
+"
+" The matchit plugin makes the % command work better, but it is not backwards
+" compatible.
+" if has('syntax') && has('eval')
+" packadd matchit
+" endif
+
+" Windows/Linux由于操作系统的不同导致的配置命令的不同
+" 判定当前操作系统类型)
+if(has("win32") || has("win95") || has("win64") || has("win"))
+" set guifont=Consolas:h14:cANSI
+set guifont=Source\ Code\ Pro:h14:cANSI
+" source $VIMRUNTIME/mswin.vim
+" set guifont=Monospace:h14
+"source $VIMRUNTIME/delmenu.vim
+"source $VIMRUNTIME/menu.vim
+else
+" set guifont=Consolas\ 16
+set guifont=SourceCodePro\ 18
+endif
+if &ft=="python"
+set foldmethod=indent
+else
+set foldmethod=syntax
+endif
+
+"自动保存
+set autowrite
+set ruler " 打开状态栏标尺
+set cursorline " 突出显示当前行
+set magic " 设置魔术
+"set guioptions-=T " 隐藏工具栏
+"set guioptions-=m " 隐藏菜单栏
+set foldcolumn=0
+set foldmethod=marker
+set foldlevel=3
+set foldenable " 开始折叠
+" 不要使用vi的键盘模式，而是vim自己的
+set nocompatible
+" 语法高亮
+" set syntax=on
+" 去掉输入错误的提示声音
+set noeb
+" 在处理未保存或只读文件的时候，弹出确认
+set confirm
+" 自动缩进
+set autoindent
+set cindent
+" Tab键的宽度
+set tabstop=4
+" 统一缩进为4
+set softtabstop=4
+set shiftwidth=4
+" 用空格代替制表符
+set expandtab
+" 在行和段开始处使用制表符
+set smarttab
+" 显示行号
+set number
+" 历史记录数
+set history=1000
+"禁止生成临时文件
+set nobackup
+set noswapfile
+"搜索忽略大小写
+set ignorecase
+"搜索逐字符高亮
+set hlsearch
+set incsearch
+"行内替换
+set gdefault
+"编码设置
+set enc=utf-8
+set fencs=utf-8,ucs-bom,shift-jis,gb18030,gbk,gb2312,cp936
+"语言设置
+set langmenu=zh_CN.UTF-8
+set helplang=cn
+
+if(has("win32") || has("win95") || has("win64") || has("win10"))
+source $VIMRUNTIME/delmenu.vim
+endif
+
+" ---------------------------------------------配置vim状态栏----------------------------------------------
+" 状态行显示的内容（包括文件类型和解码）
+set statusline=
+" 状态行显示文件名/如果缓冲区修改则为[+]/
+" 缓冲区只读则为[RO]/如果为帮助缓冲区显示为[Help]/
+" 如果为预览窗口则显示为[Preview]
+set statusline+=%t%m%r%h%w\
+" 显示文件格式(Windows/Linux)
+set statusline+=[FF=%{&ff}]\
+" 显示文件编码格式
+set statusline+=%{\"[fenc=\".(&fenc==\"\"?&enc:&fenc).((exists(\"+bomb\")\ &&\ &bomb)?\"+\":\"\").\"]\"}\
+" 显示光标所在位置
+set statusline+=[POS=%l,%v][%p%%]\
+" 显示时间
+set statusline+=%{strftime(\"%Y-%m-%d\ %H:%M:%S\")}
+
+" 总是显示状态行
+set laststatus=2
+" 命令行（在状态行下）的高度，默认为1，这里是2
+set cmdheight=2
+" 侦测文件类型
+filetype on
+" 载入文件类型插件
+filetype plugin on
+" 为特定文件类型载入相关缩进文件
+filetype indent on
+" 保存全局变量
+set viminfo+=!
+" 带有如下符号的单词不要被换行分割
+set iskeyword+=_,$,@,%,#,-
+" 字符间插入的像素行数目
+set linespace=0
+" 增强模式中的命令行自动完成操作
+set wildmenu
+" 使回格键（backspace）正常处理indent, eol, start等
+set backspace=2
+" 允许backspace和光标键跨越行边界
+set whichwrap+=<,>,h,l
+" 可以在buffer的任何地方使用鼠标（类似office中在工作区双击鼠标定位）
+set mouse=
+set selection=exclusive
+set selectmode=mouse,key
+" 通过使用: commands命令，告诉我们文件的哪一行被改变过
+set report=0
+" 在被分割的窗口间显示空白，便于阅读
+set fillchars=vert:\ ,stl:\ ,stlnc:\
+" 高亮显示匹配的括号
+set showmatch
+" 匹配括号高亮的时间（单位是十分之一秒）
+set matchtime=1
+" 不自动换行
+set nowrap
+" 设置Vim窗口打开大小
+"set lines=48 columns=100
+" 设置Vim窗口打开位置
+winpos 500 0
+" 普通模式显示输入
+set showcmd
+au BufNewFile,BufRead *.spacemacs set filetype=lisp
+
+" 自动补全
+set completeopt-=menu
+set completeopt+=menuone " Show the completions UI even with only 1 item
+set completeopt-=longest " Don't insert the longest common text
+set completeopt-=preview " Hide the documentation preview window
+"set completeopt+=noinsert " Don't insert text automatically
+set completeopt-=noselect " Highlight the first completion automatically
+
+" ---------------------------------------------配置Vim主题及背景色----------------------------------------------
+set background=dark
+" 设置主题为solarized,如果主题不存在,跳过
+silent! colorscheme solarized
+silent! colorscheme atom
+" 设置主题为molokai,如果主题不存在,跳过
+silent! colorscheme molokai
+let mapleader=" "
+
+"fast reloading of the.vimrc
+map<silent><leader>s :source $VIM/_vimrc<cr>
+
+"fast editing of.vimrc
+map<silent><leader>e :e $VIM/_vimrc<cr>
+
+"when .cimrc is edited ,reloadit
+
+autocmd! bufwritepost _vimrc source $VIM/_vimrc
+
+" ---------------------------------------------配置常用命令的快捷键----------------------------------------------
+
+command! Fmtjson :execute '%!python -m fmt_json'
+command! FJ :execute '%!python -m fmt_json'
+
+command! Fmtdate :execute '%!python -m fmt_date'
+command! FD :execute '%!python -m fmt_date'
+command! FS :execute '%!python -m fs'
+
+" vim插入时间
+iab xtime <c-r>=strftime("%Y-%m-%d %H:%M:%S")<cr>
+
+" 重新定义可视模式下*及#的行为为查找选中的文本
+xnoremap * :<C-u>call <SID>VSetSearch()<CR>/<C-R>=@/<CR><CR>
+xnoremap # :<C-u>call <SID>VSetSearch()<CR>?<C-R>=@/<CR><CR>
+
+function! s:VSetSearch()
+let temp = @s
+norm! gv"sy
+let @/ = '\V' . substitute(escape(@s, '/\'), '\n', '\\n', 'g')
+let @s = temp
+endfunction
+" ---------------------------------------------配置Leader键----------------------------------------------
+nnoremap <leader>sql :%!sqlformat --reindent --keywords upper --identifiers lower -<CR>
+nnoremap <leader>json :%!python -m fmt_json -<CR>
+nnoremap <leader>date :%!python -m fmt_date<CR>
+
+"===========================Vundle环境设置=================================
+set nocompatible "vim比vi支持更多功能，如showcmd，避免冲突和副作用
+"filetype off
+set rtp+=~/.vim/bundle/Vundle.vim
+"vundle管理的插件列表必须位于vundle#begin()和vundle#end()之间
+"call vundle#begin()
+
+"避免PluginClean把自己卸载了
+"Plugin 'VundleVim/Vundle.vim'
+
+"插件列表结束
+"call vundle#end()
+filetype plugin indent on
+"安装插件，先找到其在github的地址，再将配置信息加入.vimrc中的call
+"vundle#begin()和call vundle#end()之间，最后进入vim执行
+":PluginInstall 便可自动安装
+"要卸载插件，先在.vimrc中注释或删除对应插件配置信息，然后在vim中执行
+":PluginClean便可卸载对应插件
+"批量更新，只需执行:PluginUpdate
