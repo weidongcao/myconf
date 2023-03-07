@@ -118,3 +118,9 @@ if [[ -d ${GO_HOME} ]]; then
 	export PATH=${PATH}:${GO_HOME}/bin
 fi
 
+# set node npm environment
+NODE_HOME=/opt/shortcut/node
+if [[ -d ${NODE_HOME} ]]; then
+    export NODE_HOME
+    export PATH=${PATH}:${NODE_HOME}/bin
+fi
