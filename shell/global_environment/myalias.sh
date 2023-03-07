@@ -4,6 +4,11 @@ alias ll='ls $LS_OPTIONS -l --color=auto'
 alias l='ls $LS_OPTIONS -lA --color=auto'
 alias la='ls $LS_OPTIONS -alF --color=auto'
 alias cdd='cd -'
+alias tmp='cd ~/temp'
+alias sqll='cd ~/temp/sqll'
+alias shel='cd ~/temp/shell'
+alias demo='cd ~/demo'
+alias data='cd /data'
 
 
 # 命令重命名solarized
