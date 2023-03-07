@@ -102,3 +102,19 @@
     ("已取消" .     (:background "gray" :foreground "black"))
 ))
 
+(use-package org-download
+  :ensure t   ;Auto-install the package from Melpa
+  ;;:pin melpa  ;`package-archives' should already have ("melpa" . "https://melpa.org/packages/")
+  :bind ("C-M-y" . wdp)
+  :bind ("C-S-y" . org-download-screenshot)
+  :config
+    (require 'org-download)
+    ;;; org-download
+    (setq org-download-screenshot-method "flameshot gui --raw >%s")
+    ; (setq org-download-method 'directory)
+    (setq-default org-download-heading-lvl nil)
+    (setq-default org-download-image-dir "./images")
+    ;;(defun dummy-org-download-annotate-function (link) "")
+    ;;(setq org-download-annotate-function #'dummy-org-download-annotate-function)
+  )
+
