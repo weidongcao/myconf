@@ -1,0 +1,16 @@
+[Unit]
+Description=hugo Service
+Documentation=https://www.docsy.dev/docs/get-started/
+Requires=network.target
+After=network.target
+
+[Service]
+Type=simple
+User=wedo
+Group=wedo
+Environment=GO_HOME=/opt/shortcut/go
+WorkingDirectory=/opt/shortcut/docsy
+ExecStart=/usr/bin/hugo server -D -b "http://caowd.com" -p 1313 --bind "0.0.0.0" --source /opt/shortcut/docsy --log --logFile /opt/shortcut/hugo/hugo.docsy.log
+
+[Install]
+WantedBy=default.target

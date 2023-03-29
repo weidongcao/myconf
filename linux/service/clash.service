@@ -1,0 +1,15 @@
+[Unit]
+Description=clash Service
+Documentation=https://www.docsy.dev/docs/get-started/
+Requires=network.target
+After=network.target
+
+[Service]
+Type=simple
+User=wedo
+Group=bigdata
+WorkingDirectory=/opt/tools/clash 
+ExecStart=/usr/bin/clash -d /opt/tools/clash
+
+[Install]
+WantedBy=default.target

@@ -1,0 +1,15 @@
+[Unit]
+Description=hugo upload Service
+Documentation=https://www.docsy.dev/docs/get-started/
+Requires=network.target
+After=network.target
+
+[Service]
+Type=simple
+User=wedo
+Group=wedo
+WorkingDirectory=/opt/shortcut/hugo-upload
+ExecStart=bash start.sh
+
+[Install]
+WantedBy=default.target
