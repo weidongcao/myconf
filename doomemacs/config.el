@@ -23,8 +23,8 @@
 ;; See 'C-h v doom-font' for documentation and more examples of what they
 ;; accept. For example:
 ;;
-(setq doom-font (font-spec :family "JetBrains Mono" :size 16 :weight 'normal)
-      doom-variable-pitch-font (font-spec :family "JetBrains Mono" :size 16))
+(setq doom-font (font-spec :family "JetBrains Mono" :size 18 :weight 'normal)
+      doom-variable-pitch-font (font-spec :family "JetBrains Mono" :size 18))
 ;;(setq doom-font (font-spec :family "Fira Code" :size 12 :weight 'semi-light)
 ;;      doom-variable-pitch-font (font-spec :family "Fira Sans" :size 13))
 ;;
@@ -102,17 +102,20 @@
     ("已取消" .     (:background "gray" :foreground "black"))
 ))
 
+(setq org-startup-with-inline-images t)
 (use-package org-download
   :ensure t   ;Auto-install the package from Melpa
   ;;:pin melpa  ;`package-archives' should already have ("melpa" . "https://melpa.org/packages/")
   :bind ("C-M-y" . wdp)
-  :bind ("C-S-y" . org-download-screenshot)
+  :bind ("C-S-y" . org-download-clipboard)
   :config
     (require 'org-download)
     ;;; org-download
     (setq org-download-screenshot-method "flameshot gui --raw >%s")
     ; (setq org-download-method 'directory)
     (setq-default org-download-heading-lvl nil)
+    (setq-default org-download-image-org-width 400)
+    (setq-default org-download-image-html-width 400)
     (setq-default org-download-image-dir "./images")
     ;;(defun dummy-org-download-annotate-function (link) "")
     ;;(setq org-download-annotate-function #'dummy-org-download-annotate-function)
