@@ -115,9 +115,33 @@
     ; (setq org-download-method 'directory)
     (setq-default org-download-heading-lvl nil)
     (setq-default org-download-image-org-width 400)
-    (setq-default org-download-image-html-width 400)
+    ;;(setq-default org-download-image-html-width 400)
     (setq-default org-download-image-dir "./images")
     ;;(defun dummy-org-download-annotate-function (link) "")
     ;;(setq org-download-annotate-function #'dummy-org-download-annotate-function)
   )
+
+;;(setq org-startup-shrink-all-tables t)
+;;(setq org-startup--align-all-tables t)
+(add-hook 'org-mode-hook (lambda () (setq truncate-lines t)))
+
+(defun my-org-inline-css-hook (exporter)
+  "Insert custom inline css"
+  (when (eq exporter 'html)
+    (let* ((dir (ignore-errors (file-name-directory (buffer-file-name))))
+           (path (concat dir "style.css"))
+           (homestyle (or (null dir) (null (file-exists-p path))))
+           (final (if homestyle "~/.doom.d/org-style.css" path))) ;; <- set your own style file path
+     (message "final = %s" final)
+      (setq org-html-head-include-default-style nil)
+      (setq org-html-head (concat
+                           "<style type=\"text/css\">\n"
+                           "<!--/*--><![CDATA[/*><!--*/\n"
+                           (with-temp-buffer
+                             (insert-file-contents final)
+                             (buffer-string))
+                           "/*]]>*/-->\n"
+                           "</style>\n")))))
+(add-hook 'org-export-before-processing-hook 'my-org-inline-css-hook)
+
 
