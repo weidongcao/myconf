@@ -1653,7 +1653,6 @@ akgg 勤王
 akgl 勤
 akgn 惑 懃
 akgq 觐 覲
-kgr 斳
 akgt 藪
 akgv 蔞
 akgw 歏
@@ -29887,6 +29886,7 @@ kgqm 嚽
 kgqn 吃不饱
 kgqt 嗷
 kgqw 哑铃
+kgr 斳
 kgrb 呈报
 kgrf 呼天抢地
 kgrg 号兵

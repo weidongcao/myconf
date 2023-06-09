@@ -36,6 +36,7 @@ augt August
 augu August
 auju autojump
 bala bala
+base base
 basi batch_size
 befr before
 begg begining
@@ -56,6 +57,7 @@ brif brief
 bril briefly
 btsp Bootstrap
 bulk bulk
+byte byte
 calc calc
 calo CapsLock
 caod caowd1990
@@ -70,17 +72,21 @@ ceny century
 cerc concern
 cercg concerning
 cesp process
+cgpt ChatGPT
 chac characteristic
 chag changing
 chas changes
 chat chart
 chia China
+chin china
+chne chinese
 chpo checkpoint
 chrs Christmas
 cime ciimc_meta
 cire CitrixReceiver
 city city
 clas Classification
+clash clash
 class class
 clea clear
 clel clearly
@@ -95,6 +101,7 @@ clucs concludes
 clur Cluster
 clus Clustering
 cmin ciimc_meta_inceptor
+cname cname
 cnnn CNN
 code code
 cofe coffee
@@ -227,7 +234,6 @@ firt first
 five five
 fiwa firewalld
 flag flag
-flsk flask
 flat flat
 flcl flowexport2clickhouse
 flco confluence
@@ -237,6 +243,7 @@ flink flink
 flnk flink
 floo floor
 flor floor
+flsk flask
 fold folder
 folg following
 folu unfold
@@ -253,6 +260,7 @@ fumo furthermore
 futi from_unixtime
 gargr regarding
 garr regard
+gawa gateway
 genl generally
 geny genymotion
 getv get_variable
@@ -280,6 +288,7 @@ grapd programmed
 grapg programming
 graps programs
 gray gradually
+grep grep
 gret great
 grfa grafana
 grpl GreenPlum
@@ -310,8 +319,10 @@ hous house
 hovr hover
 html html
 http http
+hugo hugo
 hund hundred
 idea IDEA
+idtfr Identifier
 ielt IELTS
 inde index
 infn information
@@ -413,8 +424,10 @@ mecl message_class
 meda media
 meet meet
 menl mental
+metr MergeTree
 mety message_type
 mewh meanwhile
+mgdb MongoDB
 mill million
 mint minority
 mode mode
@@ -429,8 +442,8 @@ morl moral
 mous mouse
 msge message
 msgg message
-msql MySQL
 msmc mstmc
+msql MySQL
 msts mstsc
 mtdt matadata
 munnm communication
@@ -480,6 +493,7 @@ ooke Zookeeper
 opecn cooperation
 open Operation
 openo cooperation
+oppo oppo
 orac Oracle
 ordr order
 orgn organization
@@ -540,7 +554,7 @@ porn portion
 porpn proportion
 port port
 posdc composed
-posq postgresql
+posq PostgreSQL postgresql
 poud pound
 poun pound
 pous pounds
@@ -553,6 +567,7 @@ prin print
 pris priorities
 prit print
 prof proof
+psql psql
 puls puls
 pupl pupil
 pups pupils
@@ -560,6 +575,7 @@ push push
 pych PyCharm pycharm
 pycm PyCharm
 pytn Python
+qpss QPS
 quat quality
 race race
 rank rank
@@ -572,6 +588,7 @@ recd record
 recs recipients
 rect recipient
 redi Redis
+reds Redis
 refc reference
 regn Regularization
 regr Regression
@@ -601,6 +618,7 @@ sbin sbin
 sblm sublime
 scaa Scala
 scar scalar
+sccs SUCCESS
 schg schooling
 schl school
 scic scientific
@@ -623,6 +641,7 @@ seqs subsequent
 serr server Server
 sesn Session
 seve server
+sftp SFTP
 shae shape
 shap shape
 shar share
@@ -641,6 +660,7 @@ simy similarity
 sinc since
 sisi insist
 sixn sixteen
+skip skip
 skle sk-learn
 slct select
 slil slightly
@@ -680,6 +700,7 @@ stii instill
 stiin instillation
 stis substitute
 stom Storm
+story story
 stre street
 strm streaming
 strs strides
@@ -700,12 +721,12 @@ sysm system
 tabe table
 table table
 tacc contact
+tagt target
 taia attain
 taio tailor
 take take
 takn taken
 tanh tanh
-tagt target
 task Task
 tchl technological
 tchy technology

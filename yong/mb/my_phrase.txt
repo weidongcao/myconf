@@ -5,6 +5,7 @@ dcps docker-compose$_ps
 deib docker$_exec$_-it$_wedo$_bash
 dime Dimensionality$_reduction
 dimo Discriminative$_Model
+doem doom$_emacs
 fcla FC$_Layer
 fnfxe f(x)$_=$_
 gane Generative$_Adversarial$_Networks
