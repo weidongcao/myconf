@@ -440,7 +440,7 @@ nwnf 情何以堪
 osdg 米木石
 page 宽表
 pfgh 冠正
-plkk 军器
+plkk 军器 军品
 qgpg 鱼宝
 qqxy 铭纹
 qtma 狗贼
@@ -462,12 +462,12 @@ ueyg 毅斌
 umkk 羊肉串
 uspf 新冠
 vfwf 建伟
-wdwx 拿破仑
+wdwx 优化 拿破仑
 wfsk 舒哥
 wfts 登封造极
 wtyi 任京
 xuja 幽门螺杆菌
-xwge 维表
+xwge 维表 疑人不用
 ybxk 郭强
 ygvt 刘琼娥
 ymuw 高冷

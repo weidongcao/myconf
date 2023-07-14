@@ -212,7 +212,7 @@ fjhn 无监督学习
 fllg 无力回天
 fmgk 老同事
 fmqs 击杀
-fnnt 专属
+fnnt 专属 韧性
 forn 元数据
 fpjg 填空题
 fpqb 无密钥登陆
@@ -292,7 +292,6 @@ ghwy 不瞒你说
 giaq 天河区
 gidh 还在
 gidq 不爽
-gidy 不太
 gifc 不去
 gigf 现学现卖
 gihh 不上
@@ -464,7 +463,7 @@ jtpw 量身定做
 jtsv 最重要
 jtut 映射关系
 jufx 时间元组
-julg 电瓶车
+julg 电瓶车 照章办事
 julm 时间轴
 junw 时间戳
 jurq 最美的

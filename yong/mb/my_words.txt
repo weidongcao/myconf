@@ -90,7 +90,7 @@ clash clash
 class class
 clea clear
 clel clearly
-clho clickhouse
+clho clickhouse ClickHouse
 clos close
 clpa classpath
 clse clickhouse-server
@@ -838,6 +838,5 @@ yaml yaml
 yamu yamu YAMU
 year year
 yeas years
-yong yong
-youg young
+yong yong young
 yrdns yrdns

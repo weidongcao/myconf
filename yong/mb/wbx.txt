@@ -14944,7 +14944,6 @@ fnna 志异
 fnng 专司
 fnnl 直愣愣
 fnnn 专书
-fnnt 韧性
 fnny 专心 违心
 fnog 专业
 fnon 专断
@@ -18131,7 +18130,7 @@ gidn 不成
 gidq 一举成名
 gidr 不愿 还原 一波三折
 gidu 奀
-gidy 琐碎
+gidy 不太 琐碎
 gie 甭
 gieb 不服
 gied 还须
@@ -28804,7 +28803,6 @@ jukk 暗器
 jukq 蜕
 jukw 暗喻
 julf 暗转
-julg 照章办事
 jult 晕头转向
 juma 蜷曲
 jumk 螪
@@ -41655,7 +41653,6 @@ plj 军 軍
 pljg 军师
 plkg 军号
 plkh 军中
-plkk 军品
 pllf 军团
 pllg 军车
 pllt 军力
@@ -66127,7 +66124,6 @@ wdwq 但愿人长久
 wdwt 做作
 wdwu 俺们
 wdww 做人 估价 俠
-wdwx 优化
 wdxe 优级
 wdxk 做强
 wdy 伏
@@ -71626,7 +71622,6 @@ xwfn 纵声
 xwfy 弣 紨
 xwg 给
 xwga 綸
-xwge 疑人不用
 xwgg 絟
 xwgj 緰 繪
 xwgk 缎带 给 給
