@@ -835,7 +835,6 @@ tdwh 第三个
 tdwq 我帮你
 tdyn 科大讯飞
 tdyy 第三方
-tfaq 告警
 tfbn 行了 丢了
 tfgh 等下
 tfkc 行吧
