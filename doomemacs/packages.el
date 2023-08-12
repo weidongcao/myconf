@@ -54,3 +54,5 @@
 ;(unpin! t)
 
 (package! ox-hugo)
+;;(package! ox-latex)
+

@@ -1,0 +1,16 @@
+# -*- mode: snippet -*-
+# name: hugo_blog
+# key: <hg
+# --
+#+OPTIONS: author:nil ^:{}
+#+hugo_front_matter_format: yaml
+#+HUGO_BASE_DIR: /opt/workspace/hugo-blog/
+#+HUGO_SECTION: tech/{dir}/
+#+DATE: `(format-time-string "[%Y-%m-%d %a %H:%M]")`
+#+HUGO_CUSTOM_FRONT_MATTER: :toc true
+#+HUGO_AUTO_SET_LASTMOD: t
+#+HUGO_TAGS: $1
+#+HUGO_CATEGORIES: $2
+#+HUGO_DRAFT: false
+
+$0

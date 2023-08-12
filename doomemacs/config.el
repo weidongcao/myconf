@@ -4,6 +4,7 @@
 ;; sync' after modifying this file!
 (setq confirm-kill-emacs nil)
 (setq evil-default-state 'emacs)
+(setq  org-latex-pdf-process '("tectonic -Z shell-escape %f"))
 
 
 ;; Some functionality uses this to identify you, e.g. GPG configuration, email
@@ -131,7 +132,7 @@
     (let* ((dir (ignore-errors (file-name-directory (buffer-file-name))))
            (path (concat dir "style.css"))
            (homestyle (or (null dir) (null (file-exists-p path))))
-           (final (if homestyle "~/.doom.d/org-style.css" path))) ;; <- set your own style file path
+           (final (if homestyle "~/.config/doom/org-style.css" path))) ;; <- set your own style file path
      (message "final = %s" final)
       (setq org-html-head-include-default-style nil)
       (setq org-html-head (concat
@@ -145,3 +146,53 @@
 (add-hook 'org-export-before-processing-hook 'my-org-inline-css-hook)
 
 
+
+;; 使用xelatex，配合当前org文件最开始的配置来正常输出中文
+  ;; 这类笔记基本不可能是全英文，所以就安心用xelatex算了
+  (setq org-latex-pdf-process '("xelatex -file-line-error -interaction nonstopmode %f"
+                                "bibtex %b"
+                                "xelatex -file-line-error -interaction nonstopmode %f"
+                                "xelatex -file-line-error -interaction nonstopmode %f"))
+
+  ;; 生成PDF后清理辅助文件
+  ;; https://answer-id.com/53623039
+  (setq org-latex-logfiles-extensions
+    (quote ("lof" "lot" "tex~" "tex" "aux"
+      "idx" "log" "out" "toc" "nav"
+      "snm" "vrb" "dvi" "fdb_latexmk"
+      "blg" "brf" "fls" "entoc" "ps"
+      "spl" "bbl" "xdv")))
+
+  ;; 图片默认宽度
+  (setq org-image-actual-width '(300))
+
+  (setq org-export-with-sub-superscripts nil)
+
+  ;; 不要自动创建备份文件
+  (setq make-backup-files nil)
+
+  ;; elegantpaper.cls
+  ;; https://github.com/ElegantLaTeX/ElegantPaper/blob/master/elegantpaper.cls
+  (with-eval-after-load 'ox-latex
+  ;; http://orgmode.org/worg/org-faq.html#using-xelatex-for-pdf-export
+  ;; latexmk runs pdflatex/xelatex (whatever is specified) multiple times
+  ;; automatically to resolve the cross-references.
+  ; (setq org-latex-pdf-process '("latexmk -xelatex -quiet -shell-escape -f %f"))
+  (setq org-latex-listings t)
+  (add-to-list 'org-latex-classes
+                '("elegantpaper"
+                  "\\documentclass[lang=cn]{elegantpaper}
+                  [NO-DEFAULT-PACKAGES]
+                  [PACKAGES]
+                  [EXTRA]"
+                  ("\\section{%s}" . "\\section*{%s}")
+                  ("\\subsection{%s}" . "\\subsection*{%s}")
+                  ("\\subsubsection{%s}" . "\\subsubsection*{%s}")
+                  ("\\paragraph{%s}" . "\\paragraph*{%s}")
+                  ("\\subparagraph{%s}" . "\\subparagraph*{%s}")))
+  )
+
+(defun hello-with-universal-arg (arg)
+  "Say hello with input universal arg."
+  (interactive "p")
+  (message "Hello! universal arg = %s" arg))
