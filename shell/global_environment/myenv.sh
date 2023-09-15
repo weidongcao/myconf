@@ -15,7 +15,7 @@ if [[ -d ${MY_CMD_HOME} ]]; then
 	export PATH=${PATH}:${MY_CMD_HOME}
 fi
 
-LOCAL_HOME=~/.local/bin
+LOCAL_HOME=${HOME}/.local/bin
 if [[ -d ${LOCAL_HOME} ]];then
 	export PATH=${PATH}:${LOCAL_HOME}
 fi
@@ -97,6 +97,12 @@ if [[ -d ${EMACS_HOME} ]]; then
 	export PATH=${PATH}:${EMACS_HOME}/bin
 fi
 
+DOOM_HOME=/opt/shortcut/doom
+if [[ -d ${DOOM_HOME} ]]; then
+	export DOOM_HOME
+	export PATH=${PATH}:${DOOM_HOME}/bin
+fi
+
 # set Zookeeper environment
 ZK_HOME=/opt/shortcut/zookeeper
 if [[ -d ${ZK_HOME} ]]; then
@@ -124,3 +130,9 @@ if [[ -d ${NODE_HOME} ]]; then
     export NODE_HOME
     export PATH=${PATH}:${NODE_HOME}/bin
 fi
+# set data engine environment
+DE_HOME=/opt/shortcut/data_engine
+if [[ -d ${DE_HOME} ]]; then
+    export DE_HOME
+fi
+
