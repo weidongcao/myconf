@@ -1,0 +1,10 @@
+[Desktop Entry]
+Categories=Pycharm;
+Comment=Pycharm:The Python IDE
+Exec=sh /opt/shortcut/pycharm/bin/pycharm.sh
+GenericName=Pycharm3
+Icon=/opt/shortcut/pycharm/bin/pycharm.png
+Name=Pycharm
+Terminal=false
+Type=Application
+X-Deepin-Vendor=user-custom

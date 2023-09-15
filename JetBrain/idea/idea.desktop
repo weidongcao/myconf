@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=IDEA
+Comment=IdeaIU
+Exec=env JAVA_HOME=/opt/shortcut/jdk /opt/shortcut/idea/bin/idea.sh
+Icon=/opt/shortcut/idea/bin/idea.png
+Terminal=false
+Type=Application
+Categories=Application;
