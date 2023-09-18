@@ -1,0 +1,5 @@
+#+title: Readme
+* doom emacs配置使用说明
+刚刚安装好的时候可能会报错,原因为字体不对,需要添加对应的字段
+
+相关字体所在目录: =myconf/linux/font=
