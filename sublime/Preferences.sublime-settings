@@ -1,10 +1,10 @@
 {
-	"font_size": 11,
+	"font_size": 13,
 	//sublime主题
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
-	"theme": "Material-Theme-Palenight.sublime-theme",
+	//"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	//"theme": "Material-Theme-Palenight.sublime-theme",
 	// 编程字体
-	"font_face": "JetBrains Mono",
+	//"font_face": "JetBrains Mono",
     //底部行间距
 	"line_padding_bottom": 4,
     //顶部行间距
@@ -22,7 +22,7 @@
     // 默认编码形式
 	"default_encoding": "UTF-8",
     //按Tab会根据前后环境进行代码自动匹配填补
-	"tab_completion": true,
+	"tab_completion": false,
     //代码提示
 	"auto_complete": true,
     //右侧缩略图边框
@@ -34,7 +34,7 @@
 	//配置显示字符编码
 	"show_encoding": true,
 	//显示空格和制表符
-	"draw_white_space": "all",
+	/*"draw_white_space": "all",*/
     //制表符点4个空格
 	"tab_size": 4,
     // 制表符转空格
@@ -74,4 +74,6 @@
 		"TCL",
 		"Vintage",
 	],
+	"theme": "One Dark.sublime-theme",
+	"color_scheme": "Packages/Theme - One Dark/One Dark.tmTheme",
 }

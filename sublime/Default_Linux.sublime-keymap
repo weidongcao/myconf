@@ -1,0 +1,5 @@
+[
+	// 取消Ctrl + Space快捷键(切换输入法用)
+	{ "keys": ["ctrl+space"], "command": ""},
+	{ "keys": ["ctrl+shift+w"], "command": "toggle_setting", "args": {"setting": "word_wrap"}}
+]
