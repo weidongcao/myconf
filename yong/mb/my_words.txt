@@ -340,11 +340,12 @@ issu issue
 iter iter
 janu January
 jany January
-java Java
+java java
 jawe JavaWeb
 jdbc JDBC
 jebr JetBrain
 jira jira
+jkns Jenkins
 join join
 joru job-runner
 json json
@@ -521,6 +522,7 @@ parg parenting
 parr particular
 part parent
 pass pass
+pati parse_time
 penib indispensable
 perd period
 petc compete
@@ -555,6 +557,7 @@ porpn proportion
 port port
 posdc composed
 posq PostgreSQL postgresql
+post post
 poud pound
 poun pound
 pous pounds
