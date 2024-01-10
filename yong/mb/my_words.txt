@@ -35,6 +35,7 @@ assn Assign
 augt August
 augu August
 auju autojump
+avlt availability
 bala bala
 base base
 basi batch_size
