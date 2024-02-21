@@ -667,6 +667,7 @@ sixn sixteen
 skip skip
 skle sk-learn
 slct select
+sldb SelectDB
 slil slightly
 slip slip
 slit slight
