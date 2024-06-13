@@ -78,8 +78,14 @@ fi
 HADOOP_HOME=/opt/shortcut/hadoop
 if [[ -d ${HADOOP_HOME} ]]; then
 	export HADOOP_HOME
+    export HADOOP_MAPRED_HOME=$HADOOP_HOME
+    export HADOOP_YARN_HOME=$HADOOP_HOME
+    export HADOOP_MAPRED_HOME=$HADOOP_HOME
+    export HADOOP_COMMON_HOME=$HADOOP_HOME
+    export HADOOP_HDFS_HOME=$HADOOP_HOME
+    export YARN_HOME=$HADOOP_HOME
+    export HADOOP_CONF_DIR=$HADOOP_HOME/etc/hadoop
 	export HADOOP_PID_DIR=${HADOOP_HOME}/pids
-	export YARN_PID_DIR=${HADOOP_HOME}/pids
 	export PATH=${PATH}:${HADOOP_HOME}/bin:${HADOOP_HOME}/sbin
 fi
 
@@ -121,6 +127,9 @@ GO_HOME=/opt/shortcut/go
 if [[ -d ${GO_HOME} ]]; then
 	export GOROOT=${GO_HOME}
 	export GOPATH=/opt/workspace/GoProject
+	export GO111MODULE=on
+	#export GOPROXY=https://mirrors.aliyun.com/goproxy/,direct
+	export GOPROXY=https://goproxy.cn,direct
 	export PATH=${PATH}:${GO_HOME}/bin
 fi
 
