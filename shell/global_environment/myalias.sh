@@ -23,7 +23,7 @@ alias gd="git diff"
 alias gh="git push"
 alias gl="git pull"
 alias gc="git checkout"
-if [[ "$(hostnamectl)" =~ "ubuntu" ]]; then
+if [[ "$(hostnamectl)" =~ "buntu" ]]; then
 	alias o="nohup nautilus . >/dev/null 2>&1 &"
 elif [[ "$(hostnamectl)" =~ "deepin" ]]; then
 	alias o="/usr/bin/dde-file-manager -d ."
@@ -55,7 +55,7 @@ alias ten="ssh wedo@caowd.com"
 alias zkc="${ZK_HOME}/bin/zkCli.sh"
 alias zks="${ZK_HOME}/bin/zkServer.sh"
 
-alias sp="export ALL_PROXY=socks5://127.0.0.1:1080"
+alias sp="export ALL_PROXY=socks5://127.0.0.1:7890"
 
 #alias gl="git clone"
 #alias gh="git checkout"
