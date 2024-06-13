@@ -187,17 +187,28 @@ under the License.
       <url>http://my.repository.com/repo/path</url>
     </mirror>
      -->
+	<!--
+     -->
     <mirror>
       <id>alimaven</id>
-      <mirrorOf>central</mirrorOf>
+      <mirrorOf>*</mirrorOf>
       <name>aliyun maven</name>
-      <url>http://maven.aliyun.com/nexus/content/groups/public/</url>
+      <url>https://maven.aliyun.com/repository/central</url>
+    </mirror>
+	<!--
+    <mirror>
+      <id>yamu-public</id>
+      <mirrorOf>central</mirrorOf>
+      <name>yamu public</name>
+      <url>http://192.168.15.182:55381/repository/yamu-public</url>
+	  <blocked>false</blocked>
     </mirror>
 	<mirror>
 		<id>maven-default-http-blocker</id>
 		<mirrorOf>!*</mirrorOf>
 		<url>http://0.0.0.0/</url>
 	</mirror>
+     -->
 	<!--
     <mirror>
       <id>air-public</id>
@@ -205,13 +216,6 @@ under the License.
       <name>air public</name>
       <url>http://maven.aliyun.com/nexus/content/groups/public/</url>
 	  <blocked>true</blocked>
-    </mirror>
-    <mirror>
-      <id>yamu-public</id>
-      <mirrorOf>central</mirrorOf>
-      <name>yamu public</name>
-      <url>http://192.168.15.182:55381/repository/yamu-public</url>
-	  <blocked>false</blocked>
     </mirror>
 	-->
   </mirrors>

@@ -35,6 +35,7 @@ assn Assign
 augt August
 augu August
 auju autojump
+avlt availability
 bala bala
 base base
 basi batch_size
@@ -340,11 +341,12 @@ issu issue
 iter iter
 janu January
 jany January
-java Java
+java java
 jawe JavaWeb
 jdbc JDBC
 jebr JetBrain
 jira jira
+jkns Jenkins
 join join
 joru job-runner
 json json
@@ -521,6 +523,7 @@ parg parenting
 parr particular
 part parent
 pass pass
+pati parse_time
 penib indispensable
 perd period
 petc compete
@@ -555,6 +558,7 @@ porpn proportion
 port port
 posdc composed
 posq PostgreSQL postgresql
+post post
 poud pound
 poun pound
 pous pounds
@@ -663,6 +667,7 @@ sixn sixteen
 skip skip
 skle sk-learn
 slct select
+sldb SelectDB
 slil slightly
 slip slip
 slit slight
@@ -830,6 +835,7 @@ wism wisdom
 with with
 word word
 wrig writting
+wrsk WireShark
 xgbt XGBoost
 ximya approximately
 xray xray

@@ -5,6 +5,10 @@
 (setq confirm-kill-emacs nil)
 (setq evil-default-state 'emacs)
 (setq  org-latex-pdf-process '("tectonic -Z shell-escape %f"))
+;; 设置时间格式
+;;(setq org-time-stamp-formats '("<%Y-%m-%d %A>" . "<%Y-%m-%d %A %H:%M>"))
+(setq org-display-custom-times t
+      org-time-stamp-custom-formats '("<%Y-%m-%d %A>" . "<%Y-%m-%d %A %H:%M>"))
 
 
 ;; Some functionality uses this to identify you, e.g. GPG configuration, email

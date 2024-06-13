@@ -39,3 +39,4 @@ this there$_is
 vmwo Vmware$_Workstation
 weca we$_can$_
 wite Windows$_Terminal
+loav Load$_Average

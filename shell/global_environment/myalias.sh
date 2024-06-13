@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 alias ls='ls $LS_OPTIONS --color=auto'
 alias ll='ls $LS_OPTIONS -l --color=auto'
 alias l='ls $LS_OPTIONS -lA --color=auto'
@@ -50,12 +50,13 @@ alias pc="proxychains"
 alias pcm="proxychains emacs"
 alias chc="clickhouse-client"
 alias clcl="clickhouse-client"
-alias ali="ssh wedo@caowd1990.com"
-alias ten="ssh wedo@caowd.com"
+alias ali="ssh -p 7029 wedo@caowd1990.com"
+alias ten="ssh -p 7029 wedo@caowd.com"
 alias zkc="${ZK_HOME}/bin/zkCli.sh"
 alias zks="${ZK_HOME}/bin/zkServer.sh"
 
 alias sp="export ALL_PROXY=socks5://127.0.0.1:7890"
+alias conwin="rdesktop 192.168.4.39  -u administrator -p Admin@123 -z -a 16 -x lan -r clipboard -g 1900x1050+0+0 -r disk:share=/opt"
 
 #alias gl="git clone"
 #alias gh="git checkout"

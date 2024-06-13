@@ -14,7 +14,7 @@ cicd CI/CD
 coss \cos
 cwdg caowd1990@gmail.com
 date $yyyy-$mon0-$day0 $yyyyÄê$monÔÂ$dayÈÕ $yyyy$mon0$day0
-dati 22$mon0$day0$hour0 $yyyy-$mon0-$day0$_$hour0:$min:$sec datetime
+dati 24$mon0$day0$hour0 $yyyy-$mon0-$day0$_$hour0:$min:$sec datetime
 dconf D:\Workspace\Github\myconf
 dela \Delta
 diay ¡¾Diary¡¿
